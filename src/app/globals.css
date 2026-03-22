@@ -1,0 +1,107 @@
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Inter:wght@300;400;500;600;700&display=swap");
+
+@import "tailwindcss";
+
+@theme {
+  --color-warm-bg: #1a1612;
+  --color-warm-surface: #241f1a;
+  --color-warm-card: #2c2720;
+  --color-warm-border: #3d362e;
+  --color-warm-text: #f5efe6;
+  --color-warm-muted: #a89f94;
+  --color-warm-accent: #d4a84b;
+  --color-warm-accent-dim: #8b6914;
+  --color-warm-highlight: #e8c97a;
+
+  --font-serif: "Merriweather", "Lora", Georgia, serif;
+  --font-sans: "Inter", system-ui, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--color-warm-bg);
+  color: var(--color-warm-text);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+::selection {
+  background-color: rgba(212, 168, 75, 0.3);
+  color: var(--color-warm-highlight);
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--color-warm-bg);
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--color-warm-border);
+  border-radius: 999px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-warm-muted);
+}
+
+a {
+  color: var(--color-warm-accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--color-warm-highlight);
+}
+
+/* Warm utility classes */
+.warm-card {
+  background-color: var(--color-warm-surface);
+  border: 1px solid var(--color-warm-border);
+  border-radius: 1rem;
+}
+
+.warm-card-elevated {
+  background-color: var(--color-warm-card);
+  border: 1px solid var(--color-warm-border);
+  border-radius: 1.5rem;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.warm-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 500;
+  background-color: var(--color-warm-surface);
+  border: 1px solid var(--color-warm-border);
+  color: var(--color-warm-muted);
+}
+
+.warm-chip-accent {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.375rem;
+  padding: 0.25rem 0.75rem;
+  border-radius: 999px;
+  font-size: 0.75rem;
+  font-weight: 700;
+  background-color: rgba(212, 168, 75, 0.1);
+  border: 1px solid rgba(212, 168, 75, 0.3);
+  color: var(--color-warm-accent);
+}
