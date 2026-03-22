@@ -7,7 +7,6 @@ export const SWR_CONFIG: SWRConfiguration = {
   errorRetryCount: 3,
 };
 
-// Cloudflare Pages serves the site at this domain
-// JSON digests are published to /digests/{edition}/latest.json and /digests/index.json
-export const SITE_BASE =
-  process.env.NEXT_PUBLIC_SITE_URL ?? "https://newsroom.carafe.one";
+// Static asset base for this Pages project.
+// Digest JSON is currently published into /public/digests for static serving.
+export const SITE_BASE = process.env.NEXT_PUBLIC_SITE_URL ?? "";

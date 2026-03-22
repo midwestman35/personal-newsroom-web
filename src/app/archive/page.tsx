@@ -9,13 +9,12 @@ import { useArchiveIndex } from "@/lib/hooks";
 export default function ArchivePage() {
   const { data, error, isLoading } = useArchiveIndex();
 
-  // Flatten editions object into sorted version entries for display
   const editionEntries: Array<{
     slug: string;
     title: string;
     date: string;
     item_count: number;
-    jsonPath: string;
+    htmlPath: string;
   }> = [];
 
   if (data?.editions) {
@@ -26,7 +25,7 @@ export default function ArchivePage() {
           title: edition.title ?? slug,
           date: version.date,
           item_count: version.item_count,
-          jsonPath: version.json_path,
+          htmlPath: version.html_path,
         });
       }
     }
@@ -64,9 +63,7 @@ export default function ArchivePage() {
               <p className="text-warm-accent text-sm font-semibold mb-1">
                 Unable to load archive
               </p>
-              <p className="text-warm-muted text-xs">
-                Check back soon.
-              </p>
+              <p className="text-warm-muted text-xs">Check back soon.</p>
             </div>
           )}
 
@@ -75,7 +72,7 @@ export default function ArchivePage() {
               {editionEntries.map((entry) => (
                 <Link
                   key={`${entry.slug}-${entry.date}`}
-                  href={`/edition/${entry.slug}`}
+                  href={`/latest`}
                   className="block"
                 >
                   <Card className="bg-warm-surface border border-warm-border rounded-xl hover:border-warm-muted transition-colors duration-200">
@@ -94,9 +91,7 @@ export default function ArchivePage() {
                         </span>
                       </div>
                       <div className="flex flex-col items-end gap-0.5">
-                        <span className="warm-chip text-xs">
-                          {entry.item_count} items
-                        </span>
+                        <span className="warm-chip text-xs">{entry.item_count} items</span>
                         <span className="text-xs text-warm-muted">→</span>
                       </div>
                     </CardContent>
@@ -114,9 +109,7 @@ export default function ArchivePage() {
         </main>
 
         <footer className="warm-card mx-4 mb-4 px-4 py-3 text-center">
-          <p className="text-xs text-warm-muted">
-            Personal Newsroom Archive
-          </p>
+          <p className="text-xs text-warm-muted">Personal Newsroom Archive</p>
         </footer>
       </div>
     </>

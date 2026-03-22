@@ -1,0 +1,15 @@
+{
+  "editions": {
+    "morning-brief": {
+      "title": "Morning Brief",
+      "versions": [
+        {
+          "date": "2026-03-22",
+          "json_path": "digests/morning-brief/2026-03-22.json",
+          "html_path": "archive/2026-03-22-morning-brief.html",
+          "item_count": 15
+        }
+      ]
+    }
+  }
+}
