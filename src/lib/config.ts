@@ -7,9 +7,7 @@ export const SWR_CONFIG: SWRConfiguration = {
   errorRetryCount: 3,
 };
 
-// Cloudflare Worker endpoint (updated post-deployment)
-export const API_BASE =
-  process.env.NEXT_PUBLIC_API_BASE_URL ?? "https://newsroom.carafe.one";
-
-export const R2_PUBLIC_URL =
-  process.env.NEXT_PUBLIC_R2_PUBLIC_URL ?? "";
+// Cloudflare Pages serves the site at this domain
+// JSON digests are published to /digests/{edition}/latest.json and /digests/index.json
+export const SITE_BASE =
+  process.env.NEXT_PUBLIC_SITE_URL ?? "https://newsroom.carafe.one";

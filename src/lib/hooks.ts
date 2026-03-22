@@ -1,10 +1,18 @@
 import useSWR from "swr";
-import { SWR_CONFIG, API_BASE } from "./config";
-import type { DigestEdition } from "./types";
+import { SWR_CONFIG, SITE_BASE } from "./config";
+import type { DigestEdition, EditionIndex } from "./types";
 
 const fetcher = (url: string) => fetch(url).then((r) => r.json());
 
 export function useLatestEdition(edition: string = "morning-brief") {
-  const key = `${API_BASE}/api/digest/${edition}`;
+  const key = `${SITE_BASE}/digests/${edition}/latest.json`;
   return useSWR<DigestEdition>(key, fetcher, SWR_CONFIG);
+}
+
+export function useArchiveIndex() {
+  return useSWR<EditionIndex>(
+    `${SITE_BASE}/digests/index.json`,
+    fetcher,
+    SWR_CONFIG
+  );
 }

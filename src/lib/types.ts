@@ -9,7 +9,6 @@ export interface DigestItem {
   title: string;
   summary: string;
   url: string;
-  canonical_url?: string;
   source_name: string;
   topic: string;
   scores: DigestScores;
@@ -27,13 +26,18 @@ export interface DigestEdition {
   items: DigestItem[];
 }
 
+export interface EditionVersion {
+  date: string;
+  json_path: string;
+  html_path: string;
+  item_count: number;
+}
+
+export interface EditionEntry {
+  title: string;
+  versions: EditionVersion[];
+}
+
 export interface EditionIndex {
-  last_published: string;
-  editions: {
-    slug: string;
-    date: string;
-    title: string;
-    item_count: number;
-    archive_path: string;
-  }[];
+  editions: Record<string, EditionEntry>;
 }

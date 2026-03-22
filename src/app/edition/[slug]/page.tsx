@@ -4,7 +4,7 @@ import Head from "next/head";
 import { useParams } from "next/navigation";
 import { EditionNav } from "@/components/EditionNav";
 import { DigestCard } from "@/components/DigestCard";
-import { API_BASE } from "@/lib/config";
+import { SITE_BASE } from "@/lib/config";
 import useSWR from "swr";
 import type { DigestEdition } from "@/lib/types";
 
@@ -15,7 +15,7 @@ export default function EditionPage() {
   const slug = params?.slug as string;
 
   const { data, error, isLoading } = useSWR<DigestEdition>(
-    slug ? `${API_BASE}/api/digest/${slug}` : null,
+    slug ? `${SITE_BASE}/digests/${slug}/latest.json` : null,
     fetcher
   );
 

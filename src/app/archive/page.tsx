@@ -4,17 +4,34 @@ import Head from "next/head";
 import Link from "next/link";
 import { Card, CardContent } from "@heroui/react";
 import { EditionNav } from "@/components/EditionNav";
-import { API_BASE } from "@/lib/config";
-import useSWR from "swr";
-import type { EditionIndex } from "@/lib/types";
-
-const fetcher = (url: string) => fetch(url).then((r) => r.json());
+import { useArchiveIndex } from "@/lib/hooks";
 
 export default function ArchivePage() {
-  const { data, error, isLoading } = useSWR<EditionIndex>(
-    `${API_BASE}/api/archive`,
-    fetcher
-  );
+  const { data, error, isLoading } = useArchiveIndex();
+
+  // Flatten editions object into sorted version entries for display
+  const editionEntries: Array<{
+    slug: string;
+    title: string;
+    date: string;
+    item_count: number;
+    jsonPath: string;
+  }> = [];
+
+  if (data?.editions) {
+    for (const [slug, edition] of Object.entries(data.editions)) {
+      for (const version of edition.versions ?? []) {
+        editionEntries.push({
+          slug,
+          title: edition.title ?? slug,
+          date: version.date,
+          item_count: version.item_count,
+          jsonPath: version.json_path,
+        });
+      }
+    }
+    editionEntries.sort((a, b) => b.date.localeCompare(a.date));
+  }
 
   return (
     <>
@@ -53,22 +70,22 @@ export default function ArchivePage() {
             </div>
           )}
 
-          {data && data.editions?.length > 0 && (
+          {editionEntries.length > 0 && (
             <div className="space-y-2">
-              {data.editions.map((edition) => (
+              {editionEntries.map((entry) => (
                 <Link
-                  key={edition.slug}
-                  href={`/edition/${edition.slug}`}
+                  key={`${entry.slug}-${entry.date}`}
+                  href={`/edition/${entry.slug}`}
                   className="block"
                 >
                   <Card className="bg-warm-surface border border-warm-border rounded-xl hover:border-warm-muted transition-colors duration-200">
                     <CardContent className="px-5 py-4 flex flex-row items-center justify-between gap-3">
                       <div className="flex flex-col gap-0.5">
                         <span className="text-xs text-warm-muted uppercase tracking-wider font-semibold">
-                          {edition.title}
+                          {entry.title}
                         </span>
                         <span className="text-warm-text font-serif font-semibold">
-                          {new Date(edition.date).toLocaleDateString("en-US", {
+                          {new Date(entry.date).toLocaleDateString("en-US", {
                             weekday: "long",
                             month: "long",
                             day: "numeric",
@@ -78,7 +95,7 @@ export default function ArchivePage() {
                       </div>
                       <div className="flex flex-col items-end gap-0.5">
                         <span className="warm-chip text-xs">
-                          {edition.item_count} items
+                          {entry.item_count} items
                         </span>
                         <span className="text-xs text-warm-muted">→</span>
                       </div>
@@ -89,7 +106,7 @@ export default function ArchivePage() {
             </div>
           )}
 
-          {data && data.editions?.length === 0 && (
+          {!isLoading && !error && editionEntries.length === 0 && (
             <div className="warm-card px-6 py-8 text-center">
               <p className="text-warm-muted text-sm">No editions yet.</p>
             </div>
