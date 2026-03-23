@@ -1,15 +1,16 @@
 "use client";
 
 import Link from "next/link";
-import { Card, CardContent } from "@heroui/react";
+import { motion } from "framer-motion";
 import type { DigestItem } from "@/lib/types";
 
 interface StoryItemProps {
   item: DigestItem;
   rank: number;
+  index?: number;
 }
 
-export function StoryItem({ item, rank }: StoryItemProps) {
+export function StoryItem({ item, rank, index = 0 }: StoryItemProps) {
   const impactLevel =
     item.scores.importance >= 75
       ? "high"
@@ -17,65 +18,135 @@ export function StoryItem({ item, rank }: StoryItemProps) {
       ? "medium"
       : "low";
 
+  const impactStyles = {
+    high: {
+      className: "bg-warm-accent/12 border border-warm-accent/35 text-warm-accent",
+      label: "High Impact",
+      glow: "0 0 12px rgba(212,168,75,0.2)",
+    },
+    medium: {
+      className: "bg-warm-muted/10 border border-warm-muted/20 text-warm-muted",
+      label: "Medium",
+      glow: "none",
+    },
+    low: {
+      className: "bg-warm-border/40 border border-warm-border/60 text-warm-muted/70",
+      label: "Low",
+      glow: "none",
+    },
+  };
+
+  const impact = impactStyles[impactLevel];
+
   return (
-    <Card className="bg-warm-surface border border-warm-border rounded-2xl hover:border-warm-muted transition-colors duration-200">
-      <CardContent className="p-5 gap-3">
-        <div className="flex items-start justify-between gap-3">
-          <span className="warm-chip-accent text-xs font-bold">
-            {rank}
-          </span>
-          <span
-            className={`text-xs px-2 py-0.5 rounded-full font-medium border ${
-              impactLevel === "high"
-                ? "bg-warm-accent/15 border-warm-accent/30 text-warm-accent"
-                : impactLevel === "medium"
-                ? "bg-warm-muted/10 border-warm-muted/20 text-warm-muted"
-                : "bg-warm-border/50 border-warm-border/80 text-warm-muted"
-            }`}
+    <motion.div
+      initial={{ opacity: 0, y: 20 }}
+      animate={{ opacity: 1, y: 0 }}
+      transition={{ duration: 0.45, delay: index * 0.07, ease: "easeOut" }}
+      whileHover={{ y: -3, transition: { duration: 0.2 } }}
+      className="group"
+    >
+      <div
+        className="warm-card-elevated p-5 space-y-3.5 transition-all duration-300"
+        style={{
+          borderColor: "var(--color-warm-border)",
+          transitionProperty: "box-shadow, border-color, transform",
+        }}
+        onMouseEnter={(e) => {
+          (e.currentTarget as HTMLDivElement).style.borderColor =
+            "rgba(212,168,75,0.3)";
+          (e.currentTarget as HTMLDivElement).style.boxShadow =
+            "0 8px 40px rgba(0,0,0,0.45), 0 0 0 1px rgba(212,168,75,0.08)";
+        }}
+        onMouseLeave={(e) => {
+          (e.currentTarget as HTMLDivElement).style.borderColor =
+            "var(--color-warm-border)";
+          (e.currentTarget as HTMLDivElement).style.boxShadow =
+            "0 8px 32px rgba(0,0,0,0.35)";
+        }}
+      >
+        {/* Top row: rank badge + impact pill */}
+        <div className="flex items-center justify-between">
+          {/* Glowing rank badge */}
+          <motion.div
+            whileHover={{ scale: 1.1 }}
+            className="w-8 h-8 rounded-full flex items-center justify-center text-xs font-bold text-warm-accent flex-shrink-0"
+            style={{
+              background:
+                "radial-gradient(circle, rgba(212,168,75,0.2) 0%, rgba(212,168,75,0.06) 100%)",
+              border: "1.5px solid rgba(212,168,75,0.4)",
+              boxShadow: "0 0 14px rgba(212,168,75,0.2)",
+            }}
           >
-            {impactLevel === "high" ? "High Impact" : impactLevel === "medium" ? "Medium" : "Low"}
+            {rank}
+          </motion.div>
+
+          {/* Impact pill */}
+          <span
+            className={`text-xs px-2.5 py-0.5 rounded-full font-semibold ${impact.className}`}
+            style={{ boxShadow: impact.glow }}
+          >
+            {impact.label}
           </span>
         </div>
 
+        {/* Topic + Title */}
         <div className="space-y-1.5">
-          <p className="text-xs font-semibold uppercase tracking-wider text-warm-accent">
+          <p className="text-xs font-bold uppercase tracking-widest text-warm-accent/80">
             {item.topic}
           </p>
-          <h3 className="font-serif text-warm-text leading-snug font-semibold">
+          <h3 className="font-serif text-warm-text leading-snug font-semibold text-[0.975rem]">
             {item.title}
           </h3>
           {item.summary && (
-            <p className="text-sm text-warm-muted leading-relaxed line-clamp-2">
+            <p className="text-sm text-warm-muted leading-relaxed">
               {item.summary}
             </p>
           )}
         </div>
 
+        {/* Why it matters */}
         {item.why_it_matters && (
-          <div className="border-t border-warm-border/60 pt-3">
-            <p className="text-xs font-semibold text-warm-text mb-1">
+          <div
+            className="pl-3.5 py-1 space-y-0.5"
+            style={{
+              borderLeft: "2.5px solid rgba(212,168,75,0.55)",
+            }}
+          >
+            <p className="text-[0.65rem] font-bold uppercase tracking-widest text-warm-accent/70">
               Why it matters
             </p>
-            <p className="text-sm text-warm-muted italic leading-relaxed">
+            <p className="text-sm text-warm-muted leading-relaxed">
               {item.why_it_matters}
             </p>
           </div>
         )}
 
-        <div className="flex items-center justify-between pt-1">
-          <span className="text-xs text-warm-muted truncate max-w-[60%]">
+        {/* Footer row: source pill + read more */}
+        <div className="flex items-center justify-between pt-0.5">
+          <span className="warm-chip truncate max-w-[55%]">
             {item.source_name}
           </span>
           <Link
             href={item.url}
             target="_blank"
             rel="noopener noreferrer"
-            className="text-xs font-semibold text-warm-accent hover:text-warm-highlight transition-colors"
+            className="text-xs font-bold text-warm-accent hover:text-warm-highlight transition-colors duration-200 flex items-center gap-1"
           >
-            Read more →
+            Read more
+            <motion.span
+              animate={{ x: [0, 3, 0] }}
+              transition={{
+                duration: 1.5,
+                repeat: Infinity,
+                ease: "easeInOut",
+              }}
+            >
+              →
+            </motion.span>
           </Link>
         </div>
-      </CardContent>
-    </Card>
+      </div>
+    </motion.div>
   );
 }

@@ -25,7 +25,7 @@ const config: Config = {
       },
       fontFamily: {
         serif: ["Merriweather", "Lora", "Georgia", "serif"],
-        sans: ["Inter", "system-ui", "sans-serif"],
+        sans: ["Plus Jakarta Sans", "system-ui", "sans-serif"],
       },
     },
   },

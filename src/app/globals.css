@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Inter:wght@300;400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@0,300;0,400;0,700;1,300;1,400&family=Plus+Jakarta+Sans:wght@300;400;500;600;700;800&display=swap");
 
 @import "tailwindcss";
 
@@ -14,7 +14,7 @@
   --color-warm-highlight: #e8c97a;
 
   --font-serif: "Merriweather", "Lora", Georgia, serif;
-  --font-sans: "Inter", system-ui, sans-serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, sans-serif;
 }
 
 * {
@@ -66,19 +66,22 @@ a:hover {
   color: var(--color-warm-highlight);
 }
 
-/* Warm utility classes */
+/* ─── Card Utilities ─────────────────────────────────────────────── */
+
 .warm-card {
   background-color: var(--color-warm-surface);
   border: 1px solid var(--color-warm-border);
-  border-radius: 1rem;
+  border-radius: 1.25rem;
 }
 
 .warm-card-elevated {
   background-color: var(--color-warm-card);
   border: 1px solid var(--color-warm-border);
   border-radius: 1.5rem;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.35);
 }
+
+/* ─── Chip / Pill Utilities ──────────────────────────────────────── */
 
 .warm-chip {
   display: inline-flex;
@@ -86,9 +89,10 @@ a:hover {
   gap: 0.375rem;
   padding: 0.25rem 0.75rem;
   border-radius: 999px;
-  font-size: 0.75rem;
-  font-weight: 500;
-  background-color: var(--color-warm-surface);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  background-color: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--color-warm-border);
   color: var(--color-warm-muted);
 }
@@ -97,11 +101,48 @@ a:hover {
   display: inline-flex;
   align-items: center;
   gap: 0.375rem;
-  padding: 0.25rem 0.75rem;
+  padding: 0.25rem 0.875rem;
   border-radius: 999px;
-  font-size: 0.75rem;
+  font-size: 0.7rem;
   font-weight: 700;
-  background-color: rgba(212, 168, 75, 0.1);
-  border: 1px solid rgba(212, 168, 75, 0.3);
+  background-color: rgba(212, 168, 75, 0.12);
+  border: 1px solid rgba(212, 168, 75, 0.35);
   color: var(--color-warm-accent);
+  box-shadow: 0 0 10px rgba(212, 168, 75, 0.12);
+}
+
+/* ─── Skeleton Animation ─────────────────────────────────────────── */
+
+@keyframes skeleton-shimmer {
+  0% { opacity: 0.4; }
+  50% { opacity: 0.9; }
+  100% { opacity: 0.4; }
+}
+
+.skeleton-block {
+  background-color: var(--color-warm-border);
+  border-radius: 0.75rem;
+  animation: skeleton-shimmer 1.6s ease-in-out infinite;
+}
+
+.skeleton-block-dim {
+  background-color: rgba(61, 54, 46, 0.6);
+  border-radius: 0.75rem;
+  animation: skeleton-shimmer 1.6s ease-in-out infinite;
+  animation-delay: 0.2s;
+}
+
+/* ─── Live Pulse Dot ─────────────────────────────────────────────── */
+
+@keyframes live-pulse {
+  0%, 100% { opacity: 1; transform: scale(1); }
+  50% { opacity: 0.5; transform: scale(0.75); }
+}
+
+.live-dot {
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background-color: var(--color-warm-accent);
+  animation: live-pulse 2s ease-in-out infinite;
 }
