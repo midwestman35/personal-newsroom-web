@@ -20,9 +20,7 @@ function SkeletonLine({
       style={{
         width,
         height,
-        background:
-          "linear-gradient(90deg, #3d362e 0%, #4a4038 50%, #3d362e 100%)",
-        backgroundSize: "200% 100%",
+        background: "rgba(30,61,46,0.8)",
       }}
     />
   );
@@ -36,7 +34,7 @@ export function SkeletonCard({ index = 0 }: { index?: number }) {
       initial={{ opacity: 0, y: 16 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.4, delay: baseDelay, ease: "easeOut" }}
-      className="warm-card-elevated p-5 space-y-4"
+      className="emerald-card-elevated p-5 space-y-4"
     >
       {/* Top row: rank badge + impact pill */}
       <div className="flex items-center justify-between">
@@ -44,7 +42,7 @@ export function SkeletonCard({ index = 0 }: { index?: number }) {
           animate={{ opacity: [0.4, 0.8, 0.4] }}
           transition={{ duration: 1.6, repeat: Infinity, delay: baseDelay }}
           className="w-8 h-8 rounded-full"
-          style={{ background: "rgba(212,168,75,0.12)", border: "1px solid rgba(212,168,75,0.2)" }}
+          style={{ background: "rgba(16,185,129,0.12)", border: "1px solid rgba(16,185,129,0.2)" }}
         />
         <SkeletonLine width="5rem" height="1.25rem" delay={baseDelay + 0.1} />
       </div>
@@ -66,8 +64,8 @@ export function SkeletonCard({ index = 0 }: { index?: number }) {
 
       {/* Why it matters block */}
       <div
-        className="pl-3 space-y-1.5 border-l-2"
-        style={{ borderColor: "rgba(212,168,75,0.25)" }}
+        className="pl-3 space-y-1.5"
+        style={{ borderLeft: "2.5px solid rgba(16,185,129,0.25)" }}
       >
         <SkeletonLine width="3rem" height="0.6rem" delay={baseDelay + 0.3} />
         <SkeletonLine width="95%" height="0.65rem" delay={baseDelay + 0.35} />
@@ -89,10 +87,10 @@ export function SkeletonHero() {
       initial={{ opacity: 0 }}
       animate={{ opacity: 1 }}
       transition={{ duration: 0.5 }}
-      className="warm-card-elevated px-8 py-14 text-center space-y-5"
+      className="emerald-card-elevated px-8 py-14 text-center space-y-5"
       style={{
         background:
-          "linear-gradient(180deg, rgba(212,168,75,0.06) 0%, rgba(44,39,32,0.9) 60%)",
+          "linear-gradient(180deg, rgba(16,185,129,0.06) 0%, rgba(21,42,31,0.9) 60%)",
       }}
     >
       <div className="flex justify-center">

@@ -13,12 +13,13 @@ export function EditionNav() {
         initial={{ opacity: 0, y: -12 }}
         animate={{ opacity: 1, y: 0 }}
         transition={{ duration: 0.4, ease: "easeOut" }}
-        className="flex items-center gap-1 px-2 py-1.5 rounded-full border border-warm-border/70"
+        className="flex items-center gap-1 px-2 py-1.5 rounded-full border"
         style={{
           background:
-            "linear-gradient(135deg, rgba(36,31,26,0.85) 0%, rgba(26,22,18,0.9) 100%)",
+            "linear-gradient(135deg, rgba(15,34,25,0.85) 0%, rgba(10,26,18,0.9) 100%)",
           backdropFilter: "blur(16px)",
           WebkitBackdropFilter: "blur(16px)",
+          borderColor: "rgba(30,61,46,0.7)",
           boxShadow:
             "0 4px 24px rgba(0,0,0,0.4), inset 0 1px 0 rgba(255,255,255,0.04)",
         }}
@@ -26,7 +27,14 @@ export function EditionNav() {
         {/* Logo */}
         <Link
           href="/"
-          className="flex items-center gap-1.5 pl-2 pr-3 py-1 rounded-full hover:bg-warm-card/60 transition-colors duration-200 group"
+          className="flex items-center gap-1.5 pl-2 pr-3 py-1 rounded-full transition-colors duration-200 group"
+          style={{}}
+          onMouseEnter={(e) => {
+            (e.currentTarget as HTMLAnchorElement).style.background = "rgba(30,61,46,0.5)";
+          }}
+          onMouseLeave={(e) => {
+            (e.currentTarget as HTMLAnchorElement).style.background = "transparent";
+          }}
         >
           <motion.span
             animate={{ scale: [1, 1.15, 1] }}
@@ -35,23 +43,54 @@ export function EditionNav() {
           >
             📬
           </motion.span>
-          <span className="font-serif font-bold text-warm-text text-sm tracking-tight">
+          <span
+            className="font-bold text-sm tracking-tight"
+            style={{
+              color: "var(--color-emerald-text)",
+              fontFamily: "var(--font-sans)",
+              fontWeight: 700,
+            }}
+          >
             Newsroom
           </span>
         </Link>
 
         {/* Divider */}
-        <div className="w-px h-4 bg-warm-border mx-1" />
+        <div
+          className="w-px h-4 mx-1"
+          style={{ background: "var(--color-emerald-border)" }}
+        />
 
         {/* Nav Links */}
         <Link href="/latest">
           <motion.span
             whileTap={{ scale: 0.95 }}
-            className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 cursor-pointer ${
-              pathname === "/latest"
-                ? "bg-warm-accent/15 text-warm-accent border border-warm-accent/30"
-                : "text-warm-muted hover:text-warm-text hover:bg-warm-card/60"
-            }`}
+            className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200`}
+            style={{
+              fontFamily: "var(--font-mono)",
+              cursor: "pointer",
+              ...(pathname === "/latest"
+                ? {
+                    background: "rgba(16,185,129,0.15)",
+                    color: "var(--color-emerald-accent)",
+                    border: "1px solid rgba(16,185,129,0.3)",
+                  }
+                : {
+                    color: "var(--color-emerald-muted)",
+                  }),
+            }}
+            onMouseEnter={(e) => {
+              if (pathname !== "/latest") {
+                (e.currentTarget as HTMLSpanElement).style.background = "rgba(30,61,46,0.5)";
+                (e.currentTarget as HTMLSpanElement).style.color = "var(--color-emerald-text)";
+              }
+            }}
+            onMouseLeave={(e) => {
+              if (pathname !== "/latest") {
+                (e.currentTarget as HTMLSpanElement).style.background = "transparent";
+                (e.currentTarget as HTMLSpanElement).style.color = "var(--color-emerald-muted)";
+              }
+            }}
           >
             Latest
           </motion.span>
@@ -60,11 +99,32 @@ export function EditionNav() {
         <Link href="/archive">
           <motion.span
             whileTap={{ scale: 0.95 }}
-            className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200 cursor-pointer ${
-              pathname === "/archive"
-                ? "bg-warm-accent/15 text-warm-accent border border-warm-accent/30"
-                : "text-warm-muted hover:text-warm-text hover:bg-warm-card/60"
-            }`}
+            className={`inline-flex items-center px-3.5 py-1.5 rounded-full text-xs font-semibold transition-all duration-200`}
+            style={{
+              fontFamily: "var(--font-mono)",
+              cursor: "pointer",
+              ...(pathname === "/archive"
+                ? {
+                    background: "rgba(16,185,129,0.15)",
+                    color: "var(--color-emerald-accent)",
+                    border: "1px solid rgba(16,185,129,0.3)",
+                  }
+                : {
+                    color: "var(--color-emerald-muted)",
+                  }),
+            }}
+            onMouseEnter={(e) => {
+              if (pathname !== "/archive") {
+                (e.currentTarget as HTMLSpanElement).style.background = "rgba(30,61,46,0.5)";
+                (e.currentTarget as HTMLSpanElement).style.color = "var(--color-emerald-text)";
+              }
+            }}
+            onMouseLeave={(e) => {
+              if (pathname !== "/archive") {
+                (e.currentTarget as HTMLSpanElement).style.background = "transparent";
+                (e.currentTarget as HTMLSpanElement).style.color = "var(--color-emerald-muted)";
+              }
+            }}
           >
             Archive
           </motion.span>
