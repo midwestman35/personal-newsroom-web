@@ -42,12 +42,9 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
       initial={{ opacity: 0, y: 20 }}
       animate={{ opacity: 1, y: 0 }}
       transition={{ duration: 0.45, delay: index * 0.06, ease: "easeOut" }}
-      className="group relative pl-4 transition-all duration-300"
+      className={`group relative pl-4 transition-all duration-300${impactLevel === "high" ? " animate-border-pulse" : ""}`}
       style={{
         borderLeft: `3px solid ${border.color}`,
-        paddingTop: "4px",
-        paddingBottom: "4px",
-        animation: impactLevel === "high" ? "border-pulse 3s ease-in-out infinite" : undefined,
       }}
       onMouseEnter={(e) => {
         const el = e.currentTarget as HTMLDivElement;
@@ -57,14 +54,10 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
             : impactLevel === "medium"
             ? "rgba(52,211,153,0.7)"
             : "rgba(30,61,46,0.9)";
-        el.style.paddingTop = "6px";
-        el.style.paddingBottom = "6px";
       }}
       onMouseLeave={(e) => {
         const el = e.currentTarget as HTMLDivElement;
         el.style.borderLeftColor = border.color;
-        el.style.paddingTop = "4px";
-        el.style.paddingBottom = "4px";
       }}
     >
       {/* Headline */}
