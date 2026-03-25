@@ -90,7 +90,7 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
 
       {/* Why it matters blockquote */}
       {item.why_it_matters && (
-        <div
+        <blockquote
           className="mb-3 pl-3 py-1"
           style={{ borderLeft: "2px solid rgba(16,185,129,0.4)" }}
         >
@@ -101,7 +101,7 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
               fontFamily: "var(--font-mono)",
             }}
           >
-            Why it matters
+            WHY IT MATTERS
           </p>
           <p
             className="text-sm leading-relaxed italic"
@@ -109,7 +109,7 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
           >
             {item.why_it_matters}
           </p>
-        </div>
+        </blockquote>
       )}
 
       {/* Read more + source */}
@@ -118,7 +118,7 @@ export function NewsletterStory({ item, index }: NewsletterStoryProps) {
           href={item.url}
           target="_blank"
           rel="noopener noreferrer"
-          className="text-xs font-semibold flex items-center gap-1"
+          className="text-xs flex items-center gap-1"
           style={{
             color: "var(--color-emerald-accent)",
             fontFamily: "var(--font-mono)",
