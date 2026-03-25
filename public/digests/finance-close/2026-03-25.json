@@ -1,0 +1,235 @@
+{
+  "slug": "finance-close",
+  "date": "2026-03-25",
+  "title": "Finance Close",
+  "item_count": 15,
+  "last_published": "2026-03-25T22:01:34.305515+00:00",
+  "freshness_seconds": 300,
+  "items": [
+    {
+      "title": "Inflation target held at 4% for next five years",
+      "summary": "India has maintained its retail inflation target at 4 percent for the Reserve Bank of India. This decision ensures continuity and price stability amidst global economic uncertainties. The framework, set for another five years until March 2031, obligates the RBI to manage monetary policy for price control. This move influences government fiscal measures, aiming for overall economic stability.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/inflation-target-held-at-4-for-next-five-years/articleshow/129810690.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 83,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Finance Minister Nirmala Sitharaman moves Bill to amend IBC, speed up resolution",
+      "summary": "A new bill aims to speed up bankruptcy resolution in India. Finance Minister Nirmala Sitharaman introduced amendments to the Insolvency and Bankruptcy Code. The proposed changes focus on creditor-led, out-of-court settlements. This aims to reduce delays and improve the process for resolving insolvent companies. The bill also addresses cross-border and corporate group insolvency cases.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/finance-minister-nirmala-sitharaman-moves-bill-to-amend-ibc-speed-up-resolution/articleshow/129810621.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 83,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Bulk deals: Mukul Agrawal sells stake in microcap laggard; Societe General buys Rs 76 crore stake in Sammaan Capital",
+      "summary": "French bank Societe Generale has acquired shares worth Rs 76 crore in Sammaan Capital. This comes as Abu Dhabi's International Holding Company plans a controlling stake acquisition. In a separate transaction, investor Mukul Agrawal sold shares valued at Rs 8 crore in Siyaram Recycling Industries. Sammaan Capital's stock has shown strong performance over the past year.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/bulk-deals-mukul-agrawal-sells-stake-in-microcap-laggard-societe-general-buys-rs-76-crore-stake-in-sammaan-capital/articleshow/129806426.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "India gathers data to counter US claims of excess capacity",
+      "summary": "India is compiling detailed industry data following a US Section 301 probe into alleged excess capacity in sectors like petrochemicals and steel. The commerce ministry is gathering information on production, employment, and policy support to address US concerns about practices potentially burdening American commerce.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-gathers-data-to-counter-us-claims-of-excess-capacity/articleshow/129810831.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Lok Sabha approves Finance Bill, tax rules eased",
+      "summary": "The Lok Sabha approved the Finance Bill, introducing enhanced tax authority powers and changes to share buyback taxation, capping the surcharge at 12%. The bill also allows retrospective tax case reopening and revalidation of past orders. Finance Minister Nirmala Sitharaman stated the aim is to reduce litigation and compliance burdens for small taxpayers and businesses.",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/lok-sabha-approves-finance-bill-tax-rules-eased/articleshow/129810524.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "German Pair Takes Narrow Lead In Race For Figure Skating World Title",
+      "summary": "In a repeat of the short program standings from the 2026 Olympics, Germany’s Minerva Hase and Nikita Volodin won the Pairs short program competition at the 2026 World Championships over Georgian and Canadian pairs.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/25/german-pair-takes-narrow-lead-in-race-for-figure-skating-world-title/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Ilia Malinin Eyes Third World Title And Olympic Redemption In Prague",
+      "summary": "Ilia Malinin skates tomorrow for a shot at redemption. After a heartbreaking result at the Milan-Cortina Olympics, the \"Quad God\" chases a historic three-peat in Prague at the 2026 World Championships.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/25/ilia-malinin-eyes-third-world-title-and-olympic-redemption-in-prague/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "SpaceX Advance Guard Joins Tech Skirmishes To Protect Starlink In Iran",
+      "summary": "While battling the U.S., Iran’s rulers are also staging a war-within-a-war, aimed at destroying the SpaceX stations enabling daredevil dissidents to connect with the Web.",
+      "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/03/25/spacex-advance-guard-joins-tech-skirmishes-to-protect-starlink-in-iran/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Broomsedge Plots Golf Growth With New Partner And Keiser Ties",
+      "summary": "Baker Thompson, a longtime friend of Michael Keiser who helped oversee real estate and development at Sand Valley, has taken over at Broomsedge to lead its future growth.",
+      "url": "https://www.forbes.com/sites/erikmatuszewski/2026/03/25/broomsedge-plots-golf-growth-with-new-partner-and-keiser-ties/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "What Does Arsenal Need To Make The Next Step As A Team?",
+      "summary": "Arsenal failed to perform in the Carabao Cup final defeat to Manchester City which raised questions about Mikel Arteta's team.",
+      "url": "https://www.forbes.com/sites/grahamruthven/2026/03/25/what-does-arsenal-need-to-make-the-next-step-as-a-team/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Northern Lights Forecast: 10 States Might See The Aurora Borealis Wednesday",
+      "summary": "Observers will have stronger chances at seeing the aurora borealis the closer they are to the U.S.-Canada border, NOAA predicts.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/25/northern-lights-forecast-10-states-might-see-the-aurora-borealis-wednesday/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Retailers’ Bullish Expansion Plans Suddenly Look Risky",
+      "summary": "As gas prices surge, consumer spending tightens and retail expansion plans stall, creating new pressure across the industry.",
+      "url": "https://www.forbes.com/sites/gregpetro/2026/03/25/retailers-bullish-expansion-plans-suddenly-look-risky/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Tiger Woods’ Return Falls Short As LAGC Claims TGL Championship",
+      "summary": "Tiger Woods returned to competition, but Jupiter Links fell to Los Angeles Golf Club in the TGL Championship after a late surge that included multiple uses of the hammer.",
+      "url": "https://www.forbes.com/sites/break80/2026/03/25/tiger-woods-return-falls-short-as-lagc-claims-tgl-championship/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Iger’s Future-Forward Deals Unwinding At Internet Speed",
+      "summary": "A Disney deal with OpenAi's Sora is done, and a separate partnership with Epic's Fortnite is challenged. Former CEO Bob Iger's Internet-facing deals are unwinding fast",
+      "url": "https://www.forbes.com/sites/dbloom/2026/03/25/igers-future-forward-deals-unwinding-at-internet-speed/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The Numbers Behind The Indiana Pacers Franchise-Record Losing Streak",
+      "summary": "The Indiana Pacers set their franchise record for consecutive losses this season. What went into the poor stretch of play?",
+      "url": "https://www.forbes.com/sites/tonyeast/2026/03/25/the-numbers-behind-the-indiana-pacers-franchise-record-losing-streak/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    }
+  ]
+}
