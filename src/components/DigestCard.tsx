@@ -2,7 +2,7 @@
 
 import { motion } from "framer-motion";
 import type { DigestEdition } from "@/lib/types";
-import { StoryItem } from "./StoryItem";
+import { TopicSection } from "./TopicSection";
 
 interface DigestCardProps {
   edition: DigestEdition;
@@ -125,12 +125,76 @@ export function DigestCard({ edition }: DigestCardProps) {
         </div>
       </motion.div>
 
-      {/* ── Story List ─────────────────────────────────────────────── */}
-      <div className="space-y-3">
-        {edition.items.map((item, i) => (
-          <StoryItem key={`${item.url}-${i}`} item={item} rank={i + 1} index={i} />
-        ))}
-      </div>
+      {/* ── Newsletter Body ─────────────────────────────────────────── */}
+      <motion.div
+        initial={{ opacity: 0 }}
+        animate={{ opacity: 1 }}
+        transition={{ delay: 0.3, duration: 0.4 }}
+        className="space-y-10 px-2"
+      >
+        {(() => {
+          // Group items by topic, preserving first-seen order
+          const sections: { topic: string; items: typeof edition.items }[] = [];
+          const seen = new Map<string, number>();
+          for (const item of edition.items) {
+            const key = item.topic.toLowerCase();
+            if (seen.has(key)) {
+              sections[seen.get(key)!].items.push(item);
+            } else {
+              seen.set(key, sections.length);
+              sections.push({ topic: item.topic, items: [item] });
+            }
+          }
+
+          let globalIndex = 0;
+          return sections.map((section, sectionIdx) => {
+            const startIndex = globalIndex;
+            globalIndex += section.items.length;
+
+            return (
+              <div key={section.topic}>
+                <TopicSection
+                  topic={section.topic}
+                  items={section.items}
+                  sectionIndex={sectionIdx}
+                  globalStartIndex={startIndex}
+                />
+                {/* Section break — not after last section */}
+                {sectionIdx < sections.length - 1 && (
+                  <motion.div
+                    initial={{ opacity: 0, scaleX: 0 }}
+                    animate={{ opacity: 1, scaleX: 1 }}
+                    transition={{ delay: sectionIdx * 0.1 + 0.4, duration: 0.5 }}
+                    className="flex items-center justify-center mt-10"
+                    style={{ transformOrigin: "center" }}
+                  >
+                    <div
+                      className="h-px flex-1"
+                      style={{
+                        background:
+                          "linear-gradient(90deg, transparent, rgba(16,185,129,0.2) 40%, rgba(16,185,129,0.2) 60%, transparent)",
+                      }}
+                    />
+                    <span
+                      className="mx-3 text-xs"
+                      style={{ color: "rgba(16,185,129,0.4)" }}
+                    >
+                      ✦
+                    </span>
+                    <div
+                      className="h-px flex-1"
+                      style={{
+                        background:
+                          "linear-gradient(90deg, transparent, rgba(16,185,129,0.2) 40%, rgba(16,185,129,0.2) 60%, transparent)",
+                      }}
+                    />
+                  </motion.div>
+                )}
+              </div>
+            );
+          });
+        })()}
+      </motion.div>
 
       {/* ── Edition End Cap ─────────────────────────────────────────── */}
       <motion.div
