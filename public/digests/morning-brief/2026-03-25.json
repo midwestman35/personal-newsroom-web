@@ -2,14 +2,164 @@
   "slug": "morning-brief",
   "date": "2026-03-25",
   "title": "Morning Brief",
-  "item_count": 8,
-  "last_published": "2026-03-25T00:21:05.709759+00:00",
+  "item_count": 15,
+  "last_published": "2026-03-25T12:01:32.371245+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Dodgers’ Roki Sasaki Offers 4-Word Response On Demotion After Fans Boo",
-      "summary": "The Los Angeles Dodgers pitcher sent a clear message about moving to the minor leagues after hearing boos from fans.",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/24/dodgers-roki-sasaki-offers-4-word-response-on-demotion-after-fans-boo/",
+      "title": "3 growth juggernauts can power 24% surge in Solar Industries shares, says Elara after initiating with Buy",
+      "summary": "Elara Capital has initiated coverage on Solar Industries with a 'Buy' rating and a target price of Rs 15,450, forecasting a 24% upside. The brokerage highlights three key growth drivers: a booming defence portfolio, aggressive global expansion across 90 countries, and a robust Rs 2,200 crore capital expenditure plan.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Indian currency, Indian bonds, Indian equities are all cheap now: Manish Chokhani",
+      "summary": "Indian markets are showing signs of recovery after a significant selloff. Experts suggest that Indian currency, bonds, and equities are currently undervalued. Hopes for a ceasefire in the Middle East conflict have led to a drop in oil prices. This development is expected to calm market volatility and potentially trigger a buying spree.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-currency-indian-bonds-indian-equities-are-all-cheap-now-manish-chokhani/articleshow/129792480.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Attractive valuations emerging, but oil prices hold the key: Aman Chowhan",
+      "summary": "Indian equities are experiencing a sharp correction due to geopolitical tensions, with valuations becoming attractive. However, elevated oil prices and conflict duration pose significant risks, potentially impacting trade deficits and currencies. Investors are advised to focus on reasonably valued stocks, with engineering, EPC, and IT midcaps showing promise.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/attractive-valuations-emerging-but-oil-prices-hold-the-key-aman-chowhan/articleshow/129796065.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "As Asim Munir pitches peace, Iran stops Pakistan's cargo ship at Strait of Hormuz",
+      "summary": "Pakistan Ship stopped by Iran in Strait of Hormuz: Iran has denied passage to a Karachi-bound vessel in the Strait of Hormuz, citing protocol violations and lack of clearance. This action, coupled with a potential $2 million transit fee, signals Iran's tighter control over the crucial oil route amid escalating regional tensions.",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/as-asim-munir-pitches-peace-iran-blocks-pakistans-cargo-ship-at-strait-of-hormuz/articleshow/129796581.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Dividend alert! TVS Holdings announces Rs 86 interim dividend; check record date",
+      "summary": "TVS Holdings has declared an interim dividend of Rs 86 per equity share, amounting to a 1,720% payout on its 2.02 crore shares. The record date for this dividend is April 2, with payments expected within 30 days. The company also raised Rs 650 crore through non-convertible debentures.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-tvs-holdings-announces-rs-86-interim-dividend-check-record-date/articleshow/129797193.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Retail investors cut holdings in 14 midcaps; stocks fall up to 45% in 6 months",
+      "summary": "Retail investors trimmed stakes in 96 Nifty Midcap 150 stocks amid weak performance, with many declining sharply over six months, signaling fading confidence and cautious sentiment toward select midcap companies.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-cut-holdings-in-14-midcaps-stocks-fall-up-to-45-in-6-months/slideshow/129795148.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "RPSG shares rocket 20% after RCB's Rs 16,600 crore deal lifts valuation benchmark for IPL teams",
+      "summary": "Shares of RPSG Ventures rose sharply after United Spirits sold the Royal Challengers Bengaluru franchise for Rs 16,600 crore, setting a new benchmark for IPL valuations. The record deal has lifted sentiment for listed franchise owners, including RPSG’s Lucknow SuperGiants stake.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-shares-rocket-20-after-rcbs-rs-16600-crore-deal-amplifies-valuation-benchmark-for-ipl-teams/articleshow/129795358.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Meet The Top Contenders For The Women’s Figure Skating World Title",
+      "summary": "As Olympic champion Alysa Liu skips the 2026 World Championships, Kaori Sakamoto, Amber Glenn and Ami Nakai head to Prague to battle for gold. Meet the top contenders for the world title in women's figure skating.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/24/meet-the-top-contenders-for-the-womens-figure-skating-world-title/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Podcasting Metrics Deliver For Brands, Podcasters, And Consumers",
+      "summary": "Through advanced metrics from companies like Oxford Road, podcasting has the advantage of collecting more specific and accurate metrics to make key decisions on advertising, content, and performance.",
+      "url": "https://www.forbes.com/sites/frankracioppi/2026/03/25/podcasting-metrics-deliver-for-brands-podcasters-and-consumers/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Billionaire Kumar Birla, Blackstone To Buy Royal Challengers For $1.8 Billion Amid Bidding Frenzy For Indian Cricket Teams",
+      "summary": "Billionaire Kumar Mangalam Birla joins other high-profile owners of Indian Premier League cricket teams including Asia’s wealthiest, Mukesh Ambani, whose Reliance Industries owns the Mumbai Indians.",
+      "url": "https://www.forbes.com/sites/yessarrosendar/2026/03/25/billionaire-kumar-birla-blackstone-to-buy-royal-challengers-for-18-billion-amid-bidding-frenzy-for-indian-cricket-teams/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "A Woman’s Place Is In The Drone War: How Technology Changes Attitudes",
+      "summary": "Mariia Berlinska, Ukraine’s “Mother of Drones,” says drone technology has helped women secure their rightful place on the front lines.",
+      "url": "https://www.forbes.com/sites/davidhambling/2026/03/25/a-womans-place-is-in-the-drone-war/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
@@ -22,106 +172,61 @@
       "tags": []
     },
     {
-      "title": "Should You Buy the 3 Highest-Paying Dividend Stocks in the S&P 500?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/buy-3-highest-paying-dividend-122800795.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "Estée Lauder And Puig Brands Merger Talks Divide Street Analysts",
+      "summary": "The possible merger of a fast rising European powerhouse and an American icon has split opinions after a tricky year for the latter, hit by tariffs and with shares down.",
+      "url": "https://www.forbes.com/sites/markfaithfull/2026/03/25/este-lauder-and-puig-brands-merger-talks-divide-street-analysts/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 60,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Morgan Stanley (MS) and Cliffwater LLC Cap Withdrawals from Multibillion-dollar Private Credit Funds, Reports Bloomberg",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-ms-cliffwater-llc-124220653.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 60,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Apple Maps is adding a useful new feature for trending places",
-      "summary": "Apple today announced that ads are officially coming to Apple Maps later this summer. In addition to that, however, the company also teased a new feature that Apple Maps should’ve added years ago: Suggested Places. more…",
-      "url": "https://9to5mac.com/2026/03/24/apple-maps-is-adding-a-useful-new-feature-for-trending-places/",
-      "source_name": "9to5Mac",
-      "topic": "technology",
-      "scores": {
-        "importance": 76,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 75
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Sinner downs Michelsen to reach Miami Open quarter-finals",
-      "summary": "Jannik Sinner powered into the Miami Open quarter-finals on Tuesday, defeating unseeded American Alex Michelsen in straight sets to stay on course for the &quot;Sunshine Double&quot;.Michelsen rode out that storm but Sinner finally broke through in the 11th game before serving out for the first set.",
-      "url": "https://sports.yahoo.com/articles/sinner-downs-michelsen-reach-miami-225826931.html",
-      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
-      "topic": "sports",
-      "scores": {
-        "importance": 72,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 80
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Eagles agree to terms with Elijah Moore on a one-year deal",
-      "summary": "The Eagles are signing free agent wide receiver Elijah Moore to a one-year deal, Ian Rapoport of NFL Media reports.",
-      "url": "https://sports.yahoo.com/articles/eagles-agree-terms-elijah-moore-001358906.html",
-      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
-      "topic": "sports",
-      "scores": {
-        "importance": 70,
+        "importance": 80,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 80
+        "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Marta Suarez&#39;s morning class canceled after viral plea to TCU professor",
-      "summary": "TCU&#39;s overtime win over Washington ended Sunday at 11:17 p.m. Postgame pressers stretched past midnight. Marta Suarez had class at 8 a.m. on Monday.",
-      "url": "https://sports.yahoo.com/articles/marta-suarezs-morning-class-canceled-000855319.html",
-      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
-      "topic": "sports",
+      "title": "Cunard Raises The Stakes For Luxury Cruising—Before You Set Sail",
+      "summary": "Cunard’s exclusive partnership with celebrity fashion stylist Micaela Erlanger offers Grill Suite guests an unexpected, curated experience before the voyage begins.",
+      "url": "https://www.forbes.com/sites/paulaconway/2026/03/25/cunard-raises-the-stakes-for-luxury-cruising-before-you-set-sail/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 80,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 80
+        "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Serena Williams, Kai Trump among celebrities attending TGL Finals",
-      "summary": "TGL remained the place for celebrities and professional athletes to hang out in 2026.",
-      "url": "https://sports.yahoo.com/articles/serena-williams-kai-trump-among-000806439.html",
-      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
-      "topic": "sports",
+      "title": "How To Watch Yankees Vs. Giants MLB Opening Night 2026 On Netflix",
+      "summary": "This is everything you need to know about MLB opening night, where the Yankees face off against the Giants on Netflix.",
+      "url": "https://www.forbes.com/sites/stevebradshaw/2026/03/25/how-to-watch-yankees-vs-giants-mlb-opening-night-2026-on-netflix/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 60,
+        "importance": 80,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 80
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Blue Jays Manager Sends Daulton Varsho Contract Message",
+      "summary": "Toronto Blue Jays skipper John Schneider revealed the contract reason that he wouldn’t name the slugging outfielder as a preseason MVP.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/25/blue-jays-manager-sends-daulton-varsho-contract-message/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
