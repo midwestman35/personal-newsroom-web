@@ -3,230 +3,230 @@
   "date": "2026-03-25",
   "title": "Morning Brief",
   "item_count": 15,
-  "last_published": "2026-03-25T12:01:32.371245+00:00",
+  "last_published": "2026-03-25T12:03:52.805422+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "3 growth juggernauts can power 24% surge in Solar Industries shares, says Elara after initiating with Buy",
-      "summary": "Elara Capital has initiated coverage on Solar Industries with a 'Buy' rating and a target price of Rs 15,450, forecasting a 24% upside. The brokerage highlights three key growth drivers: a booming defence portfolio, aggressive global expansion across 90 countries, and a robust Rs 2,200 crore capital expenditure plan.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/3-growth-juggernauts-can-power-24-surge-in-solar-industries-shares-says-elara-after-initiating-with-buy/articleshow/129792606.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
+      "title": "Apple Event 2026: When is the next keynote and what to expect",
+      "summary": "Macworld Apple rarely confirms event dates far in advance, and there’s no guarantee an event will take place within its usual window. That leaves Apple fans – and anyone considering a new Apple device – wondering when the next Apple event will happen and what might be announced. Based on Apple’s long-established schedule, recent announcements, and reliable industry rumours, we can make informed estimates about when the next keynote is likely and which products could headline it. Read on for a cl",
+      "url": "https://www.macworld.com/article/672537/when-is-apples-next-event.html",
+      "source_name": "Macworld.com",
+      "topic": "technology",
       "scores": {
-        "importance": 82,
+        "importance": 79,
         "novelty": 0,
         "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "&#39;Liverpool was made for Salah and Salah was made for Liverpool&#39;",
+      "summary": "Mohamed Salah has given everything to Liverpool for the past nine years. It has been an absolutely joy to watch him take to the pitch and wear the famous red shirt of Liverpool. It is like Liverpool was made for him and he was made for Liverpool - and ultimately it created a perfect storm.",
+      "url": "https://sports.yahoo.com/articles/liverpool-made-salah-salah-made-112709225.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 72,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Third time lucky! Cambuur win promotion back to the Eredivisie",
+      "summary": "Cambuur will be competing in the Eredivisie again next season. The side confirmed their return to the top flight of Dutch football with a 4-2 victory over FC Emmen. It had been a matter of when not if...",
+      "url": "https://sports.yahoo.com/articles/third-time-lucky-cambuur-win-115500338.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Inter prepared to make Roma’s Kone the club’s most expensive signing in 6 years",
+      "summary": "Reports in Italy claim that Inter are stepping up in their pursuit of Roma midfielder Manu Kone and that the Nerazzurri are prepared to make the Frenchman the club’s most expensive signing in six ye...",
+      "url": "https://sports.yahoo.com/articles/inter-prepared-roma-kone-club-115500818.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Report – Inter Milan Ready To Splash Out €40M To Sign Roma Midfielder In The Summer",
+      "summary": "Serie A giants Inter Milan are reportedly ready to spend big this summer to complete the signing of Roma midfielder Manu Kone.According to Gazzetta dello Sport via FCInter1908, the Nerazzurri have alr...",
+      "url": "https://sports.yahoo.com/articles/report-inter-milan-ready-splash-115500311.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Chelsea hold firm stance on Liam Rosenior&#8217;s future after recent struggles",
+      "summary": "Chelsea back Rosenior despite pressure as Champions League race intensifiesChelsea hierarchy show faith in RoseniorChelsea’s internal calm stands in contrast to the rising noise around Stamford Brid...",
+      "url": "https://sports.yahoo.com/articles/chelsea-hold-firm-stance-liam-115000454.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Dow Jones Futures Rise, Oil Prices Tumble On Cautious Hopes For Iran Peace Deal",
+      "summary": "",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-oil-prices-trump-iran-talking-sense/?src=A00220&yptr=yahoo",
+      "source_name": "Yahoo Finance",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 0,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Indian currency, Indian bonds, Indian equities are all cheap now: Manish Chokhani",
-      "summary": "Indian markets are showing signs of recovery after a significant selloff. Experts suggest that Indian currency, bonds, and equities are currently undervalued. Hopes for a ceasefire in the Middle East conflict have led to a drop in oil prices. This development is expected to calm market volatility and potentially trigger a buying spree.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/indian-currency-indian-bonds-indian-equities-are-all-cheap-now-manish-chokhani/articleshow/129792480.cms",
-      "source_name": "Economic Times",
+      "title": "Dollar General appoints Jerry Fleeman Jr as next CEO",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dollar-general-appoints-jerry-fleeman-115345346.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 82,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Attractive valuations emerging, but oil prices hold the key: Aman Chowhan",
-      "summary": "Indian equities are experiencing a sharp correction due to geopolitical tensions, with valuations becoming attractive. However, elevated oil prices and conflict duration pose significant risks, potentially impacting trade deficits and currencies. Investors are advised to focus on reasonably valued stocks, with engineering, EPC, and IT midcaps showing promise.",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/attractive-valuations-emerging-but-oil-prices-hold-the-key-aman-chowhan/articleshow/129796065.cms",
-      "source_name": "Economic Times",
+      "title": "Netflix (NFLX) Slid Despite Strong Results and Strategic Expansion Plans",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/netflix-nflx-slid-despite-strong-115132005.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 82,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "As Asim Munir pitches peace, Iran stops Pakistan's cargo ship at Strait of Hormuz",
-      "summary": "Pakistan Ship stopped by Iran in Strait of Hormuz: Iran has denied passage to a Karachi-bound vessel in the Strait of Hormuz, citing protocol violations and lack of clearance. This action, coupled with a potential $2 million transit fee, signals Iran's tighter control over the crucial oil route amid escalating regional tensions.",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/as-asim-munir-pitches-peace-iran-blocks-pakistans-cargo-ship-at-strait-of-hormuz/articleshow/129796581.cms",
-      "source_name": "Economic Times",
+      "title": "Why Nutanix, Inc. (NTNX) Underperformed Despite Gaining Market Share from VMware",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-nutanix-inc-ntnx-underperformed-114802299.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 82,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Dividend alert! TVS Holdings announces Rs 86 interim dividend; check record date",
-      "summary": "TVS Holdings has declared an interim dividend of Rs 86 per equity share, amounting to a 1,720% payout on its 2.02 crore shares. The record date for this dividend is April 2, with payments expected within 30 days. The company also raised Rs 650 crore through non-convertible debentures.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dividend-alert-tvs-holdings-announces-rs-86-interim-dividend-check-record-date/articleshow/129797193.cms",
-      "source_name": "Economic Times",
+      "title": "Applied Materials, Inc. (AMAT) Gained on Strong AI Chip Demand and Resilient Operating Performance",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/applied-materials-inc-amat-gained-114523196.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 81,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Retail investors cut holdings in 14 midcaps; stocks fall up to 45% in 6 months",
-      "summary": "Retail investors trimmed stakes in 96 Nifty Midcap 150 stocks amid weak performance, with many declining sharply over six months, signaling fading confidence and cautious sentiment toward select midcap companies.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/retail-investors-cut-holdings-in-14-midcaps-stocks-fall-up-to-45-in-6-months/slideshow/129795148.cms",
-      "source_name": "Economic Times",
+      "title": "L&G and Manulife WAM form global asset management alliance",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/l-g-manulife-wam-form-115320104.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 81,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "RPSG shares rocket 20% after RCB's Rs 16,600 crore deal lifts valuation benchmark for IPL teams",
-      "summary": "Shares of RPSG Ventures rose sharply after United Spirits sold the Royal Challengers Bengaluru franchise for Rs 16,600 crore, setting a new benchmark for IPL valuations. The record deal has lifted sentiment for listed franchise owners, including RPSG’s Lucknow SuperGiants stake.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rpsg-shares-rocket-20-after-rcbs-rs-16600-crore-deal-amplifies-valuation-benchmark-for-ipl-teams/articleshow/129795358.cms",
-      "source_name": "Economic Times",
+      "title": "Lloyds renews agreement with Behavox for data platform",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/lloyds-renews-agreement-behavox-data-115140876.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 81,
+        "importance": 70,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Meet The Top Contenders For The Women’s Figure Skating World Title",
-      "summary": "As Olympic champion Alysa Liu skips the 2026 World Championships, Kaori Sakamoto, Amber Glenn and Ami Nakai head to Prague to battle for gold. Meet the top contenders for the world title in women's figure skating.",
-      "url": "https://www.forbes.com/sites/carolineprice/2026/03/24/meet-the-top-contenders-for-the-womens-figure-skating-world-title/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Liverpool and Wales legend John Toshack diagnosed with dementia",
+      "summary": "The Liverpool legend and former Real Madrid manager has ‘good days and bad days’, his son revealed in a health update",
+      "url": "https://sports.yahoo.com/articles/liverpool-wales-legend-john-toshack-115630529.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
       "scores": {
-        "importance": 81,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Podcasting Metrics Deliver For Brands, Podcasters, And Consumers",
-      "summary": "Through advanced metrics from companies like Oxford Road, podcasting has the advantage of collecting more specific and accurate metrics to make key decisions on advertising, content, and performance.",
-      "url": "https://www.forbes.com/sites/frankracioppi/2026/03/25/podcasting-metrics-deliver-for-brands-podcasters-and-consumers/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 81,
+        "importance": 70,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 85
+        "user_fit": 80
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Billionaire Kumar Birla, Blackstone To Buy Royal Challengers For $1.8 Billion Amid Bidding Frenzy For Indian Cricket Teams",
-      "summary": "Billionaire Kumar Mangalam Birla joins other high-profile owners of Indian Premier League cricket teams including Asia’s wealthiest, Mukesh Ambani, whose Reliance Industries owns the Mumbai Indians.",
-      "url": "https://www.forbes.com/sites/yessarrosendar/2026/03/25/billionaire-kumar-birla-blackstone-to-buy-royal-challengers-for-18-billion-amid-bidding-frenzy-for-indian-cricket-teams/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Max Verstappen tests Nissan’s Super GT car ahead of Japanese Grand Prix",
+      "summary": "Just days after racing a Mercedes GT3 car at Nordschleife, Verstappen went behind the wheel of a Nissan GT500 challenger at Fuji",
+      "url": "https://sports.yahoo.com/articles/max-verstappen-tests-nissan-super-114931340.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
       "scores": {
-        "importance": 81,
+        "importance": 70,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "A Woman’s Place Is In The Drone War: How Technology Changes Attitudes",
-      "summary": "Mariia Berlinska, Ukraine’s “Mother of Drones,” says drone technology has helped women secure their rightful place on the front lines.",
-      "url": "https://www.forbes.com/sites/davidhambling/2026/03/25/a-womans-place-is-in-the-drone-war/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Estée Lauder And Puig Brands Merger Talks Divide Street Analysts",
-      "summary": "The possible merger of a fast rising European powerhouse and an American icon has split opinions after a tricky year for the latter, hit by tariffs and with shares down.",
-      "url": "https://www.forbes.com/sites/markfaithfull/2026/03/25/este-lauder-and-puig-brands-merger-talks-divide-street-analysts/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Cunard Raises The Stakes For Luxury Cruising—Before You Set Sail",
-      "summary": "Cunard’s exclusive partnership with celebrity fashion stylist Micaela Erlanger offers Grill Suite guests an unexpected, curated experience before the voyage begins.",
-      "url": "https://www.forbes.com/sites/paulaconway/2026/03/25/cunard-raises-the-stakes-for-luxury-cruising-before-you-set-sail/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "How To Watch Yankees Vs. Giants MLB Opening Night 2026 On Netflix",
-      "summary": "This is everything you need to know about MLB opening night, where the Yankees face off against the Giants on Netflix.",
-      "url": "https://www.forbes.com/sites/stevebradshaw/2026/03/25/how-to-watch-yankees-vs-giants-mlb-opening-night-2026-on-netflix/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Blue Jays Manager Sends Daulton Varsho Contract Message",
-      "summary": "Toronto Blue Jays skipper John Schneider revealed the contract reason that he wouldn’t name the slugging outfielder as a preseason MVP.",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/25/blue-jays-manager-sends-daulton-varsho-contract-message/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
+        "user_fit": 80
       },
       "why_it_matters": "",
       "tags": []
