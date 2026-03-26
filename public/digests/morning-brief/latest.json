@@ -3,13 +3,148 @@
   "date": "2026-03-26",
   "title": "Morning Brief",
   "item_count": 15,
-  "last_published": "2026-03-26T12:01:23.489044+00:00",
+  "last_published": "2026-03-26T12:01:29.702465+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Trump’s Housing Chief Seeks New DOJ Investigation Against Letitia James",
-      "summary": "The latest referrals, which accuse James of engaging in insurance fraud, come after three failed attempts to prosecute one of Trump’s most high-profile political foes.",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/03/26/trump-housing-official-seeks-new-criminal-investigation-against-letitia-james/",
+      "title": "ETMarkets Smart Talk| Healthcare, infra, financials look attractive after recent market fall: Sachin Bajaj, CIO, Axis Max Life Insurance",
+      "summary": "Markets are volatile due to geopolitical events and rising crude oil prices. Sachin Bajaj, CIO at Axis Max Life Insurance, sees opportunities in healthcare, infrastructure, and financials. He advises investors to stay invested in quality assets. India's growth story remains intact despite short-term uncertainties. Elevated commodity prices could impact corporate earnings and margins.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-healthcare-infra-financials-look-attractive-after-recent-market-fall-sachin-bajaj-cio/articleshow/129807529.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 83,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Top 5 mutual funds which are better than fixed deposits in 1 year. Check details",
+      "summary": "Five debt mutual funds, primarily from the credit risk category, have delivered higher returns than traditional fixed deposits over the past year. However, these funds come with higher risk. Investors should assess risk appetite carefully before considering such short-term alternatives to conventional bank deposits.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/top-5-mutual-funds-which-are-better-than-fixed-deposits-in-1-year-check-details/slideshow/129816453.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Allocate 10–20% globally; stagger investments amid volatility: Alekh Yadav, Sanctum Wealth",
+      "summary": "Amid escalating geopolitical tensions and a crude oil shock, global markets face heightened uncertainty. Investors are advised to diversify 10-20% of their portfolio globally, favoring emerging markets and Japan, with a staggered approach to fresh investments due to currency fluctuations and macro shifts.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/allocate-1020-globally-stagger-investments-amid-volatility-alekh-yadav-sanctum-wealth/articleshow/129807390.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Shri Ram Navami 2026: Are commodity markets MCX and NCDEX open today? Check 2026 holiday list",
+      "summary": "India's largest commodity exchange, MCX, will observe a partial trading holiday today for Shri Ram Navami, resuming in the evening. Equity markets NSE and BSE are fully closed. NCDEX will remain shut for the entire day. This follows a strong performance in Indian equity markets on Wednesday.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/shri-ram-navami-2026-are-commodity-markets-mcx-and-ncdex-open-today-check-2026-holiday-list/articleshow/129807652.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Bulls return to Dalal Street; analysts see Nifty heading towards 23,800",
+      "summary": "Indian stock market is showing strong recovery, gaining for a second consecutive day. Investors are regaining confidence as crude oil prices cool and diplomatic talks are underway. Analysts predict the upward trend may continue, with potential for further gains in the coming days. Sectors like autos, metals, and BFSI are expected to lead this recovery.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bulls-return-to-dalal-street-analysts-see-nifty-heading-towards-23800/articleshow/129814109.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Advice Line with Marcia Kilgore of Beauty Pie (June 2025)",
+      "summary": "Serial entrepreneur Marcia Kilgore — founder of brands like Beauty Pie and Soap & Glory — joins Guy on the Advice Line, where they answer questions from three early-stage founders managing uncertainty and risk.  Today, we meet Victor in Fort Worth, the co-founder of a Mexican-style sweets and treats venture who wonders if he should focus on expanding brick-and-mortar operations, retail presence, or both. Then Lydia in Seattle, a former disease researcher who is ready to grow her small b",
+      "url": "",
+      "source_name": "How I Built This with Guy Raz",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 84,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "What is tech addiction? A court ruling makes it Big Tech’s next big problem",
+      "summary": "The verdict in a landmark lawsuit over addictive social media design—and a wave of similar cases against Meta, YouTube, TikTok, and Snap—could force Silicon Valley to confront whether its most powerful and “sticky” products are behaving like hard-to-kick drugs.",
+      "url": "https://fortune.com/2026/03/26/what-is-tech-addiction-meta-youtube-trial/",
+      "source_name": "Fortune",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Reps Ro Khanna and Tim Burchett to push fraud probe across all 50 states",
+      "summary": "Khanna, D-Calif., who is separately leading Democrats on a bill to impose a federal wealth tax, told CNBC in December he would introduce the fraud probe as soon as he found a Republican cosponsor.",
+      "url": "https://www.cnbc.com/2026/03/26/reps-ro-khanna-and-tim-burchett-to-push-fraud-probe-across-all-50-states.html",
+      "source_name": "US Top News and Analysis",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Stock Market Holiday: Are NSE, BSE open or closed today on 26 March for Ram Navami celebration? Check now",
+      "summary": "NSE Holidays 2026: Is there a stock market holiday today? ndian stock market exchanges NSE and BSE, will remain closed on Thursday on account of Shri Ram Navami",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-holiday-today-for-ram-navami-are-nse-bse-open-or-closed-today-on-26-march-for-ram-navami-celebration-check-now/articleshow/129807761.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Russian Female Drone Pilots Flying Against The Wind Of Tradition",
+      "summary": "While female Ukrainian drone pilots have carved a niche for themselves, women drone operators in the Russian military face much harder challenges.",
+      "url": "https://www.forbes.com/sites/davidhambling/2026/03/26/russian-female-drone-pilots-flying-against-the-wind-of-tradition/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
@@ -22,270 +157,79 @@
       "tags": []
     },
     {
-      "title": "Will Joe Biden get Coronavirus before the election?",
-      "summary": "See market for odds | Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-joe-biden-get-coronavirus-before-the-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Why Ferrero Put 80 Years Of Humility Aside — And Isn't Going Back",
+      "summary": "Ferrero wagered the company's largest marketing investment in 80 years on a single insight and built the Italian confectioner's first cross-portfolio campaign.",
+      "url": "https://www.forbes.com/sites/daveknox/2026/03/26/why-ferrero-put-80-years-of-humility-aside---and-isnt-going-back/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Airbnb begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-airbnb-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "U.S. Inflation May Hit 4.2% This Year Due To Oil Price Surge From Iran War, OECD Warns",
+      "summary": "The organization, comprised of 38 of the world’s most advanced economies, said the conflict in the Middle East was testing the \"resilience of the global economy.\"",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/03/26/us-inflation-may-hit-42-this-year-due-to-oil-price-surge-from-iran-war-oecd-warns/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?",
-      "summary": "See market for odds | Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Meet The Billionaire Dentist That Other Docs Want To Punch In The Teeth",
+      "summary": "Rick Workman built a $6 billion dental empire. His approach upset the industry so much that some dentists wanted to punch him.",
+      "url": "https://www.forbes.com/sites/brandonkochkodin/2026/03/26/meet-the-billionaire-dentist-that-other-docs-want-to-punch-in-the-teeth/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Don’t Forget One Of The Dumbest Scientific Predictions In Our History",
+      "summary": "The death of a famed doomsayer, Paul Ehrlich, highlights the extraordinary creativity and ingenuity of humanity.",
+      "url": "https://www.forbes.com/sites/steveforbes/2026/03/26/dont-forget-one-of-the-dumbest-scientific-predictions-in-our-history/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Coinbase begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-coinbase-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "UConn’s Basketball And Hockey Programs Shine In NCAA Tournaments",
+      "summary": "The University of Connecticut is the only school with its men's and women's basketball and hockey teams selected for the NCAA tournament.",
+      "url": "https://www.forbes.com/sites/timcasey/2026/03/26/uconns-basketball-and-hockey-programs-shine-in-ncaa-tournaments/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "What will the price of Bitcoin be on November 4th, 2020?",
-      "summary": "See market for odds | Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-price-of-bitcoin-be-on-november-4th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "Will Trump win the 2020 U.S. presidential election?",
-      "summary": "See market for odds | Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-trump-win-the-2020-us-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?",
-      "summary": "See market for odds | Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?",
-      "summary": "See market for odds | Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "What will the USD price of Filecoin ($FIL) be on November 17th, 2020?",
-      "summary": "See market for odds | Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-usd-price-of-filecoin-fil-be-on-november-17th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "Will Drake release a new studio album before the end of 2020?",
-      "summary": "See market for odds | Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-drake-release-a-new-studio-album-before-the-end-of-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "Which party will win Florida in the 2020 presidential election?",
-      "summary": "See market for odds | Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/which-party-will-win-florida-in-the-2020-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "How many confirmed Coronavirus cases will there be at EOY in the USA?",
-      "summary": "See market for odds | Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/how-many-confirmed-coronavirus-cases-will-there-be-at-eoy-in-the-usa",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
-    },
-    {
-      "title": "Who will win the 2020 MLB World Series?",
-      "summary": "See market for odds | Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/who-will-win-the-2020-mlb-world-series-1",
-      "source_name": "Polymarket",
-      "topic": "markets",
-      "scores": {
-        "importance": 75,
-        "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
-      },
-      "why_it_matters": "Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     }
   ]
 }
