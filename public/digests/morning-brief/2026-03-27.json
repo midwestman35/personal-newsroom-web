@@ -3,293 +3,233 @@
   "date": "2026-03-27",
   "title": "Morning Brief",
   "item_count": 15,
-  "last_published": "2026-03-27T12:01:24.553518+00:00",
+  "last_published": "2026-03-27T12:01:29.574393+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Will Joe Biden get Coronavirus before the election?",
-      "summary": "See market for odds | Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-joe-biden-get-coronavirus-before-the-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "MSMEs tap working capital amid rising input cost pressures",
+      "summary": "MSMEs and other industries are experiencing higher working capital utilization as input costs escalate due to the US-Israel conflict. This trend, driven by slower cash flows and margin pressures, is prompting lenders to ensure adequate liquidity support. Sectors like hospitality, chemicals, and basmati rice exporters are expected to see increased drawdowns and fresh sanctions as they navigate rising costs.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/msmes-tap-working-capital-amid-rising-input-cost-pressures/articleshow/129836441.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 83,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Airbnb begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-airbnb-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Positive Breakout: These 14 stocks cross above their 200 DMAs",
+      "summary": "In the Nifty200 pack, 14 stocks' closing prices crossed above their 200 DMA (Daily Moving Averages) on March 25, 2026, according to stockedge.com's technical scan data. Traders use the 200-DMA as a key indicator to determine the overall trend in a particular stock. As long as the stock is priced above the 200-day SMA on the daily timeframe, it is generally considered to be in an overall uptrend. Take a look:",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/positive-breakout-these-14-stocks-cross-above-their-200-dmas/upside-ahead/slideshow/129837183.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 83,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?",
-      "summary": "See market for odds | Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "GLP-1 impact: Jefferies sees these 3 stocks as winners in the race for Ozempic, Wegovy generics",
+      "summary": "Indian drug makers are launching affordable generic Semaglutide, the active ingredient in popular weight-loss drugs. Sun Pharma, Lupin, and Torrent Pharma are identified as potential market leaders. Despite initial stockouts online, companies are adjusting supply. The market for these diabetes and obesity drugs is expected to grow significantly in India.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/glp-1-impact-jefferies-sees-these-3-stocks-as-winners-in-the-race-for-ozempic-wegovy-generics/articleshow/129842771.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Valuations now attractive, says Sahil Kapoor; sees opportunity in banks and IT",
+      "summary": "Indian stocks are presenting new opportunities as valuations have corrected significantly. Sahil Kapoor of DSP Mutual Fund highlights that while earnings growth is moderate, lower stock prices offer a chance for long-term investors. Financials, especially private banks, and select IT companies are seen as attractive. The market is becoming more constructive for global investors.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/valuations-now-attractive-says-sahil-kapoor-sees-opportunity-in-banks-and-it/articleshow/129842738.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Coinbase begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-coinbase-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "18 BSE 500 firms outshine FY25 metrics in just 9 months; finance, capex plays lead surge",
+      "summary": "Stealing the show: Only 18 BSE 500 firms surpassed their FY25 revenue, EBITDA, net profit and margins in the first 9 months of FY26 l Finance & capital goods cos led the pack amid credit growth and infrastructure push",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/18-bse-500-firms-outshine-fy25-metrics-in-just-9-months-finance-capex-plays-lead-surge/articleshow/129836484.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the price of Bitcoin be on November 4th, 2020?",
-      "summary": "See market for odds | Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-price-of-bitcoin-be-on-november-4th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Amidst sell-off, Nifty Top 10 Equal Weight Index looks like a good bet",
+      "summary": "Investors with higher risk appetite are eyeing Nifty Top 10 Equal Weight Index schemes following a market sell-off. The index's recent underperformance, driven by foreign institutional selling, presents a potential buying opportunity with attractive valuations in large-cap stocks.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/amidst-sell-off-nifty-top-10-equal-weight-index-looks-like-a-good-bet/articleshow/129836537.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Trump win the 2020 U.S. presidential election?",
-      "summary": "See market for odds | Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-trump-win-the-2020-us-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "‘They Will Kill You’ Rotten Tomatoes Reviews (Mostly) Are To Die For",
+      "summary": "“They Will Kill You,” a horror comedy starring Zazie Beetz, Heather Graham, Tom Felton and Patricia Arquette, opens in theaters nationwide on Friday. What are Rotten Tomatoes critics saying about the film?",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/27/they-will-kill-you-rotten-tomatoes-reviews-mostly-are-to-die-for/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?",
-      "summary": "See market for odds | Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "The Women's Health AI Trap: Designed To Engage, Not To Cure",
+      "summary": "Is your women's health app designed to solve your problem—or profit from it? Two cancer survivors deliver a warning the industry needs to hear.",
+      "url": "https://www.forbes.com/sites/geristengel/2026/03/27/the-womens-health-ai-trap-designed-to-engage-not-to-cure/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?",
-      "summary": "See market for odds | Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Blue Jays GM Makes ‘Tough Decision’ On Davis Schneider Just Before Opening Day",
+      "summary": "The Toronto Blue Jays’ Ross Atkins announced a roster decision on the fan favorite utilityman as his team prepares to start the season.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/27/blue-jays-gm-makes-tough-decision-on-davis-schneider-just-before-opening-day/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the USD price of Filecoin ($FIL) be on November 17th, 2020?",
-      "summary": "See market for odds | Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-usd-price-of-filecoin-fil-be-on-november-17th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Updated AEW Dynasty 2026 Match Card With Kenny Omega Challenging MJF",
+      "summary": "With MJF vs. Kenny Omega set, how does the AEW Dynasty match card look so far ahead of the Vancouver pay-per-view?",
+      "url": "https://www.forbes.com/sites/robwolkenbrod/2026/03/27/updated-aew-dynasty-2026-match-card-with-mjf-vs-kenny-omega-set/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Drake release a new studio album before the end of 2020?",
-      "summary": "See market for odds | Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-drake-release-a-new-studio-album-before-the-end-of-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Newsom Will Ban California Officials From Online Prediction Markets",
+      "summary": "The California Governor’s office jokingly tweeted at Kalshi and Polymarket, asking about the odds of Newsom banning California officials from betting on predictive markets.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/03/27/newsoms-office-signals-he-will-ban-online-betting-market-use-by-california-officials-today/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Which party will win Florida in the 2020 presidential election?",
-      "summary": "See market for odds | Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/which-party-will-win-florida-in-the-2020-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "At The Masters, Private Jets Fuel An Off-Course Economy",
+      "summary": "With sponsorship visibility tightly controlled at golf’s first major, brands turn to VIP experiences and client entertainment to build relationships.",
+      "url": "https://www.forbes.com/sites/mikedojc/2026/03/27/at-the-masters-private-jets-fuel-an-off-course-economy/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "How many confirmed Coronavirus cases will there be at EOY in the USA?",
-      "summary": "See market for odds | Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/how-many-confirmed-coronavirus-cases-will-there-be-at-eoy-in-the-usa",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "How To Start Building Wealth By Investing In ETFs",
+      "summary": "New to the market? Learn how to buy ETFs, from opening a brokerage account to placing your first trade. This guide makes ETF investing simple.",
+      "url": "https://www.forbes.com/sites/investor-hub/article/how-to-buy-etfs-beginners-guide/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Who will win the 2020 MLB World Series?",
-      "summary": "See market for odds | Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/who-will-win-the-2020-mlb-world-series-1",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Truth Is, The PGA Tour Doesn’t Revolve Around Tiger Woods Anymore",
+      "summary": "Does golf need Tiger Woods anymore? Of course. Then again, the TV ratings say otherwise. Which means, what? Here's the answer.",
+      "url": "https://www.forbes.com/sites/terencemoore/2026/03/27/truth-is-the-pga-tour-doesnt-revolve-around-tiger-woods-anymore/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Dharma’s Phase 1 Retroactive UNI Distribution proposal pass?",
-      "summary": "See market for odds | Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-dharma-s-phase-1-retroactive-uni-distribution-proposal-pass",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Mets Reunite With 12-Year Veteran After Losing Outfielder To Injury",
+      "summary": "The New York Mets have welcomed back a familiar face after a key outfielder suffered an injury that will require surgery.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/27/mets-reunite-with-12-year-veteran-after-losing-outfielder-to-injury/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     }
   ]
 }
