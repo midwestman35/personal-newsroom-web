@@ -3,293 +3,233 @@
   "date": "2026-03-27",
   "title": "Finance Close",
   "item_count": 15,
-  "last_published": "2026-03-27T22:01:33.181746+00:00",
+  "last_published": "2026-03-27T22:01:44.087349+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Will Joe Biden get Coronavirus before the election?",
-      "summary": "See market for odds | Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-joe-biden-get-coronavirus-before-the-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Mukesh Ambani’s mega IPO Reliance Jio is said to set bank fees in line with NSE",
+      "summary": "Reliance Industries Ltd. is planning a massive IPO for its telecom arm, Jio Platforms Ltd. The company is setting investment banking fees at a competitive 0.65% of the issue size. This move is in line with the National Stock Exchange of India Ltd.'s proposed fees. The Jio IPO could be India's largest ever.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/mukesh-ambanis-mega-ipo-reliance-jio-is-said-to-set-bank-fees-in-line-with-nse/articleshow/129851939.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Airbnb begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-airbnb-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Finance minister Nirmala Sitharaman assures fiscal vigil amid oil spike",
+      "summary": "India's Finance Minister Nirmala Sitharaman is boosting efforts to raise funds and control the fiscal deficit. The government is protecting citizens from rising crude oil prices. Lockdowns are not planned. She urged leaders to avoid spreading rumors. Excise duty on petrol and diesel has been cut to manage domestic inflation and volatility.",
+      "url": "https://economictimes.indiatimes.com/news/india/finance-minister-nirmala-sitharaman-assures-fiscal-vigil-amid-oil-spike/articleshow/129853830.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?",
-      "summary": "See market for odds | Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "India, US review next steps in trade pact talks",
+      "summary": "Commerce and Industry Minister Piyush Goyal met with US Trade Representative Jamieson Greer and Chinese counterpart Wang Wentao on the sidelines of the WTO Ministerial Conference. Discussions focused on the proposed India-US bilateral trade agreement and bilateral trade matters with China, amidst India's growing trade deficit with the latter.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-review-next-steps-in-trade-pact-talks/articleshow/129853750.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "India may face credit stress if Gulf conflict drags on: Moody's",
+      "summary": "A Moody's report warns that India and other Asia-Pacific economies face rising credit stress due to the ongoing Gulf conflict. Higher energy prices and supply disruptions, particularly for fuel, food, and industrial inputs, will impact import-dependent nations. Producers heavily reliant on Middle Eastern oil and naphtha are most exposed.",
+      "url": "https://economictimes.indiatimes.com/news/economy/finance/india-may-face-credit-stress-if-gulf-conflict-drags-on-moodys/articleshow/129853510.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Coinbase begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-coinbase-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Boots on ground may not be needed: Secretary of State Marco Rubio on Iran war",
+      "summary": "Secretary of State Marco Rubio stated the U.S. aims to dismantle Iran's missile, drone, naval, and air force capabilities without ground troops, expecting operations to conclude in weeks. He clarified recent troop deployments offer President Trump options for contingencies, not for direct engagement in the conflict.",
+      "url": "https://economictimes.indiatimes.com/news/defence/boots-on-ground-may-not-be-needed-secretary-of-state-marco-rubio-on-iran-war/articleshow/129853253.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the price of Bitcoin be on November 4th, 2020?",
-      "summary": "See market for odds | Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-price-of-bitcoin-be-on-november-4th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "SAEL Industries, Vishvaraj Environment, Symbiotec Pharmalab and 3 others get Sebi nod to launch IPO",
+      "summary": "Securities and Exchange Board of India approved IPOs of six companies, including Vishvaraj Environment and SAEL Industries. Firms span sectors like renewable energy, chemicals and SaaS, while Jindal Supreme withdrew its draft papers, reflecting active primary market momentum.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/sael-industries-vishvaraj-environment-symbiotec-pharmalab-and-3-others-get-sebi-nod-to-launch-ipo/articleshow/129850018.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Trump win the 2020 U.S. presidential election?",
-      "summary": "See market for odds | Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-trump-win-the-2020-us-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Kaori Sakamoto Wins Fourth World Title In ‘Storybook’ Career Finale",
+      "summary": "Kaori Sakamoto claimed her fourth figure skating world title, edging out Japanese teammate Mone Chiba and Nina Pinzarrone of Belgium. After errors, Americans Amber Glenn and Isabeau Levito missed the podium in Prague.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/27/kaori-sakamoto-wins-fourth-world-title-in-storybook-career-finale/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?",
-      "summary": "See market for odds | Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "‘Something Very Bad Is Going To Happen’ Rotten Tomatoes Reviews Are Very Good",
+      "summary": "The Duffer Brothers’ and Haley Z. Boston’s new Netflix horror series “Something Very Bad is Going to Happen” is new on streaming, and Rotten Tomatoes critics have a lot of positive things to say about it.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/27/something-very-bad-is-going-to-happen-rotten-tomatoes-reviews-are-very-good/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?",
-      "summary": "See market for odds | Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Accel-backed Rentomojo files for India IPO",
+      "summary": "Online ​furniture ​rental platform ​Rentomojo has filed for an initial ‌public ⁠offering ⁠in ​Mumbai, according to a ​draft prospectus dated Friday.",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/accel-backed-rentomojo-files-for-india-ipo/articleshow/129853972.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the USD price of Filecoin ($FIL) be on November 17th, 2020?",
-      "summary": "See market for odds | Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-usd-price-of-filecoin-fil-be-on-november-17th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Iran’s Demand To Trump Is Strait-Up Illegal",
+      "summary": "Iran wants sovereignty over the Strait of Hormuz—not just control. The international community is legally justified in using force to open it now.",
+      "url": "https://www.forbes.com/sites/jillgoldenziel/2026/03/27/irans-demand-to-trump-is-strait-up-illegal/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Drake release a new studio album before the end of 2020?",
-      "summary": "See market for odds | Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-drake-release-a-new-studio-album-before-the-end-of-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Pacers Guard Kam Jones Contract Not Fully Guaranteed Entering Offseason, Decision Coming",
+      "summary": "Indiana Pacers rookie guard Kam Jones didn't reach 41 games played in 2025-26, so his contract won't be fully guaranteed entering the offseason. What comes next?",
+      "url": "https://www.forbes.com/sites/tonyeast/2026/03/27/pacers-guard-kam-jones-contract-not-fully-guaranteed-entering-offseason-decision-coming/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Which party will win Florida in the 2020 presidential election?",
-      "summary": "See market for odds | Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/which-party-will-win-florida-in-the-2020-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Global Uncertainty Outside, Full Shopping Baskets Inside As Primark And Ulta Beauty Open In UAE",
+      "summary": "Primark and Ulta open in the UAE during geopolitical tension as strong shopper turnout shows consumer confidence, retail strategy and the UAE’s global retail importance",
+      "url": "https://www.forbes.com/sites/katehardcastle/2026/03/27/global-uncertainty-outside-full-shopping-baskets-inside-as-primark-and-ulta-beauty-open-in-uae/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "How many confirmed Coronavirus cases will there be at EOY in the USA?",
-      "summary": "See market for odds | Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/how-many-confirmed-coronavirus-cases-will-there-be-at-eoy-in-the-usa",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Team USA Olympics Hockey Hero Jack Hughes Gets His Broken Teeth Fixed",
+      "summary": "Jack Hughes, the Team USA hockey star who scored the gold medal-winning goal at the 2026 Winter Olympics, has a full smile again.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/27/team-usa-olympics-hockey-hero-jack-hughes-gets-his-broken-teeth-fixed/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Who will win the 2020 MLB World Series?",
-      "summary": "See market for odds | Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/who-will-win-the-2020-mlb-world-series-1",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Putin Struggling Mightily At Home But Iran War Offers A Lifeline",
+      "summary": "Vladimir Putin faces mounting domestic pressures over his calamitous Ukraine war and Russia's dire economics. But the Iran war has given him breathing room.",
+      "url": "https://www.forbes.com/sites/michaelpdempsey/2026/03/27/putin-struggling-mightily-at-home-but-iran-war-offers-a-lifeline/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Dharma’s Phase 1 Retroactive UNI Distribution proposal pass?",
-      "summary": "See market for odds | Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-dharma-s-phase-1-retroactive-uni-distribution-proposal-pass",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+      "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+      "url": "https://www.forbes.com/sites/erikkain/2026/03/27/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     }
   ]
 }
