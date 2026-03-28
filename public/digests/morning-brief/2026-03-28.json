@@ -3,293 +3,233 @@
   "date": "2026-03-28",
   "title": "Morning Brief",
   "item_count": 15,
-  "last_published": "2026-03-28T12:01:36.840605+00:00",
+  "last_published": "2026-03-28T12:01:42.344650+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Will Joe Biden get Coronavirus before the election?",
-      "summary": "See market for odds | Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-joe-biden-get-coronavirus-before-the-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Dalal Street Week Ahead: Avoid aggressive long positions; focus on capital preservation",
+      "summary": "Indian markets experienced a significant downturn this week, with the Nifty losing over 1.28% and breaching key support levels. Volatility surged as the India VIX climbed, indicating heightened investor caution. While Indian equities showed resilience against global peers, the near-term trend appears weak, suggesting a cautious approach and focus on capital preservation for the upcoming trading sessions.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dalal-street-week-ahead-avoid-aggressive-long-positions-focus-on-capital-preservation/articleshow/129862281.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 83,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $32,257 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Airbnb begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-airbnb-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "FIIs sell Indian equities worth Rs 1.14 lakh crore in March; 2026 outflow balloons to Rs 1.27 lakh crore",
+      "summary": "Foreign investors sold Indian shares worth over Rs 1.27 lakh crore in March. This marks the worst month for such outflows. Global tensions and a weakening rupee fueled this trend. Investors are also pulling out from other Asian markets. The situation may improve if West Asian hostilities cease and crude prices fall. Indian markets saw significant drops on Friday.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fiis-sell-indian-equities-worth-rs-1-14-lakh-crore-in-march-2026-outflow-balloons-to-rs-1-27-lakh-crore/articleshow/129864121.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $89,665 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will a new Supreme Court Justice be confirmed before Nov 3rd, 2020?",
-      "summary": "See market for odds | Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-a-new-supreme-court-justice-be-confirmed-before-nov-3rd-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "F&O Talk | Sudeep Shah on why cash market trade better versus derivatives, for now. Strategy on HEG, IDBI, 4 more stocks",
+      "summary": "Indian stock markets faced a sharp decline in March. Geopolitical tensions and rising energy prices impacted investor sentiment. Financials, auto, and consumer stocks saw significant drops. Analysts suggest caution and disciplined risk management. The Nifty and Bank Nifty experienced substantial losses. Investors are advised to monitor key support and resistance levels closely.",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/fo-talk-sudeep-shah-on-why-cash-market-trade-better-versus-derivatives-for-now-strategy-on-heg-idbi-4-more-stocks/articleshow/129862242.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $43,279 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Kim Kardashian and Kanye West divorce before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-kim-kardashian-and-kanye-west-divorce-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Goldman Sachs’ India bets slide in FY26; 5 stocks crash over 50% but one turns multibagger",
+      "summary": "However, despite the overall slump, six stocks bucked the trend, delivering gains in the range of 20–105% over the same period. We also highlighted three newly added stocks in the December 2025 quarter, including Inox, WeWork Management, and Midwest. (Data Source: ACE Equity, Trendlyne)",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/goldman-sachs-india-bets-slide-in-fy26-5-stocks-crash-over-50-but-one-turns-multibagger/slideshow/129860800.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $22,067 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Coinbase begin publicly trading before Jan 1, 2021?",
-      "summary": "See market for odds | Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-coinbase-begin-publicly-trading-before-jan-1-2021",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "‘Wuthering Heights’ Is New On Streaming This Week",
+      "summary": "“Wuthering Heights,” starring Margot Robbie and Jacob Elordi in Emerald Fennell’s adaptation of Emily Bronte’s classic novel, is coming to digital streaming this week. Find out when and where you can watch the movie at home.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/28/wuthering-heights-is-new-on-streaming-this-week/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $116,803 | Liq: $0 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the price of Bitcoin be on November 4th, 2020?",
-      "summary": "See market for odds | Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-price-of-bitcoin-be-on-november-4th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "When And Where To Watch Ilia Malinin Skate For World Championship Gold On Saturday",
+      "summary": "The “Quad God” is on gold medal-watch for the second time in 2026. U.S. figure skater Ilia Malinin goes for his third world title on Saturday in Prague at the 2026 ISU World Figure Skating Championships.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/27/when-and-where-to-watch-ilia-malinin-skate-for-world-championship-gold-on-saturday/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $59,756 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Trump win the 2020 U.S. presidential election?",
-      "summary": "See market for odds | Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-trump-win-the-2020-us-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Elon Musk’s companies, once welcomed in Baltimore with open arms, are now getting stiff-armed—or sued",
+      "summary": "The demise of a Boring Co tunnel to the Ravens football stadium, within hours of the city's lawsuit against xAI, is a striking illustration of how Musk’s transformation into a political lightning rod may be taking a toll on his various ventures.",
+      "url": "https://fortune.com/2026/03/28/elon-musks-companies-once-welcomed-in-baltimore-with-open-arms-are-now-getting-stiff-armed-or-sued/",
+      "source_name": "Fortune",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 85,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $10,802,602 | Liq: $68 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will there be an Emergency Use Authorization (EUA) granted for a COVID-19 vaccine prior to Nov 3 2020?",
-      "summary": "See market for odds | Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-there-be-an-emergency-use-authorization-granted-for-a-covid-19-vaccine-prior-to-nov-3",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Parag Parikh Liquid Fund among top 5 low cost and high return funds in 1 year",
+      "summary": "Parag Parikh Liquid Fund ranks among the top low-cost funds delivering strong one-year returns with high liquidity and stability.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/parag-parikh-liquid-fund-among-top-5-low-cost-and-high-return-funds-in-1-year/slideshow/129861362.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $21,881 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the total value locked (TVL) in DeFi be at the end of 2020, according to DefiPulse?",
-      "summary": "See market for odds | Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-total-value-locked-tvl-in-defi-be-at-the-end-of-2020-according-to-defipulse",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Top 5 large cap mutual funds to invest in March 2026",
+      "summary": "Top 5 large-cap mutual funds to consider in March 2026 based on consistent performance, stability, and strong portfolio fundamentals.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/top-5-large-cap-mutual-funds-to-invest-in-march-2026/slideshow/129860028.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $46,945 | Liq: $5 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "What will the USD price of Filecoin ($FIL) be on November 17th, 2020?",
-      "summary": "See market for odds | Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/what-will-the-usd-price-of-filecoin-fil-be-on-november-17th-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "They’re Coming For Your Social Security",
+      "summary": "What will you have: benefit cuts or tax hikes? Maybe a little of each. Here is what six potential solutions to the system’s bankruptcy would do to you.",
+      "url": "https://www.forbes.com/sites/baldwin/2026/03/28/theyre-coming-for-your-social-security/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $69,947 | Liq: $190 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Drake release a new studio album before the end of 2020?",
-      "summary": "See market for odds | Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-drake-release-a-new-studio-album-before-the-end-of-2020",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Yankees’ Aaron Judge Sends 4-Word Message After Team’s Fans Boo",
+      "summary": "The New York Yankees’ superstar slugger offered a response to the fans “getting on him” for poor performances.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/03/28/yankees-aaron-judge-sends-4-word-message-after-teams-fans-boo/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $31,841 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Which party will win Florida in the 2020 presidential election?",
-      "summary": "See market for odds | Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/which-party-will-win-florida-in-the-2020-presidential-election",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "James Cameron’s ‘Avatar: Fire And Ash’ Is New On Streaming This Week",
+      "summary": "\"Avatar: Fire and Ash,\" James Cameron’s third film in his blockbuster \"Avatar\" series, is coming to digital streaming this week. Find out when and where you can watch it at home.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/28/james-camerons-avatar-fire-and-ash-is-new-on-streaming-this-week/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $243,053 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "How many confirmed Coronavirus cases will there be at EOY in the USA?",
-      "summary": "See market for odds | Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/how-many-confirmed-coronavirus-cases-will-there-be-at-eoy-in-the-usa",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "‘Scream 7’ Is New On Streaming This Week, Report Says",
+      "summary": "“Scream 7,” starring Neve Campbell, Isabel May and Courteney Cox, is reportedly coming to digital streaming this week. Find out when and where you can watch the horror hit at home.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/28/scream-7-is-new-on-streaming-this-week-report-says/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $72,112 | Liq: $2 | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Who will win the 2020 MLB World Series?",
-      "summary": "See market for odds | Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/who-will-win-the-2020-mlb-world-series-1",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "Courts And Judges Are Using AI To Interpret Meaning In Laws But This Clever Approach Raises Heady Questions",
+      "summary": "A puzzle for courts and judges involves interpreting the meaning of words. The latest AI and LLMs are coming to their aid. I give the ins and outs. An AI Insider scoop.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/03/28/courts-and-judges-are-using-ai-to-interpret-meaning-in-laws-but-this-clever-approach-raises-heady-questions/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $107,602 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     },
     {
-      "title": "Will Dharma’s Phase 1 Retroactive UNI Distribution proposal pass?",
-      "summary": "See market for odds | Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "url": "https://polymarket.com/event/will-dharma-s-phase-1-retroactive-uni-distribution-proposal-pass",
-      "source_name": "Polymarket",
-      "topic": "markets",
+      "title": "MLB Best Strikeout Bets For March 28, 2026—Peterson And Detmers",
+      "summary": "Saturday’s MLB slate has games all day. Find out the most appealing strikeout props for the day, which include an over for one lefty and an under for another southpaw.",
+      "url": "https://www.forbes.com/sites/joshshepardson/2026/03/28/mlb-best-strikeout-bets-for-march-28-2026-peterson-and-detmers/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 70,
-        "user_fit": 90
+        "confidence": 75,
+        "user_fit": 85
       },
-      "why_it_matters": "Vol: $35,662 | Liq: N/A | 0 traders | See market for odds",
-      "tags": [
-        "polymarket",
-        "prediction-market",
-        "markets"
-      ]
+      "why_it_matters": "",
+      "tags": []
     }
   ]
 }
