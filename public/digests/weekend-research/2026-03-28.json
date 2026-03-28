@@ -3,14 +3,104 @@
   "date": "2026-03-28",
   "title": "Weekend Research",
   "item_count": 15,
-  "last_published": "2026-03-28T14:01:22.384773+00:00",
+  "last_published": "2026-03-28T19:01:38.895821+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "This tax season is a key time to delete your personal data from the internet",
-      "summary": "It’s never been easier for spammers and scammers to get access to your personal data, and this is particularly dangerous during tax season. With data brokers providing easy access to your phone number, email address, physical address – and even sensitive data like your social security number – tax season can be peak time for fraud. Fortunately, there’s a simple way to reduce the risk. more…",
-      "url": "https://9to5mac.com/2026/03/28/tax-season-is-key-time-to-delete-your-personal-data-from-internet/",
+      "title": "Here’s what I’d like to see with the MacBook Air redesign, after seeing MacBook Neo",
+      "summary": "Apple unveiled the MacBook Neo earlier this month, and in my opinion – it completely breaks the MacBook lineup as we knew it. If you’re someone who previously bought a MacBook Air, and you don’t need 16GB of RAM for heavier multitasking – why wouldn’t you buy the MacBook Neo now? In my eyes, the MacBook Neo is just as good of a general purpose laptop as the MacBook Air was, and besides more RAM, a much faster processor (though still a thermally limited one), and a larger display, it doesn’t feel",
+      "url": "https://9to5mac.com/2026/03/28/heres-what-id-like-to-see-with-redesigned-macbook-air-wishlist/",
       "source_name": "9to5Mac",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Apple discontinues the Mac Pro after twenty years",
+      "summary": "Apple has discontinued the Mac Pro. The venerable desktop computer had a twenty-year run and served as the flagship model in the company's lineup for most of its lifetime. The company has since removed the product from its website. The Mac Pro first launched in 2006 as a replacement for the then flagship Power Mac G5. Similar to its predecessor, the Mac Pro was a desktop tower PC with a modular design that allowed the user to replace the CPU, memory, optical and storage drives, and PCI expansion",
+      "url": "https://www.gsmarena.com/apple_discontinues_the_mac_pro_after_twenty_years-news-72154.php",
+      "source_name": "GSMArena.com - Latest articles",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "More details about the vivo T5 Pro leak including its price and launch time frame",
+      "summary": "vivo is working on the T5 Pro, the successor to the T4 Pro, and it's expected to launch in India soon. The T5 Pro surfaced in an IMEI database back in February, and a few days ago its key specs got outed by a tipster. Today, a new report claims the phone will become official in India by mid-April. It allegedly comes with a 6.8-inch AMOLED screen with \"1.5K\" resolution and 144Hz refresh rate, and it's powered by the Snapdragon 7s Gen 4 SoC. There's a 9,020 mAh battery keeping the lights on, which",
+      "url": "https://www.gsmarena.com/more_details_about_the_vivo_t5_pro_leak_including_its_price_and_launch_time_frame-news-72153.php",
+      "source_name": "GSMArena.com - Latest articles",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Oppo Watch X3 in for review",
+      "summary": "This is the Oppo Watch X3,and it may or may not come to the global stage. But we've got our fingers crossed, because its predecessor became a globally available wearable. The smartwatch comes in Orange, Black, or this Titanium, and costs CNY 2,800. It ships with a 4-pin wireless charger and a USB cable. There's more than a skin-deep resemblance between the Oppo Watch X3 and the OnePlus Watch 3. They're not the same, mind - while the OnePlus wearable uses stainless steel, the Oppo Watch X3 uses T",
+      "url": "https://www.gsmarena.com/oppo_watch_x3_in_for_review-news-72148.php",
+      "source_name": "GSMArena.com - Latest articles",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The rugged Apple Watch Ultra 2 got a $300 price cut",
+      "summary": "Macworld Apple Watch Ultra 2 View Deal With the Apple Watch Ultra 2 on your wrist, you can go anywhere you want, and you’ll find your way back home, whether you’re hiking, mountain climbing, or just out for a stroll, as the watch will know your location at all times and show you the right map. Even better, with built-in cellular, you don’t even need to have your phone on you. While the $799 price tag isn’t bad for everything you get, you’ll love knowing that you can get the Apple Watch Ultra 2 f",
+      "url": "https://www.macworld.com/article/3100878/the-rugged-apple-watch-ultra-2-got-a-300-price-cut.html",
+      "source_name": "Macworld.com",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Here are the iOS 26.4 features to try after installing the new iPhone update",
+      "summary": "Macworld Apple has officially released iOS 26.4 to the public, and unlike the previous update, this one brings a more noticeable set of new features. While the long-awaited AI-powered Siri is still nowhere to be seen, iOS 26.4 brings several new features and improvements to Apple Music, Podcasts, and Reminders, as well as overall system enhancements and new emoji. Read on as we break down all the major new features and changes coming with iOS 26.4 . Apple Music With iOS 26.4, Apple Music subscri",
+      "url": "https://www.macworld.com/article/3096159/ios-26-4-features-apple-music-emoji-podcasts-reminders.html",
+      "source_name": "Macworld.com",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Apple has serious plans for Siri! [Cult of Mac podcast No. 13]",
+      "summary": "This week on the Cult of Mac podcast: New details emerge about a major upgrade that would transform Siri from a laughingstock to a legitimate AI assistant. Unfortunately, these plans sound mighty familiar. Still, we’re guardedly optimistic that Apple can pull it off this time. Also on the Cult of Mac podcast: Now we know […] (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. )",
+      "url": "https://www.cultofmac.com/news/apple-has-serious-plans-for-siri-cult-of-mac-podcast-no-13",
+      "source_name": "Cult of Mac",
       "topic": "technology",
       "scores": {
         "importance": 78,
@@ -22,39 +112,69 @@
       "tags": []
     },
     {
-      "title": "This is what a fan is supposed to be — bladeless, sleek and customizable",
-      "summary": "The Shark TurboBlade Fan is a sleek, quiet, highly customizable bladeless fan that cools efficiently without the noise, and it’s more than half off. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. )",
-      "url": "https://www.cultofmac.com/deals/shark-turboblade-fan",
-      "source_name": "Cult of Mac",
+      "title": "The Galaxy S26 Plus is a good phone with a major problem that Samsung needs to figure out",
+      "summary": "Our full review of the Galaxy S26 Plus highlights its strengths, of which there are many, while addressing the elephant in the room.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-plus-review",
+      "source_name": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
       "topic": "technology",
       "scores": {
-        "importance": 76,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 75,
         "user_fit": 88
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Today in Apple history: Apple racks up staggering $700 million loss",
-      "summary": "On March 28, 1996, Apple warned Wall Street that it would report a $700 million quarterly loss. It was Apple's worst quarter ever. (via Cult of Mac - Your source for the latest Apple news, rumors, analysis, reviews, how-tos and deals. )",
-      "url": "https://www.cultofmac.com/apple-history/apple-worst-quarter",
-      "source_name": "Cult of Mac",
+      "title": "The INIU Pocket Rocket P50 is the ultra-portable 10,000mAh power bank you’ve been waiting for",
+      "summary": "As part of its Spring Sale, the company is offering discounts of up to 30%.",
+      "url": "https://www.androidauthority.com/iniu-pocket-rocket-p50-spring-sale-3651438/",
+      "source_name": "Android Authority",
       "topic": "technology",
       "scores": {
-        "importance": 76,
+        "importance": 65,
         "novelty": 0,
-        "confidence": 85,
+        "confidence": 75,
         "user_fit": 88
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "You Do Not, in Fact, Have to Hand It to Them",
-      "summary": "1 HN comments. 12 points. by MindGods.",
-      "url": "https://2ndbreakfast.audreywatters.com/you-do-not-in-fact-have-to-hand-it-to-them/",
+      "title": "This Samsung Galaxy S26 update makes it ultra-easy to share files with an iPhone",
+      "summary": "You can now easily share files from a Samsung Galaxy S26 to an Apple device using AirDrop.",
+      "url": "https://www.androidcentral.com/phones/samsung-galaxy/samsung-galaxy-s26-quick-share-airdrop-support-hands-on",
+      "source_name": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+      "topic": "technology",
+      "scores": {
+        "importance": 65,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "These CMF earbuds are now 30% OFF for Amazon's Big Spring Sale",
+      "summary": "The CMF Buds 2 Plus sport a long-lasting battery life, and a sleek, minimal design.",
+      "url": "https://www.androidcentral.com/accessories/earbuds/these-cmf-earbuds-are-now-30-percent-off-for-amazons-big-spring-sale",
+      "source_name": "Android Central - Android Forums, News, Reviews, Help and Android Wallpapers",
+      "topic": "technology",
+      "scores": {
+        "importance": 65,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 88
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Founder of GitLab battles cancer by founding companies",
+      "summary": "43 HN comments. 179 points. by bob_theslob646.",
+      "url": "https://sytse.com/cancer/",
       "source_name": "HackerNews",
       "topic": "technology",
       "scores": {
@@ -63,16 +183,16 @@
         "confidence": 60,
         "user_fit": 88
       },
-      "why_it_matters": "12 pts · 1 comments by MindGods · 2ndbreakfast.audreywatters.com",
+      "why_it_matters": "179 pts · 43 comments by bob_theslob646 · sytse.com",
       "tags": [
         "hackernews",
         "tech"
       ]
     },
     {
-      "title": "Improved Git Diffs with Delta, Fzf and a Little Shell Scripting",
-      "summary": "1 HN comments. 9 points. by nickjj.",
-      "url": "https://nickjanetakis.com/blog/awesome-git-diffs-with-delta-fzf-and-a-little-shell-scripting",
+      "title": "Linux is an interpreter",
+      "summary": "5 HN comments. 65 points. by frizlab.",
+      "url": "https://astrid.tech/2026/03/28/0/linux-is-an-interpreter/",
       "source_name": "HackerNews",
       "topic": "technology",
       "scores": {
@@ -81,161 +201,47 @@
         "confidence": 60,
         "user_fit": 88
       },
-      "why_it_matters": "9 pts · 1 comments by nickjj · nickjanetakis.com",
+      "why_it_matters": "65 pts · 5 comments by frizlab · astrid.tech",
       "tags": [
         "hackernews",
         "tech"
       ]
     },
     {
-      "title": "Bacteria invent another way to turn on genes",
-      "summary": "In their landmark 1961 paper on the lac operon, Nobel laureates François Jacob and Jacques Monod speculated that RNA might control gene activity in bacteria through base-pairing interactions. But once protein transcription factors were discovered, the idea was tossed aside. Sixty years later, a multi-institutional team of biologists shows that Jacob and Monod were on to something. Some species of bacteria, reports the team in Nature, have evolved an RNA-guided gene activating system by transform",
-      "url": "https://phys.org/news/2026-03-bacteria-genes.html",
-      "source_name": "Phys.org - latest science and technology news stories",
-      "topic": "science",
+      "title": "Further human + AI + proof assistant work on Knuth's \"Claude Cycles\" problem",
+      "summary": "0 HN comments. 13 points. by mean_mistreater.",
+      "url": "https://twitter.com/BoWang87/status/2037648937453232504",
+      "source_name": "HackerNews",
+      "topic": "technology",
       "scores": {
-        "importance": 59,
+        "importance": 65,
         "novelty": 0,
-        "confidence": 85,
-        "user_fit": 82
+        "confidence": 60,
+        "user_fit": 88
       },
-      "why_it_matters": "",
-      "tags": []
+      "why_it_matters": "13 pts · 0 comments by mean_mistreater · twitter.com",
+      "tags": [
+        "hackernews",
+        "tech"
+      ]
     },
     {
-      "title": "Giant craters may reveal if Psyche is a lost planetary core",
-      "summary": "When we think of asteroids, we almost immediately think of giant rocks bouncing around like the iconic chase scene in \"The Empire Strikes Back,\" and we often hear how they are remnants from the birth of the solar system. While the asteroids that comprise the Main Asteroid Belt of our solar system are not only spread far apart from one another, they are also not all made of rock. One asteroid approximately the size of the state of Massachusetts called 16 Psyche is made of metal, which planetary s",
-      "url": "https://phys.org/news/2026-03-giant-craters-reveal-psyche-lost.html",
-      "source_name": "Phys.org - latest science and technology news stories",
-      "topic": "science",
+      "title": "AI overly affirms users asking for personal advice",
+      "summary": "296 HN comments. 374 points. by oldfrenchfries.",
+      "url": "https://news.stanford.edu/stories/2026/03/ai-advice-sycophantic-models-research",
+      "source_name": "HackerNews",
+      "topic": "technology",
       "scores": {
-        "importance": 59,
+        "importance": 65,
         "novelty": 0,
-        "confidence": 85,
-        "user_fit": 82
+        "confidence": 60,
+        "user_fit": 88
       },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "College students are writing with AI, but a pilot study finds they're not simply letting it write for them",
-      "summary": "Debates about generative AI in higher education have been informed by studies of completed student papers, or self-reported survey data. Research shows that artificial intelligence tools can support learning, but has also raised concerns, including students' overreliance, cheating, and the potential degradation of critical thinking and engagement.",
-      "url": "https://phys.org/news/2026-03-college-students-ai-theyre-simply.html",
-      "source_name": "Phys.org - latest science and technology news stories",
-      "topic": "science",
-      "scores": {
-        "importance": 57,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 82
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "He Helped Write the Clean Air Act. He Fears for Its Future.",
-      "summary": "Thomas Jorling, adviser to Republicans who cosponsored the 1970 law, disputes the Trump administration’s claim that it shouldn’t apply to planet-warming greenhouse gases.",
-      "url": "https://www.nytimes.com/2026/03/28/climate/thomas-jorling-endangerment-finding-clean-air-act-epa.html",
-      "source_name": "NYT > Science",
-      "topic": "science",
-      "scores": {
-        "importance": 55,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 82
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Are you addicted to technology? 6 questions experts use to help spot red flags",
-      "summary": "A landmark court ruling has many asking whether their own tech use should raise red flags. Clinicians in the field suggest asking yourself a few brutally honest questions.",
-      "url": "https://fortune.com/2026/03/28/tech-addiction-questions-verdict-meta-youtube/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Meet a 29-year-old blue-collar founder who used AI to triple his revenue in 3 years",
-      "summary": "Rick Chorney dropped out of high school because he needed to find his own place. Ten years later, he's about to cross the $1 million revenue line.",
-      "url": "https://fortune.com/2026/03/28/ai-small-business-entrepreneur-1-million-blue-collar/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "As stocks and bonds fall, and oil hits $100, a futures trade that boomed in 2022 may again be a winner",
-      "summary": "Managed futures, which track macro themes expected to play out over months, do well when traditional assets are falling. This could be one of those times.",
-      "url": "https://www.cnbc.com/2026/03/28/market-correction-futures-hedging-strategies.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Worried about Strait of Hormuz inflation to come? The world economy has one word for you: Plastics",
-      "summary": "Worried about consumer inflation to come from Strait of Hormuz closure? The economy has one word for you other than oil: plastics.",
-      "url": "https://www.cnbc.com/2026/03/28/iran-war-strait-of-hormuz-petrochemicals-oil-plastics.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Bitesize Prediction: Real Zaragoza vs Racing Santander – 29/03/26",
-      "summary": "Competition: Spanish Segunda Market: Racing Santander draw no bet Odds: 8/11 @ BetUS Seeking an immediate Segunda response this weekend, Racing Santander will travel to Aragon when they meet Real Zaragoza on Sunday evening. Starting with the hosts, while Real Zaragoza might have clung to their Segunda status last season, Los Manos find themselves at […] The post Bitesize Prediction: Real Zaragoza vs Racing Santander – 29/03/26 appeared first on Soccer News .",
-      "url": "https://www.soccernews.com/bitesize-prediction-real-zaragoza-vs-racing-santander-29-03-26/397862/",
-      "source_name": "Soccer News",
-      "topic": "sports",
-      "scores": {
-        "importance": 73,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Bitesize Prediction: Eibar vs Las Palmas – 29/03/26",
-      "summary": "Competition: Spanish Segunda Market: Eibar draw no bet Odds: 8/11 @ 1xBet In what could prove to be a season-defining showdown this weekend, Eibar will welcome Las Palmas to the Basque Country on Sunday lunchtime. Starting with the hosts, while Eibar might have a real uphill battle on their hands in the race to punch […] The post Bitesize Prediction: Eibar vs Las Palmas – 29/03/26 appeared first on Soccer News .",
-      "url": "https://www.soccernews.com/bitesize-prediction-eibar-vs-las-palmas-29-03-26/397861/",
-      "source_name": "Soccer News",
-      "topic": "sports",
-      "scores": {
-        "importance": 73,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 45
-      },
-      "why_it_matters": "",
-      "tags": []
+      "why_it_matters": "374 pts · 296 comments by oldfrenchfries · news.stanford.edu",
+      "tags": [
+        "hackernews",
+        "tech"
+      ]
     }
   ]
 }
