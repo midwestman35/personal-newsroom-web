@@ -2,35 +2,230 @@
   "slug": "morning-brief",
   "date": "2026-03-29",
   "title": "Morning Brief",
-  "item_count": 2,
-  "last_published": "2026-03-29T12:01:25.329903+00:00",
+  "item_count": 15,
+  "last_published": "2026-03-29T12:01:29.640971+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "I Asked ChatGPT If I Can Get the Same Tax Deductions as the Rich — Here’s What It Said",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/asked-chatgpt-same-tax-deductions-110006995.html",
-      "source_name": "Yahoo Finance",
+      "title": "Mutual fund NFO: Only one passive fund opens for subscription this week. Check dates, details",
+      "summary": "A new passive fund from Zerodha is launching this week. The Zerodha Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index Fund will open for subscription on April 1 and close on April 15. This open-ended scheme will replicate the Nifty LargeMidcap250 Plus 8-13 yr G-Sec 70:30 Index. Investors can start with a minimum of Rs 100.",
+      "url": "https://economictimes.indiatimes.com/mf/analysis/mutual-fund-nfo-only-one-passive-fund-opens-for-subscription-this-week-check-dates-details/slideshow/129876506.cms",
+      "source_name": "Economic Times",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "RSPA’s 8.9% Yield Hides a Tax Problem Most Income Investors Never See Coming",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/rspa-8-9-yield-hides-104840530.html",
-      "source_name": "Yahoo Finance",
+      "title": "8 midcap stocks with massive upside potential of up to 75%. Do you own any?",
+      "summary": "Analyst estimates highlight select BSE mid-cap stocks with strong upside potential over the next year. Based on Trendlyne data, these stocks offer projected gains driven by improving fundamentals and positive sentiment. With consensus Buy or Strong Buy ratings, they present compelling opportunities for investors seeking high-growth mid-cap ideas.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/8-midcap-stocks-with-massive-upside-potential-of-up-to-75-do-you-own-any/slideshow/129876422.cms",
+      "source_name": "Economic Times",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Market trading guide: Buy ACME Solar and Dalmia Bharat on Monday for short-term gains up to 16%. Here’s why",
+      "summary": "Nifty snapped its two-day rally amid weak sentiment driven by Iran-US tensions, high energy prices, and a falling rupee. Technical indicators signal continued bearish momentum. Experts suggest a sell-on-rise strategy, while recommending ACME Solar and Dalmia Bharat as bullish breakout trades with near-term upside potential.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/market-trading-guide-buy-acme-solar-and-dalmia-bharat-on-monday-for-short-term-gains-up-to-16-heres-why/articleshow/129876087.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Ahead of market: 10 things that will decide stock market action on Monday",
+      "summary": "Indian markets ended a two-day rally as Iran-US tensions and elevated energy prices weighed on investor sentiment. Nifty fell 2.09% to 22,819.60, Sensex down 2.25%. US and European indices also declined amid geopolitical uncertainty. Financials, autos, and consumer stocks led losses, while volatility remained elevated.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ahead-of-market-10-things-that-will-decide-stock-market-action-on-monday/articleshow/129879482.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "US Stocks Markets | Lucrative bets that anticipated Trump's policy surprises warrant scrutiny, experts say",
+      "summary": "Well-timed trades ahead of U.S. President Donald Trump's major policy surprises ​during his second term have potentially led to millions of dollars in profits for unknown ​traders, leading some legal experts to say they should be investigated to protect fair markets and ascertain whether information is leaking.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-markets-lucrative-bets-that-anticipated-trumps-policy-surprises-warrant-scrutiny-experts-say/articleshow/129878786.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "British Ice Skating Federation To Formally Challenge World Championships Results",
+      "summary": "Can a British Ice Skating challenge overturn the 2026 World championships results? After Lilah Fear and Lewis Gibson lost a medal over a controversial call, British Ice Skating announced a formal challenge of the results.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/29/british-ice-skating-federation-to-formally-challenge-world-championships-results/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 81,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Jio Financial Services expects to begin life, general insurance biz in 2026",
+      "summary": "Jio Financial Services (JFS) is hoping to start general and life insurance businesses this year, a top company official has said.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jio-fin-services-expects-to-begin-life-general-insurance-biz-in-2026/articleshow/129877773.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "FC Barcelona Reportedly Offers Robert Lewandowski New Deal - Does It Make Sense?",
+      "summary": "FC Barcelona veteran Robert Lewandowski has reportedly been offered a new contract, but does that make sense for the club?",
+      "url": "https://www.forbes.com/sites/tomsanderson/2026/03/29/fc-barcelona-reportedly-offers-robert-lewandowski-new-dealdoes-it-make-sense/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The NBA's Proposed Anti-Tanking Reforms Could Backfire Spectacularly",
+      "summary": "The league's proposals could inherently punish legitimately terrible teams by decreasing their chances of getting out of the league's basement in a timely fashion.",
+      "url": "https://www.forbes.com/sites/bryantoporek/2026/03/29/the-nbas-proposed-anti-tanking-reforms-could-backfire-spectacularly/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "What Has Happened To Phil Foden’s Form This Season?",
+      "summary": "Phil Foden is fighting to prove himself for club and country with the midfielder struggling to find consistent form.",
+      "url": "https://www.forbes.com/sites/grahamruthven/2026/03/29/what-has-happened-to-phil-fodens-form-this-season/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "FC Barcelona Star Raphinha Is Injured - What Now For The Blaugrana?",
+      "summary": "FC Barcelona has been rocked by the news that forward Raphinha will be out injured for a month to five weeks. So what now for Hansi Flick and his men?",
+      "url": "https://www.forbes.com/sites/tomsanderson/2026/03/29/fc-barcelona-star-raphinha-is-injuredwhat-now-for-the-blaugrana/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Disney Adventure World Is Officially Open At Disneyland Paris",
+      "summary": "The cornerstone of the new offerings is World of Frozen, a large land themed around the popular movie franchise.",
+      "url": "https://www.forbes.com/sites/megandubois/2026/03/29/disney-adventure-world-is-officially-open-at-disneyland-paris/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Honesty Versus Trickery When It Comes To Swaying Public Opinion About AI And The Future Of Humanity",
+      "summary": "How is public opinion about AI and the future of humanity being shaped? A recent survey provides great insights. I unpack the results. An AI Insider analysis.",
+      "url": "https://www.forbes.com/sites/lanceeliot/2026/03/29/honesty-versus-trickery-when-it-comes-to-swaying-public-opinion-about-ai-and-the-future-of-humanity/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Claressa Shields Slams Keith Thurman After His Vicious KO Loss",
+      "summary": "Claressa Shields reacted to Keith Thurman's TKO loss to Sebastian Fundora. Their beef dates back to 2024. Full breakdown.",
+      "url": "https://www.forbes.com/sites/brianmazique/2026/03/29/claressa-shields-slams-keith-thurman-after-his-vicious-ko-loss/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Nastiest KO Of UFC Seattle Has Dana White Saying 'It Was One Of The Greatest Finishes In History'",
+      "summary": "Alexa Grasso KO'd Maycee Barber at 2:42 of R1 at UFC Seattle. Dana White called it one of the greatest finishes in history. Full breakdown.",
+      "url": "https://www.forbes.com/sites/brianmazique/2026/03/29/nastiest-ko-of-ufc-seattle-has-dana-white-saying-it-was-one-of-the-greatest-finishes-in-history/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
         "user_fit": 85
       },
       "why_it_matters": "",
