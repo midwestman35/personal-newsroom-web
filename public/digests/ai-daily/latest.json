@@ -1,0 +1,100 @@
+{
+  "slug": "ai-daily",
+  "date": "2026-03-30",
+  "title": "Ai Daily",
+  "item_count": 6,
+  "last_published": "2026-03-30T12:03:04.952537+00:00",
+  "freshness_seconds": 300,
+  "items": [
+    {
+      "title": "ProCap Financial stockholders approve acquisition of AI agent lab CFO Silvia",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4570145-procap-financial-stockholders-approve-acquisition-of-ai-agent-lab-cfo-silvia?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 91,
+        "confidence": 65,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Gentler Streak’s Wellness section now features cardio fitness data",
+      "summary": "Starting today, Gentler Streak users can check VO₂ max estimate data, with trends and averages, for a more complete snapshot of their fitness. Here are the details. more…",
+      "url": "https://9to5mac.com/2026/03/30/gentler-streaks-wellness-section-now-features-cardio-fitness-data/",
+      "source_name": "9to5Mac",
+      "topic": "technology",
+      "scores": {
+        "importance": 75,
+        "novelty": 87,
+        "confidence": 75,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Bicara Therapeutics GAAP EPS of -$0.68",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4570147-bicara-therapeutics-gaap-eps-of-0_68?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 50,
+        "confidence": 65,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "New fees, fewer flights: Higher fuel prices pinch consumer budgets beyond the gas pump",
+      "summary": "As corporate policies change, Americans will feel higher oil prices in their wallets beyond the gas pump.",
+      "url": "https://www.cnbc.com/2026/03/28/oil-doordash-lyft-usps-united.html",
+      "source_name": "US Top News and Analysis",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Jenna Ortega’s $137M Entry in Iconic Horror Franchise To Stream on Netflix",
+      "summary": "The 2022 sequel to an iconic horror franchise starring Jenna Ortega is coming to Netflix soon. The film introduces new characters and takes place more than two decades after the events of the original film, bringing back some of the cast who helped make the franchise a cultural phenomenon. Scream begins streaming on Netflix in […] The post Jenna Ortega’s $137M Entry in Iconic Horror Franchise To Stream on Netflix appeared first on ComingSoon.net - Movie Trailers, TV & Streaming N",
+      "url": "https://www.comingsoon.net/movies/news/2113714-scream-streaming-date-netflix-april-jenna-ortega",
+      "source_name": "ComingSoon.net",
+      "topic": "entertainment",
+      "scores": {
+        "importance": 59,
+        "novelty": 84,
+        "confidence": 85,
+        "user_fit": 45
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Future of Giannis and Ja, and the big questions facing every NBA lottery team",
+      "summary": "With 10 NBA teams already eyeing the offseason, Bobby Marks examines each front office's biggest priority.",
+      "url": "https://www.espn.com/nba/story/_/id/48326062/nba-draft-big-questions-10-lottery-teams-bucks-giannis-grizzlies-morant",
+      "source_name": "www.espn.com - TOP",
+      "topic": "sports",
+      "scores": {
+        "importance": 70,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    }
+  ]
+}
