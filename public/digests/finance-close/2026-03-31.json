@@ -2,117 +2,234 @@
   "slug": "finance-close",
   "date": "2026-03-31",
   "title": "Finance Close",
-  "item_count": 7,
-  "last_published": "2026-03-31T22:01:41.899798+00:00",
+  "item_count": 15,
+  "last_published": "2026-03-31T22:01:50.651122+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "3 Dividend Stocks You Can Buy Today and Forget About for the Next 20 Years",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-dividend-stocks-buy-today-132652335.html",
-      "source_name": "Yahoo Finance",
+      "title": "Building a Sustainability Strategy Around Customers",
+      "summary": "For sustainability to be a core part of your business model, you might need to rethink how and why you incorporate sustainable policies and products. That's according to IMD Business School professor Goutam Challagalla, who explains that many customers don't want to pay a premium for sustainability. Instead, he argues that good intentions around sustainability can often lead to weak strategy and wasted investment. He explains how instead, leaders should think about sustainability as a way to cre",
+      "url": "https://hbr.org/podcast/2026/03/building-a-sustainability-strategy-around-customers",
+      "source_name": "HBR IdeaCast",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 84,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "One Analyst Sees Microsoft Soaring 90%. Here’s What the Market Might Be Missing",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/one-analyst-sees-microsoft-soaring-132729778.html",
-      "source_name": "Yahoo Finance",
+      "title": "US Stocks today: Dow Jones soars 1,125 points, Nasdaq, S&P 3% as Iran war de-escalation seen",
+      "summary": "Wall Street surged Tuesday as speculation of a de-escalation in the Middle East conflict eased oil price and inflation fears. Major indexes rallied following reports of President Trump's willingness to end military action against Iran. Investors are seeking indications of a normalized energy flow through the Strait of Hormuz.",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-today-dow-jones-soars-1125-points-nasdaq-sp-3-as-iran-war-de-escalation-seen/articleshow/129936055.cms",
+      "source_name": "Economic Times",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Tax Day is coming. Avoid these common IRS filing mistakes.",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/tax-day-coming-avoid-common-132835807.html",
-      "source_name": "Yahoo Finance",
+      "title": "Japan to create special cell to push FDI into India",
+      "summary": "Japan's Foreign Ministry is launching a new center to help Japanese companies invest in India. This initiative aims to overcome challenges like complex regulations and tax systems. The center will also foster cooperation in AI, startups, and critical minerals. This move supports a goal of 10 trillion yen in private sector investment by 2035.",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/japan-to-create-special-cell-to-push-fdi-into-india/articleshow/129933023.cms",
+      "source_name": "Economic Times",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Here’s Why Uber (UBER) Fell Despite Reporting Strong Results and Healthy Free Cash Flow",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-uber-uber-fell-despite-131259914.html",
-      "source_name": "Yahoo Finance",
+      "title": "‘Go get your own oil’: Trump’s message to allies who haven’t backed war in Iran",
+      "summary": "President Donald Trump expressed frustration Tuesday with allies who have been unwilling to do more to support the U.S. war effort, telling them to “go get your own oil” as the conflict with Iran and its closure of the Strait of Hormuz sent average U.S. gas prices past $4 a gallon. The social media post came after U.S. strikes hit […]",
+      "url": "https://fortune.com/2026/03/31/go-get-your-own-oil-trumps-message-to-allies-who-havent-backed-war-in-iran/",
+      "source_name": "Fortune",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 82,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 85,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Nasdaq Correction: 3 Growth Stocks That Make for Screaming Buys Right Now",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/nasdaq-correction-3-growth-stocks-132600509.html",
-      "source_name": "Yahoo Finance",
+      "title": "OpenAI Valuation Reaches $852 Billion After Massive Funding Round",
+      "summary": "The record-breaking funding round comes as the AI company reportedly lays the groundwork for going public.",
+      "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/03/31/openai-valuation-reaches-852-billion-after-massive-funding-round/",
+      "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 75,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Is Coca-Cola Femsa (KOF) The Best Defensive Stock to Buy Amid Middle East War?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-femsa-kof-best-131145079.html",
-      "source_name": "Yahoo Finance",
+      "title": "TelevisaUnivision Bets Its Telenovela DNA Can Win The Microdrama Race",
+      "summary": "As the company continues leaning into streaming, early results suggest its vertical content strategy is paying off.",
+      "url": "https://www.forbes.com/sites/veronicavillafane/2026/03/31/televisaunivision-bets-its-telenovela-dna-can-win-the-microdrama-race/",
+      "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 65,
+        "confidence": 75,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Back to FreeBSD – Part 2 – Jails",
-      "summary": "1 HN comments. 5 points. by vermaden.",
-      "url": "https://hypha.pub/back-to-freebsd-part-2",
-      "source_name": "HackerNews",
-      "topic": "technology",
+      "title": "Third US Navy Supercarrier Could Be Headed To The Middle East",
+      "summary": "USS George H.W. Bush, the United States Navy’s 10th and final Nimitz-class nuclear-powered supercarrier, departed from Naval Station Norfolk, Virginia, on Tuesday",
+      "url": "https://www.forbes.com/sites/petersuciu/2026/03/31/third-us-navy-supercarrier-could-be-headed-to-the-middle-east/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 65,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 45
+        "confidence": 75,
+        "user_fit": 90
       },
-      "why_it_matters": "5 pts · 1 comments by vermaden · hypha.pub",
-      "tags": [
-        "hackernews",
-        "tech"
-      ]
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Charlie Kirk’s Assassination Conspiracy: Inconclusive Bullet Fuels Wild New Theories",
+      "summary": "Federal investigators were unable to conclusively match bullet fragments from the Charlie Kirk killing to the rifle found at the scene.",
+      "url": "https://www.forbes.com/sites/maryroeloffs/2026/03/31/charlie-kirks-assassination-conspiracy-inconclusive-bullet-fuels-wild-new-theories/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Mockery Is Chelsea And Liam Rosenior’s Biggest Enemy",
+      "summary": "If Rosenior were delivering results, this criticism would fade into the background. However, Chelsea’s form does not reflect the squad’s talent.",
+      "url": "https://www.forbes.com/sites/zakgarnerpurkis/2026/03/31/mockery-is-chelsea-and-liam-roseniors-biggest-enemy/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "How We’re Expanding The Forbes Audience",
+      "summary": "Forbes is expanding off-platform storytelling with new editorial group focused on social, video, graphics, podcasts and creators keeping our mission consistent worldwide.",
+      "url": "https://www.forbes.com/sites/randalllane/2026/03/31/how-were-expanding-the-forbes-audience/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "‘The Super Mario Galaxy Movie’ Amps Up Sequel With More Big Voice Stars",
+      "summary": "“The Super Mario Galaxy Movie” is here with familiar stars and new voice cast members including Donald Glover, Glen Powell and Brie Larson.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/03/31/the-super-mario-galaxy-movie-amps-up-sequel-with-more-big-voice-stars/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Jesse Minter On Why Ravens QB Lamar Jackson Is ‘Excited’ About Changes",
+      "summary": "Baltimore Ravens head coach Jesse Minter shares why QB Lamar Jackson is excited about the changes being made ahead of the 2026 season.",
+      "url": "https://www.forbes.com/sites/trevorwoods/2026/03/31/jesse-minter-on-why-ravens-qb-lamar-jackson-is-excited-about-changes/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "England Takes A Risk By Rewarding Arsenal Dropouts",
+      "summary": "At least nine coaches were deprived of talent for the midseason break, and will be eager to know if players miraculously recovered from ailments that suddenly beset them.",
+      "url": "https://www.forbes.com/sites/zakgarnerpurkis/2026/03/31/england-takes-a-risk-by-rewarding-arsenal-dropouts/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Ukraine ‘Demands Justice’ After Russian Gymnast Turns Back On Ukrainian Flag",
+      "summary": "Ukrainian officials are urging World Gymnastics and the IOC to revoke Sofia Ilteryakova's neutral status, citing her failure to face the Ukrainian flag during a medal ceremony.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/03/31/ukraine-demands-justice-after-russian-gymnast-turns-back-on-ukrainian-flag/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "'I Don't Know How You Trust Anything' Trump Says About 'Illegal' Iran War: Former RNC Chair",
+      "summary": "The war against Iran is now in its fifth week, and former Gov. Racicot, who was also a JAG officer, joined \"Forbes Newsroom\" to discuss his perspective on the conflict.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/03/31/i-dont-know-how-you-trust-anything-trump-says-about-illegal-iran-war-former-rnc-chair/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
     }
   ]
 }
