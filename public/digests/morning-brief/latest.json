@@ -2,21 +2,231 @@
   "slug": "morning-brief",
   "date": "2026-04-01",
   "title": "Morning Brief",
-  "item_count": 1,
-  "last_published": "2026-04-01T12:01:45.756440+00:00",
+  "item_count": 15,
+  "last_published": "2026-04-01T12:01:50.810912+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Italy miss out on third World Cup in a row",
-      "summary": "Ten-man Italy missed out on a third consecutive World Cup after losing their play-off on penalties to Bosnia and Herzegovina.",
-      "url": "https://news.sky.com/story/italy-miss-out-on-third-world-cup-in-a-row-after-penalties-defeat-to-bosnia-and-herzegovina-in-play-off-13526666",
-      "source_name": "Sports News - Latest Sports and Football News | Sky News",
-      "topic": "sports",
+      "title": "Explained: Why global brokerages are hitting panic button on India. FII exodus, oil shock ringing alarm?",
+      "summary": "Equity market has shifted sharply from optimism to crisis mode, marked by a record $13 billion FII outflow in March—the worst ever. The sell-off has been driven by a surge in oil prices following Gulf tensions, with Brent crude jumping over 50%, worsening inflation, trade deficits, and corporate margins. Existing weaknesses like a weak rupee, sluggish earnings, high valuations, and global trade pressures have compounded the impact, turning investor sentiment from an “India premium” to an “India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-why-global-brokerages-are-hitting-the-panic-button-on-india-fii-exodus-and-oil-shock-raising-alarms/articleshow/129943613.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
       "scores": {
-        "importance": 70,
+        "importance": 84,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Oil slides 4% to below $100/bbl as Middle East uncertainty keeps markets on edge",
+      "summary": "Oil prices experienced a significant drop of over 4% as Middle East tensions continued to influence markets, despite indications of a potential easing of the U.S.-Iran conflict. Investors locked in gains amid uncertainty, with analysts noting that even if the conflict ends, supply chain normalization and infrastructure damage will likely keep prices elevated.",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/oil-slides-over-3-as-middle-east-uncertainty-keeps-markets-on-edge/articleshow/129944323.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Cochin Shipyard shares rally 15%, add Rs 4,700 crore to market value: What’s behind the surge?",
+      "summary": "Cochin Shipyard shares surged approximately 15% after its inclusion in the NSE's F&O segment, boosting liquidity and trading volumes. This rally aligns with a broader bullish trend in shipyard stocks, fueled by strong performance from peers like GRSE and positive market sentiment. The stock's market capitalization saw a significant increase following the announcement.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cochin-shipyard-shares-rally-15-add-rs-4700-crore-to-market-value-whats-behind-the-surge/articleshow/129944030.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "FII exodus hits record Rs 1.6 lakh crore in FY26 despite strong DII cushion",
+      "summary": "Foreign investors pulled out over ₹1.6 lakh crore from Indian stocks in FY26. This was the highest ever withdrawal. Domestic funds stepped in with a record ₹8.5 lakh crore. This inflow provided strong support against the foreign investor exits. Indian markets faced challenges from global events and currency depreciation.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/fii-exodus-hits-record-rs-1-6-lakh-crore-in-fy26-despite-strong-dii-cushion/articleshow/129938801.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Rupee tops Asia’s worst performers list with 9.9% slide in FY26",
+      "summary": "The Indian rupee ended FY26 as Asia's weakest currency against the US dollar. It depreciated by 9.88% due to significant foreign investor withdrawals and strong global dollar demand. The Reserve Bank of India intervened to stabilize the rupee. The Japanese yen also saw a decline. The Malaysian ringgit emerged as the top performer.",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-tops-asias-worst-performers-list-with-9-9-slide-in-fy26/articleshow/129938831.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Home bulls just waiting for the bullets to stop flying",
+      "summary": "Indian equity indices concluded FY26 with their worst fiscal performance since FY20, with the Nifty and Sensex registering losses. The outlook for FY27 is heavily dependent on the West Asia conflict's impact on crude oil prices and the rupee, with analysts suggesting a ceasefire could trigger a recovery.",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/home-bulls-just-waiting-for-the-bullets-to-stop-flying/articleshow/129938700.cms",
+      "source_name": "Economic Times",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 82,
+        "novelty": 0,
+        "confidence": 85,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Lou Gramm Goes Inside The Vaults For His Latest Solo Album ‘Released’",
+      "summary": "The former Foreigner singer recently put out his new solo album consisting of previously unreleased tracks.",
+      "url": "https://www.forbes.com/sites/davidchiu/2026/04/01/lou-gramm-goes-inside-the-vaults-for-his-latest-solo-album-released/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
         "novelty": 0,
         "confidence": 75,
-        "user_fit": 80
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "KINO Finds Love And Liberation With 3rd EP [Lost And Found]",
+      "summary": "K-pop artist KINO has been through a whirlwind of sadness and pain only a few months ago, but found love and happiness through self-realization, rediscovering himself.",
+      "url": "https://www.forbes.com/sites/laurasirikul/2026/04/01/kino-finds-love-and-liberation-with-3rd-ep-lost-and-found/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Webb-Fried Opener Shows Flaws Of Advanced Metrics, We Can Do Better",
+      "summary": "Advanced metrics have moved the game forward, but at times their underpinnings aren't very sturdy. Case in point - the Opening Day clash that gave Webb the FIP advantage.",
+      "url": "https://www.forbes.com/sites/tonyblengino/2026/04/01/webb-fried-opener-shows-flaws-of-advanced-metrics-we-can-do-better/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The Missed Pro Shop Purchase Driving Six-Figure Sales For Clubs",
+      "summary": "What began as a missed purchase is now an e-commerce platform helping destination golf clubs capture lost sales and reach customers long after they’ve left the course.",
+      "url": "https://www.forbes.com/sites/mikedojc/2026/04/01/the-missed-pro-shop-purchase-driving-six-figure-sales-for-clubs/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The Great Convergence: Why The Creator Economy’s Future Belongs To Those Who Unite Social, Brand, And Talent",
+      "summary": "Why Hollywood, Madison Avenue and the Creator Economy are going to Intersect to change the face of media",
+      "url": "https://www.forbes.com/sites/jasondavis/2026/04/01/the-great-convergence-why-the-creator-economys-future-belongs-to-those-who-unite-social-brand-and-talent/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Blue Jays Welcome $76 Million NFL Star To Clubhouse After Cody Ponce Injury",
+      "summary": "The Toronto Blue Jays have reserved a locker for a high-priced star athlete who joined the team shortly after the pitcher’s injury.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/04/01/blue-jays-welcome-76-million-nfl-star-to-clubhouse-after-cody-ponce-injury/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Trump Says He’s Considering Pulling U.S. Out Of NATO—Calls It A ‘Paper Tiger’",
+      "summary": "Trump has lashed out at the U.S.’s NATO allies in the past few weeks for their reluctance in joining the war with Iran and helping reopen the Strait of Hormuz.",
+      "url": "https://www.forbes.com/sites/siladityaray/2026/04/01/trump-says-hes-considering-pulling-us-out-of-nato-calls-it-a-paper-tiger/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "How Much Are Men’s Final Four Tickets? Prices And Resale Costs",
+      "summary": "Men's Final Four ticket prices, resale costs, how they compare to 2025, and more ahead of Saturday's semifinals at Lucas Oil Stadium, home of the Indianapolis Colts.",
+      "url": "https://www.forbes.com/sites/markjburns/2026/04/01/how-much-are-mens-final-four-tickets-prices-and-resale-costs/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The Trillion-Dollar Experience Economy And The Growing Execution Gap",
+      "summary": "Barbie Dream Fest shows how the booming experience economy faces an execution gap, as families spend hundreds on immersive events that must deliver on big promises.",
+      "url": "https://www.forbes.com/sites/katehardcastle/2026/04/01/the-trillion-dollar-experience-economy-and-the-growing-execution-gap/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
