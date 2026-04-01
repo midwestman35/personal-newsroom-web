@@ -2,96 +2,231 @@
   "slug": "finance-close",
   "date": "2026-04-01",
   "title": "Finance Close",
-  "item_count": 6,
-  "last_published": "2026-04-01T22:01:41.876864+00:00",
+  "item_count": 15,
+  "last_published": "2026-04-01T22:01:53.740312+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Fidelity Disruptive Technology ETF Is Down 12% in 2026 and This Catalyst Could Decide What Comes Next",
-      "summary": "",
-      "url": "https://finance.yahoo.com/sectors/technology/articles/fidelity-disruptive-technology-etf-down-134511262.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "World Gymnastics Opens Investigation Into Russian Athlete’s Conduct At World Cup",
+      "summary": "The World Gymnastics federation will review the controversial incident involving Russian neutral athlete, Sofiia Ilteriakova, during an award ceremony at the 2026 Rhythmic Gymnastics World Cup in Sofia, Bulgaria.",
+      "url": "https://www.forbes.com/sites/carolineprice/2026/04/01/world-gymnastics-opens-investigation-into-russian-athletes-conduct-at-world-cup/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 81,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 85,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Sysco Receives a Downgrade From Citi Due to Debt Load",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-receives-downgrade-citi-due-134651573.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "Why The Home Spa Is The New Luxury Gift This Mother’s Day",
+      "summary": "From LYMA Laser to HigherDOSE, Hello Klean, William Holland and Somavedic, Mother’s Day gifts are shifting toward home spa, recovery and wellbeing at home.",
+      "url": "https://www.forbes.com/sites/katehardcastle/2026/04/01/why-the-home-spa-is-the-new-luxury-gift-this-mothers-day/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "4 Simple Tax Prep Steps Middle-Class Households Can’t Afford To Overlook",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/4-simple-tax-prep-steps-134805190.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "Pulisic’s Scoring Slump Is Concerning For Struggling U.S.",
+      "summary": "Christian Pulisic hasn't scored for the USMNT in eight games, which is concerning because he is the team's best player prior to the World Cup.",
+      "url": "https://www.forbes.com/sites/michaellewis/2026/04/01/pulisics-scoring-slump-is-concerning-for-struggling-us/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Strong Demand Lifted Lam Research Corporation (LRCX) in Q4",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/strong-demand-lifted-lam-research-133521612.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "If They Pay “Rewards” For Stablecoin Deposits, Then They’re Banks",
+      "summary": "Imagine how competitive banks would and could be if not so hemmed in by rules that new entrants to the banking sector don’t have to abide.",
+      "url": "https://www.forbes.com/sites/johntamny/2026/04/01/if-they-pay-rewards-for-stablecoin-deposits-then-theyre-banks/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "There Is No Housing Shortage: What Legendary Investor Michael Burry Really Thinks Is Wrong with the U.S. Housing Market",
-      "summary": "",
-      "url": "https://finance.yahoo.com/economy/policy/articles/no-housing-shortage-legendary-investor-133712457.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "How Bruce Campbell Almost Ended Up In Sam Raimi’s ‘Send Help’",
+      "summary": "Bruce Campbell says that he and his \"Evil Dead\" franchise collaborator Sam Raimi discussed a cameo for Raimi’s new horror survival thriller \"Send Help.\"",
+      "url": "https://www.forbes.com/sites/timlammers/2026/04/01/how-bruce-campbell-almost-ended-up-in-sam-raimis-send-help/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "What are installment loans & how do they work?",
-      "summary": "",
-      "url": "https://finance.yahoo.com/markets/options/articles/installment-loan-022020387.html",
-      "source_name": "Yahoo Finance News",
-      "topic": "markets",
+      "title": "Iran’s President Says Country Has ‘No Enmity’ For Americans In Letter Posted Before Trump Speech",
+      "summary": "The Iranian president called his country’s actions in the ongoing war a “measured response grounded in legitimate self-defense.”",
+      "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/01/irans-president-says-country-has-no-enmity-for-americans-in-letter-posted-before-trump-speech/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
       "scores": {
-        "importance": 75,
+        "importance": 80,
         "novelty": 0,
-        "confidence": 60,
-        "user_fit": 95
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "The US Navy Needs More Aircraft Carriers – It’s All About The Base",
+      "summary": "The U.S. Navy had been set to decommission the USS Nimitz next month. Instead, the oldest active nuclear-powered aircraft carrier will remain in service for another year",
+      "url": "https://www.forbes.com/sites/petersuciu/2026/04/01/the-us-navy-needs-more-aircraft-carriers--its-all-about-the-base/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Why Buffalo Bills WR DJ Moore Is The Explosive Weapon Josh Allen Needs",
+      "summary": "Buffalo Bills receiver DJ Moore has versatility, durability and explosiveness. Here's why Moore is the type of wideout that quarterback Josh Allen needs.",
+      "url": "https://www.forbes.com/sites/trevorwoods/2026/04/01/why-buffalo-bills-wr-dj-moore-is-the-explosive-weapon-josh-allen-needs/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "BTS Makes History Among Groups With A New No. 1 Hit In America",
+      "summary": "BTS nearly ties both The Rolling Stones and the Bee Gees as \"Swim\" opens atop the Billboard Hot 100, earning the group a seventh career champion.",
+      "url": "https://www.forbes.com/sites/hughmcintyre/2026/04/01/bts-makes-history-among-groups-with-a-new-no-1-hit-in-america/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Ghislaine Maxwell Has ‘No Remorse’ For Epstein Crimes, ‘Housewives’ Star Jen Shah Claims",
+      "summary": "Shah said she intentionally had only “limited interactions” with Maxwell when they were in the same Texas prison facility.",
+      "url": "https://www.forbes.com/sites/alisondurkee/2026/04/01/ghislaine-maxwell-has-no-remorse-for-epstein-crimes-housewives-star-jen-shah-claims/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Where To Eat In London Right Now",
+      "summary": "Five of London’s best under-the-radar restaurants right now. Thoughtful cooking, strong flavours and places foodies keep going back to.",
+      "url": "https://www.forbes.com/sites/lelalondon/2026/04/01/where-to-eat-in-london-right-now/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Anthropic–Pentagon Dispute Brings A Turning Point For The AI Industry",
+      "summary": "Anthropic and DoD are in a battle over the acceptable military use of AI models. The case highlights tensions between AI safety, ethics and national security.",
+      "url": "https://www.forbes.com/sites/tiriasresearch/2026/04/01/anthropicpentagon-dispute-brings-a-turning-point-for-the-ai-industry/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Stage Is Set For ‘EPiC: Elvis Presley In Concert’ Streaming Release, Report Says",
+      "summary": "\"EPiC: Elvis Presley in Concert,\" director Baz Luhrmann’s acclaimed concert documentary, is reportedly coming soon to digital streaming.",
+      "url": "https://www.forbes.com/sites/timlammers/2026/04/01/stage-is-set-for-epic-elvis-presley-in-concert-streaming-release-report-says/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Innocent Woman Arrested On Bogus AI Facial Recognition Match. The Failure Was Entirely Human",
+      "summary": "Police jailed an innocent woman for five months on a bogus AI facial recognition match. Here's how the technology works and why the real failure is human, not machine.",
+      "url": "https://www.forbes.com/sites/larsdaniel/2026/04/01/innocent-woman-arrested-on-bogus-ai-facial-recognition-match-the-failure-was-entirely-human/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Rideshare App Uber, Launches Uber Golf And Collaborates With Topgolf",
+      "summary": "Rideshare app Uber launches Uber Golf, intended to help golf groups get to and from the course. Uber also announces a collaboration with Topgolf.",
+      "url": "https://www.forbes.com/sites/mikefore/2026/04/01/rideshare-app-uber-launches-uber-golf-and-collaborates-with-topgolf/",
+      "source_name": "Forbes - Business",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 80,
+        "novelty": 0,
+        "confidence": 75,
+        "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
