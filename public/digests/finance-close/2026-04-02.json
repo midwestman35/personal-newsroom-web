@@ -2,231 +2,219 @@
   "slug": "finance-close",
   "date": "2026-04-02",
   "title": "Finance Close",
-  "item_count": 15,
-  "last_published": "2026-04-02T22:02:02.528107+00:00",
+  "item_count": 14,
+  "last_published": "2026-04-02T22:02:25.029591+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Strategy Summit 2026: Who’s Going to Succeed with AI?",
-      "summary": "Artificial intelligence is advancing quickly, but its real impact on productivity, jobs, and competitive advantage is still uncertain. In this four-part special series, we'll share conversations from the recent HBR Strategy Summit to help you get ahead. In this episode, Andrew McAfee, principal research scientist at MIT and cofounder and codirector of the MIT Initiative on the Digital Economy at the MIT Sloan School of Management, will explain why we’re in a moment where “nobody knows anything”",
-      "url": "https://hbr.org/podcast/2026/04/strategy-summit-2026-whos-going-to-succeed-with-ai",
-      "source_name": "HBR IdeaCast",
-      "topic": "business_finance",
+      "title": "Down 37% in 2026, Dan Ives Says You Should Buy the Dip in Zscaler Stock",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/down-37-2026-dan-ives-143002849.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 84,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 85,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "NYT Pips Today: Hints, Answers And Walkthrough For Friday, April 3",
-      "summary": "Looking for help with today's New York Times Pips? We'll walk you through today's puzzle and help you match dominoes to tiles.",
-      "url": "https://www.forbes.com/sites/erikkain/2026/04/02/nyt-pips-answers-friday-april-3/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Cramer Has A Blunt Message For Anyone Holding Private Credit: 'Don't Get Dead!'",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cramer-blunt-message-anyone-holding-143031254.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "NYT Strands Answers Today: Hints & Clues For Friday, April 3 (Smoothie Operator)",
-      "summary": "Looking for help with today's NYT Strands puzzle? Here's an extra hint to help you uncover the right words, as well as all of today's answers and Spangram.",
-      "url": "https://www.forbes.com/sites/erikkain/2026/04/02/nyt-strands-friday-answer-april-3/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Virgin Galactic Just Released $750,000 Spaceflight Tickets. Should You Buy SPCE Stock Here?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/virgin-galactic-just-released-750-143112315.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Phil Mickelson Set To Miss 2026 Masters Due To Personal Health Matter",
-      "summary": "Phil Mickelson withdraws from 2026 Masters Tournament on social media accounts, citing personal health matter.",
-      "url": "https://www.forbes.com/sites/break80/2026/04/02/phil-mickelson-set-to-miss-2026-masters-due-to-personal-health-matter/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Bye Bye, AMD! Cathie Wood Ditches 57K Advanced Micro Shares",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bye-bye-amd-cathie-wood-142538151.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Brands Keep Treating Gen Z Like Younger Millennials, And It's Costing Them",
-      "summary": "Gen Z shops secondhand first, compares brands to creators, and expects to shape what they buy. Here's what the data says brands are getting wrong.",
-      "url": "https://www.forbes.com/sites/christinecarter/2026/04/02/brands-keep-treating-gen-z-like-younger-millennials-and-its-costing-them/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Gilead Sciences's Q1 2026 Earnings: What to Expect",
+      "summary": "",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/gilead-sciencess-q1-2026-earnings-142152860.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Fourth US Navy Supercarrier Has Headed To Sea, Conducting ‘Routine Operations’",
-      "summary": "The USS Theodore Roosevelt (CVN-71), the fourth Nimitz-class nuclear-powered aircraft carrier, departed from Naval Base San Diego on Sunday",
-      "url": "https://www.forbes.com/sites/petersuciu/2026/04/02/fourth-us-navy-supercarrier-has-headed-to-sea-conducting-routine-operations/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Here’s Why Centene Corporation (CNC) Fell in Q4",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-centene-corporation-cnc-fell-142129246.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Andy Reid: Kenneth Walker Brings ‘Another Element’ To Chiefs’ Offense",
-      "summary": "Kansas City Chiefs head coach Andy Reid shared what running back Kenneth Walker brings to the Chiefs' offense.",
-      "url": "https://www.forbes.com/sites/trevorwoods/2026/04/02/andy-reid-kenneth-walker-brings-another-element-to-chiefs-offense/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Franklin Templeton debuts new crypto division following 250 Digital acquisition",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/franklin-templeton-debuts-crypto-division-143109334.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "How ‘Project Hail Mary’ Cracked The Code Hollywood Has Been Searching For",
-      "summary": "Gosling’s opening night speech was a crowd pleaser and a positioning statement. And the box office agreed.",
-      "url": "https://www.forbes.com/sites/oliviashalhoup/2026/04/02/how-project-hail-mary-cracked-the-code-hollywood-has-been-searching-for/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Oil Price Predictions Surge to $200 a Barrel as the Strait of Hormuz Blockage Drags On",
+      "summary": "",
+      "url": "https://finance.yahoo.com/sectors/energy/articles/oil-price-predictions-surge-200-143222139.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Louis C.K.'s 'Me Too' Comeback With Netflix: First Big Deal After Sexual Misconduct Allegations",
-      "summary": "Louis C.K.’s new Netflix deal comes nine years after the streaming service cut ties with the comedian and lost millions shelving a stand-up special it planned to release.",
-      "url": "https://www.forbes.com/sites/conormurray/2026/04/02/louis-cks-me-too-comeback-with-netflix-first-big-deal-after-sexual-misconduct-allegations/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "7 Telltale Signs You’re Growing Wealth Like a Millionaire",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/articles/7-key-signs-millionaire-status-130008582.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "‘KPop Demon Hunters’ Ties Rosé’s All-Time Record, Making K-Pop History",
-      "summary": "“Golden” from KPop Demon Hunters ties a major record as it matches “Apt.” for the longest run by a K-pop hit on Billboard's Digital Song Sales chart.",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/04/02/kpop-demon-hunters-ties-ross-all-time-record-making-k-pop-history/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Exxon, Chevron, and More Oil Stocks Fall. Why That Could Be the New Normal.",
+      "summary": "",
+      "url": "https://www.barrons.com/articles/exxon-chevron-stocks-oil-prices-f7d80083?siteid=yhoof2&yptr=yahoo",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
+        "importance": 75,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "‘The Pitt’ Season 3 Is Losing A Popular Doctor",
-      "summary": "The Pitt season 3 will say goodbye to a popular cast member, one of the show's most memorable doctors to date.",
-      "url": "https://www.forbes.com/sites/paultassi/2026/04/02/the-pitt-season-3-is-losing-a-popular-doctor/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Just foolin': Wizards sorry about $10K shot 'skit'",
+      "summary": "The Wizards have apologized for an April Fools' \"skit\" in which a planted fan was seemingly tricked into believing he made a half-court shot for $10,000, saying the entire bit was scripted but that they \"missed the mark.\"",
+      "url": "https://www.espn.com/nba/story/_/id/48378756/wizards-apologize-april-fools-stunt-say-bit-was-scripted",
+      "source_name": "ESPN NBA",
+      "topic": "nba",
       "scores": {
-        "importance": 80,
+        "importance": 73,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 80,
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "National Policy Framework Turns AI Preemption Into A 2026 Political Test",
-      "summary": "Trump’s AI framework pushes federal preemption to the center of U.S. AI policy, setting up a 2026 fight over state power, accountability and national standards.",
-      "url": "https://www.forbes.com/sites/paulocarvao/2026/04/02/national-policy-framework-turns-ai-preemption-into-a-2026-political-test/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Lemonade by AMD: a fast and open source local LLM server using GPU and NPU",
+      "summary": "93 HN comments. 390 points. by AbuAssar.",
+      "url": "https://lemonade-server.ai",
+      "source_name": "HackerNews",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
+        "importance": 65,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 45
+      },
+      "why_it_matters": "390 pts · 93 comments by AbuAssar · lemonade-server.ai",
+      "tags": [
+        "hackernews",
+        "tech"
+      ]
+    },
+    {
+      "title": "NBA betting: Spurs to win it all and other playoff bets to make right now",
+      "summary": "The panel identifies the NBA playoff futures bets that can pay off big.",
+      "url": "https://www.espn.com/espn/betting/story/_/id/48380039/nba-playoffs-futures-bets-make-right-now",
+      "source_name": "ESPN NBA",
+      "topic": "nba",
+      "scores": {
+        "importance": 62,
+        "novelty": 0,
+        "confidence": 70,
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "BTS Passes Eminem And Beyoncé With A New No. 1 Hit",
-      "summary": "BTS earns its thirteenth No. 1 on Billboard's Digital Song Sales chart as \"Swim\" debuts. The band passes Beyonce, Eminem and Bruno Mars and ties Justin Bieber's record.",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/04/02/bts-passes-eminem-and-beyonc-with-a-new-no-1-hit/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "NBA Futures: Lakers' championship odds shortening, Wemby making MVP push",
+      "summary": "null",
+      "url": "https://www.espn.com/espn/betting/story/_/id/45539787/2025-nba-finals-odds-mvp-2025-26-championship-betting",
+      "source_name": "ESPN NBA",
+      "topic": "nba",
       "scores": {
-        "importance": 80,
+        "importance": 62,
         "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Why China May Be The Key To Unlock The Strait Of Hormuz",
-      "summary": "How China will likely play a key role in restoring flows to the Strait of Hormuz and potentially avoiding a global economic recession.",
-      "url": "https://www.forbes.com/sites/mattrandolph/2026/04/02/why-china-may-be-the-key-to-unlock-the-strait-of-hormuz/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "‘The Drama’ Rotten Tomatoes Reviews Favor Zendaya And Pattinson’s Rom-Com",
-      "summary": "Zendaya and Robert Pattinson’s “The Drama” is taking the plunge in theaters this weekend. What are Rotten Tomatoes critics saying about the movie?",
-      "url": "https://www.forbes.com/sites/timlammers/2026/04/02/the-drama-rotten-tomatoes-reviews-favor-zendaya-and-pattinsons-rom-com/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 90
+        "confidence": 60,
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
