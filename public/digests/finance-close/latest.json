@@ -3,48 +3,18 @@
   "date": "2026-04-03",
   "title": "Finance Close",
   "item_count": 15,
-  "last_published": "2026-04-03T22:01:48.554535+00:00",
+  "last_published": "2026-04-03T22:01:59.600753+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Food inflation to continue if West Asia war goes on: UN",
-      "summary": "Global food prices surged in March to their highest point since September, driven by rising energy costs from the West Asia conflict. The UN's FAO warns that prolonged conflict could lead to reduced planting and lower future yields, impacting food supply and prices throughout the year and into the next.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/food-inflation-to-continue-if-west-asia-war-goes-on-un/articleshow/130008421.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 85,
-        "confidence": 85,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "These master's degrees lead to fast-growing, in-demand jobs—but offer low ROI",
-      "summary": "Getting a master's degrees in social work and psychology may not deliver the best return on investment. But job placement and fulfillment may come easier.",
-      "url": "https://www.cnbc.com/2026/04/03/masters-degrees-low-roi.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 91,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "MONSTA X Releases Emotional 3rd English Album, 'Unfold'",
-      "summary": "MONSTA X's 3rd all-English album, Unfold, is now out, telling an emotional journey of the evolution of love, heartbreak, and healing, with lead single, \"heal.\"",
-      "url": "https://www.forbes.com/sites/laurasirikul/2026/04/03/monsta-x-releases-emotional-3rd-english-album-unfold/",
+      "title": "Lakewood, Colorado’s Zoning Vote Is A Housing Affordability Bellwether",
+      "summary": "The $500,000 Starter Home Problem: Why Lakewood, Colorado's April 7 Ballot Matters to Every American City",
+      "url": "https://www.forbes.com/sites/kellyfleming/2026/04/03/lakewood-colorados-zoning-vote-is-a-housing-affordability-bellwether/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 90,
+        "novelty": 92,
         "confidence": 75,
         "user_fit": 90
       },
@@ -52,39 +22,9 @@
       "tags": []
     },
     {
-      "title": "Kandi Burruss Paying ‘Bills, Bills, Bills’ In Divorce Settlement",
-      "summary": "Kandi Burruss and Todd Tucker just amicably finalized their divorce. Here's a breakdown of their prenup dispute, the $426,000 payout, and their co-parenting terms.",
-      "url": "https://www.forbes.com/sites/legalentertainment/2026/04/03/kandi-burruss-paying-bills-bills-bills-in-divorce-settlement/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Second U.S. Plane Reportedly Crashes In Persian Gulf—After Iran Shot Down Jet (Live Updates)",
-      "summary": "Iranian state media posted pictures of what it says is wreckage of a U.S. fighter jet it shot down over central Iran.",
-      "url": "https://www.forbes.com/sites/conormurray/2026/04/03/second-us-plane-reportedly-crashes-in-persian-gulf-after-iran-shot-down-jet-live-updates/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 89,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Trump’s $1.5 Trillion Defense Spending Delivers Little To Americans",
-      "summary": "President Trump wants $1.5 trillion for defense—over 40% more than last year—while Americans face rising costs for food, gas, healthcare, and housing.",
-      "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/04/03/trumps-15-trillion-defense-spending-delivers-little-to-americans/",
+      "title": "Pam Bondi Still Under Subpoena Over Epstein Files—Here's What She Must Tell Congress: Wasserman Schultz",
+      "summary": "On \"Forbes Newsroom,\" Rep. Debbie Wasserman Schultz (D-FL) responded to the firing of Attorney General Pam Bondi.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/04/03/pam-bondi-still-under-subpoena-over-epstein-files-heres-what-she-must-tell-congress-wasserman-schultz/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
@@ -97,14 +37,14 @@
       "tags": []
     },
     {
-      "title": "US Navy Supercarrier USS Gerald R. Ford Isn’t Coming Home Yet",
-      "summary": "The U.S. Navy’s largest aircraft carrier is likely to remain in the Middle East, as additional warships and U.S. Air Force aircraft are sent to the region.",
-      "url": "https://www.forbes.com/sites/petersuciu/2026/04/03/us-navy-supercarrier-uss-gerald-r-ford-isnt-coming-home-yet/",
+      "title": "If You Want To Know The Economic Impact Of War Against Iran, Look At Transportation: Economist",
+      "summary": "Economist Clifford Winston joined \"Forbes Newsroom\" to discuss what he believes America is getting wrong about the affordability crisis.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/04/03/if-you-want-to-know-the-economic-impact-of-war-against-iran-look-at-transportation-economist/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 86,
+        "novelty": 80,
         "confidence": 75,
         "user_fit": 90
       },
@@ -112,14 +52,14 @@
       "tags": []
     },
     {
-      "title": "BTS Matches Taylor Swift’s Historic Chart Showing",
-      "summary": "BTS fills nine of the top 10 spots on the Billboard Global 200 with songs from Arirang, tying a rare feat previously only achieved by Taylor Swift.",
-      "url": "https://www.forbes.com/sites/hughmcintyre/2026/04/03/bts-matches-taylor-swifts-historic-chart-showing/",
+      "title": "Trump Fires Pam Bondi As AG— What Does Her Tenure Of 'Ineffectiveness' Mean For The DOJ's Legacy?",
+      "summary": "One of President Trump's most loyal allies, Attorney General Pam Bondi, is officially out as the leader of the Department of Justice.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/04/03/trump-fires-pam-bondi-as-ag--what-does-her-tenure-of-ineffectiveness-mean-for-the-dojs-legacy/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 86,
+        "novelty": 80,
         "confidence": 75,
         "user_fit": 90
       },
@@ -127,106 +67,166 @@
       "tags": []
     },
     {
-      "title": "Bernie Sanders calls out Bezos, Musk, Bloomberg, and Buffett in billionaire tax push: ‘The richest people in America have never ever had it so good’",
-      "summary": "The Vermont senator had some harsh words for billionaires who aren’t paying their fair share of taxes.",
-      "url": "https://fortune.com/2026/04/03/bernie-sanders-bezos-musk-bloomberg-buffett-billionaire-tax-push-effective-rate-wealth-taxes/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "Novartis AG (NVS) Announces Final Two-Year Results From Phase III APPLAUSE‑IgAN Study",
+      "summary": "",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/novartis-ag-nvs-announces-final-144732520.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 90
+        "importance": 75,
+        "novelty": 88,
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "MIT created duplicate AI workers to tackle thousands of different tasks. The verdict? Most of the time AI is still just ‘minimally sufficient’",
-      "summary": "AI is improving fast, but it has a long way to go before it can outperform humans in demanding tasks.",
-      "url": "https://fortune.com/2026/04/03/mit-finds-ai-mostly-produces-minimally-sufficient-work/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "John Delony’s Four-Step Plan for a Vet Upside Down $16,000 on a $76,000 Truck",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/options/articles/john-delony-four-step-plan-144556908.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 90
+        "importance": 75,
+        "novelty": 88,
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "How ‘Pizza Movie’ Delivered A Stoner Comedy With Extra Toppings",
-      "summary": "The directorial debut of BriTANicK comedy duo Brian McElhaney and Nick Kocher is a drug-fueled odyssey in the vein of 'Harold and Kumar Go To White Castle.'",
-      "url": "https://www.forbes.com/sites/joshweiss/2026/04/03/how-pizza-movie-delivered-a-stoner-comedy-with-all-the-toppings/",
+      "title": "Stop Trading Options Blind! Use This Data-Driven Workflow Instead.",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/options/articles/stop-trading-options-blind-data-145047692.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 86,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Bristol-Myers Squibb (BMY) Announces Positive Data from the Phase 3 SCOUT-HCM Trial of Camzyos",
+      "summary": "",
+      "url": "https://finance.yahoo.com/sectors/healthcare/articles/bristol-myers-squibb-bmy-announces-144606326.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 86,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "PDD Holdings Inc. (PDD) Gets Upgraded to Buy From Neutral by Nomura",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pdd-holdings-inc-pdd-gets-144417978.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 86,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Citi Cuts PT on Lululemon Athletica Inc. (LULU) to $185 From $210 – Here’s Why",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/citi-cuts-pt-lululemon-athletica-144313069.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 86,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Trump Said We 'Eviscerated' Iran. So Why Is The War Going On For 'Two To Three' More Weeks?",
+      "summary": "Dr. Rosemary Kelanic, director of the Middle East Program at Defense Priorities, joins \"Forbes Newsroom\" to discuss President Trump's remarks and the state of the war.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/04/03/trump-said-we-eviscerated-iran-so-why-is-the-war-going-on-for-two-to-three-more-weeks/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Why Hershey’s Is Facing A PR Crisis",
-      "summary": "Hershey's April Fools' Day reversal on Reese's classic recipe is the most important brand trust story in food retail this year.",
-      "url": "https://www.forbes.com/sites/phillempert/2026/04/03/reeses-recipe-controversy-inside-hersheys-backlash-moment/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "The AI kill switch just got harder to find: LLM-powered chatbots will defy orders and deceive users if asked to delete another model, study finds",
-      "summary": "“We asked AI models to do a simple task,” researchers said. “Instead, they defied their instructions … to preserve their peers.”",
-      "url": "https://fortune.com/2026/04/03/ai-kill-switch-study-llm-chatbots-defy-orders-decieve-users-peer-preservation/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Meta, Google under attack as court cases bypass 30-year-old legal shield",
-      "summary": "Internet platforms have long been able to rely on special protections to avoid liability for what takes place on their sites. But that may be changing.",
-      "url": "https://www.cnbc.com/2026/04/03/meta-google-under-attack-court-cases-bypass-30-year-old-legal-shield.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "For some around Trump, war on Iran is a Christian calling",
-      "summary": "Religion is playing a role in the US conflict with Iran. President Donald Trump has met with Christian pastors who offered blessings. Some officials view the conflict as a divine mission. This echoes historical religious wars. Iran's government is also religiously rooted. The US is invoking religious themes in its foreign policy.",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/youve-raised-trump-up-for-such-a-time-for-some-war-is-a-christian-calling/articleshow/130008477.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
         "novelty": 75,
-        "confidence": 85,
+        "confidence": 75,
         "user_fit": 90
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Prediction markets put SpaceX closing market cap at $1.86 trillion as Project Apex shapes up to be the biggest IPO in history",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/prediction-markets-put-spacex-closing-144505472.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 85,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "AI tied to a quarter of US layoffs in March",
+      "summary": "",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/ai-tied-quarter-us-layoffs-144337314.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 85,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "ADT (ADT) Seen as a Resilient Play with Strategic Partnerships and Recurring Revenue Strength",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/adt-adt-seen-resilient-play-144154896.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 84,
+        "confidence": 60,
+        "user_fit": 95
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "What Does the Street Think About Victoria’s Secret & Co. (VSCO)?",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/does-street-think-victoria-secret-144535210.html",
+      "source_name": "Yahoo Finance News",
+      "topic": "markets",
+      "scores": {
+        "importance": 75,
+        "novelty": 80,
+        "confidence": 60,
+        "user_fit": 95
       },
       "why_it_matters": "",
       "tags": []
