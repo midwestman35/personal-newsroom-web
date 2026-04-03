@@ -2,231 +2,51 @@
   "slug": "morning-brief",
   "date": "2026-04-03",
   "title": "Morning Brief",
-  "item_count": 15,
-  "last_published": "2026-04-03T12:01:56.276282+00:00",
+  "item_count": 3,
+  "last_published": "2026-04-03T12:03:48.766698+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "The architecture of resilience: Why India’s private credit stands apart",
-      "summary": "India’s private credit market stands resilient amid global stress due to its conservative fund structures, strict leverage norms, and closed-ended AIF framework. Unlike global peers facing liquidity and redemption pressures, India’s system aligns investor timelines with asset maturity, reducing systemic risks while offering significant growth headroom in an underpenetrated market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-architecture-of-resilience-why-indias-private-credit-stands-apart/articleshow/129994601.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
+      "title": "Open Source Security Tool Trivy Hit by Supply Chain Attack, Prompting Urgent Industry Response",
+      "summary": "A major security incident affecting the widely used open source vulnerability scanner Trivy has exposed critical weaknesses in software supply chain security, after maintainers confirmed that a malicious release was briefly distributed to users. By Craig Risi",
+      "url": "https://www.infoq.com/news/2026/04/trivy-supply-chain-attack/?utm_campaign=infoq_content&utm_source=infoq&utm_medium=feed&utm_term=global",
+      "source_name": "InfoQ",
+      "topic": "technology",
       "scores": {
-        "importance": 82,
+        "importance": 76,
         "novelty": 0,
         "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Most and least shorted mid-to mega-cap healthcare stocks in March",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4571920-most-and-least-shorted-mid-to-mega-cap-healthcare-stocks-in-march?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 0,
+        "confidence": 65,
         "user_fit": 85
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "De-dollarisation, war, and debt: Why gold is regaining monetary relevance",
-      "summary": "Gold is regaining prominence as global markets face geopolitical tensions, rising debt and de-dollarisation trends. Central bank buying, structural shifts in the financial system and weakening confidence in fiat currencies are driving demand. Despite short-term volatility, gold’s long-term outlook remains strong amid a transition towards a multipolar global economic order.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/views/de-dollarisation-war-and-debt-why-gold-is-regaining-monetary-relevance/articleshow/129994795.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
+      "title": "Patrick Wilson’s Latest Horror Movie Is Coming To Prime Video Soon",
+      "summary": "A Patrick Wilson-led horror movie will begin streaming on Amazon Prime Video later this month. It is a part of the franchise that began in 2013 and has several movies. The Conjuring: Last Rites to stream on Prime Video this month The Conjuring: Last Rites will premiere on Amazon Prime Video on Tuesday, April 21, […] The post Patrick Wilson’s Latest Horror Movie Is Coming To Prime Video Soon appeared first on ComingSoon.net - Movie Trailers, TV & Streaming News, and More .",
+      "url": "https://www.comingsoon.net/movies/news/2114842-patrick-wilson-horror-movie-prime-video-release-date",
+      "source_name": "ComingSoon.net",
+      "topic": "entertainment",
       "scores": {
-        "importance": 82,
+        "importance": 59,
         "novelty": 0,
         "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Q4 impact: Bank stocks slump up to 32% in 3 months, but brokerages bet on SBI, HDFC Bank, 6 more stocks. Check why",
-      "summary": "Banking stocks have slumped up to 32% over three months, underperforming the Nifty amid FII outflows, rising oil prices and rate concerns. Brokerages remain selective, backing SBI, ICICI Bank and others despite margin pressure. Q4 results and FY27 outlook will be key triggers for the sector’s recovery.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q4-impact-bank-stocks-slump-up-to-32-in-3-months-but-brokerages-bet-on-sbi-hdfc-bank-6-more-stocks-check-why/articleshow/129994128.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Investing in debt mutual funds now? How rising yields may impact returns",
-      "summary": "Rising geopolitical tensions in the Middle East have pushed up crude oil prices, triggering a rise in bond yields in India. Higher oil prices, along with a weakening rupee, are stoking inflation concerns and prompting investors to reassess their debt portfolios as mark-to-market losses emerge—particularly in long-duration funds, as reported by ET Bureau.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/investing-in-debt-mutual-funds-now-how-rising-yields-may-impact-returns/reassess-your-portfolio/slideshow/129995922.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Losing $1 billion a day: Gurmeet Chadha urges PMO, Finance Ministry to revisit capital gains tax, STT",
-      "summary": "Gurmeet Chadha has urged the government to revisit capital gains tax and STT, citing sustained foreign capital outflows. He claims India is losing nearly $1 billion daily since July 2024. The remarks come amid heavy FII selling, rising tax burdens and concerns over weakening investor sentiment in Indian equity markets.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/losing-1-billion-a-day-gurmeet-chadha-urges-pmo-finance-ministry-to-revisit-capital-gains-tax-stt/articleshow/129995974.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Axis Bank to deepen insurance bet with Rs 389 crore infusion in Axis Max Life; stake seen at 19.99%",
-      "summary": "Axis Bank plans to invest Rs 389 crore in Axis Max Life, raising its combined stake to 19.99%, near the regulatory cap. The move strengthens its insurance play as the sector expands. The deal remains subject to approvals, while Max Financial will retain majority ownership of around 80%.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/axis-bank-to-deepen-insurance-bet-with-rs-389-crore-infusion-in-axis-max-life-stake-seen-at-19-99/articleshow/129994737.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 81,
-        "novelty": 0,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Inside This American Coal Miner’s Comeback",
-      "summary": "With shipments of natural gas trapped behind Hormuz, desperate nations are looking for dirty coal. That's good news for America’s biggest coal miner.",
-      "url": "https://www.forbes.com/sites/christopherhelman/2026/04/03/the-american-miner-peabody-energy-behind-coals-comeback/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Who Is Mark Lee? Why The Internet Is Reeling Over His Exit From NCT",
-      "summary": "If you opened social media today and found the name Mark Lee trending alongside words like \"heartbroken,\" or \"end of an era\", here is what you need to know.",
-      "url": "https://www.forbes.com/sites/hannahabraham/2026/04/03/who-is-mark-lee-why-the-internet-is-reeling-over-his-exit-from-nct/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Macron Says Nations Should Stand Up To U.S. And China As Trump Feud Grows",
-      "summary": "The French president urged countries to band together to avoid becoming “vassals” or face the “dominance” of China or the “unpredictability” of the U.S.",
-      "url": "https://www.forbes.com/sites/siladityaray/2026/04/03/macron-urges-countries-to-stand-up-to-hegemonic-powers-us-and-china-amid-growing-trump-feud/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Dodgers’ Max Muncy Claims Rogers Centre Before Blue Jays Visit: ‘This Is Our Building’",
-      "summary": "The Los Angeles Dodgers veteran sent a message about Toronto Blue Jays fans as the team prepares to visit Canada.",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/04/03/dodgers-max-muncy-claims-rogers-centre-before-blue-jays-visit-this-is-our-building/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "As The War In Iran Continues, Trump Threatens To Withdraw From NATO",
-      "summary": "U.S. President Donald Trump has threatened to withdraw the United States from NATO in response to Europe's unwillingness to participate in the war in Iran.",
-      "url": "https://www.forbes.com/sites/marktemnycky/2026/04/03/as-the-war-in-iran-continues-trump-threatens-to-withdraw-from-nato/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "NBA's 65-Game Awards Rule Claims More Victims, And Luka Dončić Could Be Next",
-      "summary": "Anthony Edwards and Cade Cunningham are now ineligible to be named to the All-NBA team, and Luka Doncic may soon join them.",
-      "url": "https://www.forbes.com/sites/bryantoporek/2026/04/03/nbas-65-game-awards-rule-claims-more-victims-and-luka-doni-could-be-next/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Energy Dominated Q1 2026 As The Broader Market Stumbled",
-      "summary": "Energy stocks dominated Q1 2026 as tight supply, strong cash flow, and disciplined capital spending drove outsized gains across upstream, midstream, and refining sectors.",
-      "url": "https://www.forbes.com/sites/rrapier/2026/04/03/energy-dominated-q1-2026-as-the-broader-market-stumbled/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Republicans Must Laser Focus On Passing Kudlow’s Economic Plan",
-      "summary": "Congressional Republicans must shed their timidity, and esteemed economist and broadcaster Larry Kudlow shows them how.",
-      "url": "https://www.forbes.com/sites/steveforbes/2026/04/03/republicans-must-laser-focus-on-passing-kudlows-economic-plan/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "UConn Senior Sam Calhoun Is Covering The Basketball Program His Grandfather Built",
-      "summary": "UConn senior Sam Calhoun covers the men's basketball team for the student newspaper. His grandfather, Jim, won three national titles as UConn's coach.",
-      "url": "https://www.forbes.com/sites/timcasey/2026/04/03/uconn-senior-sam-calhoun-is-covering-the-basketball-program-his-grandfather-built/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 0,
-        "confidence": 75,
-        "user_fit": 85
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
