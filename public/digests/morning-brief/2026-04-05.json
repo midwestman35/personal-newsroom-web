@@ -3,230 +3,230 @@
   "date": "2026-04-05",
   "title": "Morning Brief",
   "item_count": 15,
-  "last_published": "2026-04-05T12:01:57.642556+00:00",
+  "last_published": "2026-04-05T12:02:02.890592+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "UConn Coach Dan Hurley Brings His Wannabe Bob Knight Imitation To Indiana",
-      "summary": "Dan Hurley is explosive as a college basketball coach. He also is successful. Not that folks have to like either one, and they don't. Not unless they cheer for UConn.",
-      "url": "https://www.forbes.com/sites/terencemoore/2026/04/05/so-appropriate-uconns-dan-hurley-brings-his-bob-knight-imitation-to-indiana/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Artifacts",
+      "summary": "I. I once knew a wonderful man . He was kind, gentle, and beloved by many. He was so wise that when he graduated from college, Mahatma Gandhi himself handed him his diploma. He was a scholar and a gentleman, blessed with the unique gift of deeply knowing Sanskrit and Hindi. He spent much of his life translating scrolls filled with the wisdom of the ancients into modern language — in pursuit of preserving history. II. When Mongol troops raided the House of Wisdom and dumped so many manuscripts in",
+      "url": "https://fabisevi.ch/2025/07/23/artifacts/",
+      "source_name": "Fabisevi.ch",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Dipping Into ‘Rejection Therapy’ As A Self-Behavioral Resiliency Approach Via AI Guidance",
-      "summary": "People are trying out rejection therapy. It is informal. Best to use AI as an advisor to get things right. I explain how. An AI Insider scoop.",
-      "url": "https://www.forbes.com/sites/lanceeliot/2026/04/05/dipping-into-rejection-therapy-as-a-self-behavioral-resiliency-approach-via-ai-guidance/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "‘No one is saying, ‘I want more cancer with my candy”: Why Peeps are a ‘food chemical success story’ despite RFK Jr’s campaign to destroy their dyes",
-      "summary": "Peeps, that holiday candy tradition of bunnies and chicks that get eaten or are left to stale, are at the center of a food dye battle with MAHA.",
-      "url": "https://fortune.com/2026/04/05/peeps-food-chemical-success-story-maha-healthy-rfk-dyes-easter-candy-fda/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Meet the Gen Z grads reviving accounting—colleges are reporting near-perfect placement rates at $80K starting salaries",
-      "summary": "Once seen as boring and synonymous with tax season dread, accounting is now attracting Gen Z with high demand, near six-figure salaries, and near-guaranteed job offers.",
-      "url": "https://fortune.com/2026/04/05/gen-z-college-graduates-saving-accounting-six-figure-entry-level-jobs-tax-season/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Chasing trends or buying value? The strategy that wins over time",
-      "summary": "The global stock market landscape has become increasingly complex, shaped by macroeconomic uncertainty, geopolitical risks, and shifting liquidity conditions. Yet, amid this volatility, timeless investing principles, such as those advocated by Joel Greenblatt offer a structured lens to interpret market behavior and identify opportunities.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/chasing-trends-or-buying-value-the-strategy-that-wins-over-time/articleshow/130034440.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 80,
+        "importance": 79,
+        "novelty": 100,
         "confidence": 85,
-        "user_fit": 85
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "I’m a VC who bets on AI. What keeps me up at night isn’t the idea of these companies failing—quite the opposite",
-      "summary": "I've stopped asking, \"which AI company should I back?\" Instead, I've started asking which problems the major players are ignoring.",
-      "url": "https://fortune.com/2026/04/05/vc-ai-investing-saaspocalypse-emerging-markets-africa-novitske/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "Changelog",
+      "summary": "August 2024 August 16, 2024 : Added Changelog page. Added feedback modal to tool pages. August 14, 2024 : Auto-save tool settings in local storage. August 13, 2024 : Fixed logic for displaying login/signup buttons in nav. Added captcha to newsletter signup. August 2, 2024 : Added LD+JSON schema markup for tools.",
+      "url": "https://stackabuse.com/changelog/",
+      "source_name": "Stack Abuse",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 88,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 77,
+        "novelty": 100,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "'Anything but autos': Can defense save Europe’s ailing car industry?",
-      "summary": "The transition from wheels to weapons is achievable in part because many of the underlying skills are highly transferable, according to experts.",
-      "url": "https://www.cnbc.com/2026/04/05/autos-defense-europe-car-industry.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
+      "title": "AAA 628: Quantifiable Badness - Google IO schedule, tracker stalking, OnePlus Pad, YouTube Music podcasts",
+      "summary": "Google IO schedule is out! Google shares I/O 2023 session list, including What's new in Android, Material Design, and gen AI. Apple, Google team up to tackle Bluetooth tracker-stalking terror. Google says Android will separate notification and ringtone volume. The OnePlus Pad is an impressive tablet for its price. OnePlus Pad Is a Promising First Tablet That Won't Break the Bank. OnePlus Pad hands-on: I did not know they still made displays this bad. Motorola is finally bringing a real flagship",
+      "url": "https://twit.tv/shows/all-about-android/episodes/628",
+      "source_name": "All About Android (Audio)",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 88,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 92,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "HDFC Defence Fund among 13 equity MFs that delivered over 4% returns last week. Check top 5",
-      "summary": "Of the 614 funds analysed, 576 posted positive returns, one remained flat, and 37 delivered negative returns.",
-      "url": "https://economictimes.indiatimes.com/mf/analysis/hdfc-defence-fund-among-13-equity-mfs-that-delivered-over-4-returns-last-week-check-top-5/slideshow/130034963.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
+      "title": "Organ Donation & Pascal's Wager",
+      "summary": "I've always felt very conflicted about the idea of donating my organs when I die. On the one hand, it's entirely in accordance with my values. I strive to help anyone I can in any way I can, whenever possible — even in death. On the other hand, despite having lapsed in my Judaism — I think a lot about Pascal's Wager . 1 Pascal contends that a rational person should adopt a lifestyle consistent with the existence of God and should strive to believe in God. The reasoning for this stance involves t",
+      "url": "https://fabisevi.ch/2026/01/07/organ-donation-and-pascals-wager/",
+      "source_name": "Fabisevi.ch",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 87,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 91,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Errol Spence Jr. Confirms Comeback Fight And Opponent: ‘I’m Do You So Bad'",
-      "summary": "Errol Spence Jr. responded to Tim Tszyu's callout on X. Spence hasn't fought since the Crawford TKO in July 2023. Mid-2026 fight reported.",
-      "url": "https://www.forbes.com/sites/brianmazique/2026/04/05/errol-spence-jr-confirms-comeback-fight-and-opponent-im-do-you-so-bad/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "FLOSS Weekly 752: Stalkers Beware - Cooper Quintin on Personal Privacy and TOR University Challenge",
+      "summary": "Cooper Quintin of the EFF treats Doc Searls and Katherine Druckman to plenty of wisdom about the extremes of constant personal privacy exposure online, and how some of the worst threats can come from people you know. The stalkerware industry that allows people to spy on victims easily. How can we truly decentralize social media? The expanding data broker industry. Effective mitigation like encryption tools and pushing for privacy laws. Hosts: Doc Searls and Katherine Druckman Guest: Cooper Quint",
+      "url": "https://twit.tv/shows/floss-weekly/episodes/752",
+      "source_name": "FLOSS Weekly (Audio)",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 87,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 91,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-      "summary": "NCAA President: Influence Of Agents In College Sports Is ‘Insane,’ Trump’s Executive Order Would ‘Create A Little Less Chaos’",
-      "url": "https://www.forbes.com/sites/adamzagoria/2026/04/04/ncaa-president-influence-of-agents-in-college-sports-is-insane-trumps-executive-order-would-create-a-little-less-chaos/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "FLOSS Weekly 743: Data Is Surprisingly Exciting - Apache SeaTunnel, William Kwok",
+      "summary": "William Kwok speaks with Doc Searls and Shawn Powers about Apache SeaTunnel, an exciting and extremely useful open-source way to synchronize multiple databases. Hosts: Doc Searls and Shawn Powers Guest: William Kwok Download or subscribe to this show at https://twit.tv/shows/floss-weekly Think your open source project should be on FLOSS Weekly? Email floss@twit.tv . Thanks to Lullabot's Jeff Robbins, web designer and musician, for our theme music. Get episodes ad-free with Club TWiT at https://t",
+      "url": "https://twit.tv/shows/floss-weekly/episodes/743",
+      "source_name": "FLOSS Weekly (Audio)",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 91,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Six Lessons From A Billionaire Who Once Sold His Blood To Buy Food",
-      "summary": "The billionaire who revitalized Brooklyn’s waterfront went from working on a farm to building a real estate empire worth billions. These are lessons from his journey.",
-      "url": "https://www.forbes.com/sites/kirkogunrinde/2026/04/05/six-lessons-from-a-david-walentas-billionaire-who-once-sold-his-blood-to-buy-food/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Upcoming SDK minimum requirements",
+      "summary": "Starting April 28, 2026, apps and games uploaded to App Store Connect need to meet the following minimum requirements: iOS and iPadOS apps must be built with the iOS 26 & iPadOS 26 SDK or later tvOS apps must be built with the tvOS 26 SDK or later visionOS apps must be built with the visionOS 26 SDK or later watchOS apps must be built with the watchOS 26 SDK or later Learn more about submitting",
+      "url": "https://developer.apple.com/news/?id=ueeok6yw",
+      "source_name": "News - Apple Developer",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 78,
+        "novelty": 92,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "1 Hotel Tokyo Reimagines Luxury In The Sky",
-      "summary": "Barry Sternlicht’s newest property in Tokyo, 1 Hotel Tokyo, redefines hospitality, offering a seamless blend of design and nature.",
-      "url": "https://www.forbes.com/sites/irenelevine/2026/04/04/1-hotel-tokyo-reimagines-luxury-in-the-sky/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "AAA 621: A Major Minor Upgrade - Honor Magic Vs 5G review, Pixel Fold/Pixel 7a leaks, Android 14 Dev Preview 2",
+      "summary": "@MishaalRahman: Here is what's new in Android 14 Developer Preview 2. Google is preparing to crack down on apps that claim to speed up your Android phone. New for Pixel: Fall Detection, faster Night Sight, and more. Stadia's pivot to a cloud service has also been shut down. Google Pixel 7a surfaces in hands-on leak with 8GB RAM, updated camera bar design. These blurry subway photos may offer the latest Pixel Fold leak. Google Pixel Fold & Pixel 7a: Colors & Storage; in stores from June?",
+      "url": "https://twit.tv/shows/all-about-android/episodes/621",
+      "source_name": "All About Android (Audio)",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Geno Auriemma’s Apology Misses The Mark By Leaving Out Dawn Staley",
-      "summary": "Geno Auriemma apologized for his post-game conduct, but his omission of Dawn Staley's name represents a problematic double standard.",
-      "url": "https://www.forbes.com/sites/lindseyedarvin/2026/04/04/geno-auriemmas-apology-misses-the-mark-by-leaving-out-dawn-staley/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "Lights, Camera, Action Button",
+      "summary": "The iPhone 15 Pro launched with a marquee feature, the Action Button. The Action Button set out to replace the mute switch, which had existed since the first iPhone was released back in 2007. The Action Button is a software-powered button, replacing what previously was a hardware switch that would toggle your phone’s silent mode on or off. The appeal of the Action Button was that now you could decide what the side button should do for you. If you wanted it to be a mute switch, no problem, the Ac",
+      "url": "https://fabisevi.ch/2025/02/28/lights-camera-action-button/",
+      "source_name": "Fabisevi.ch",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Your neighbor just got a home security system, but should you be worried? ‘It’s inherently a little creepy’ says surveillance expert",
-      "summary": "SimpliSafe CEO Hilary Schneider says the home security system industry needs to answer the question of who owns your footage.",
-      "url": "https://fortune.com/2026/04/05/surveillance-camera-security-privacy/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "Creating Slick Color Palette APIs",
+      "summary": "The work of writing maintainable code is an ongoing endeavor and some of my favorite problems to solve are ones that build maintainable systems. Maintainable systems are ones you can learn once, easily manipulate, and ideally take from project to project. My favorite part of building maintainable systems is that it minimizes the amount of work I need to do when starting a new project, and like it is for many programmers hitting ⌘ + ⇪ + N to start a new project is one of the most satisfying feeli",
+      "url": "https://fabisevi.ch/2021/08/24/creating-slick-color-palette-apis/",
+      "source_name": "Fabisevi.ch",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Michigan’s Aday Mara Fires Shot At UCLA: ‘Didn’t Have The Opportunity To Show What I Was Able To Do’",
-      "summary": "Michigan Star Aday Mara Fires Shot At UCLA: ‘Didn’t Have The Opportunity To Show What I Was Able To Do’",
-      "url": "https://www.forbes.com/sites/adamzagoria/2026/04/05/michigans-aday-mara-fires-shot-at-ucla-didnt-have-the-opportunity-to-show-what-i-was-able-to-do/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
+      "title": "FLOSS Weekly 759: ActivityPub Crawl - Evan Prodromou on ActivityPub & OpenEarth",
+      "summary": "Doc Searls and Jonathan Bennett go deep into what's happening in the fediverse with Evan Prodromou, the co-creator of ActivityPub, the open protocol behind Mastodon and other truly social networks on the Internet. Hosts: Doc Searls and Jonathan Bennett Guest: Evan Prodromou Download or subscribe to this show at https://twit.tv/shows/floss-weekly Think your open source project should be on FLOSS Weekly? Email floss@twit.tv . Thanks to Lullabot's Jeff Robbins, web designer and musician, for our th",
+      "url": "https://twit.tv/shows/floss-weekly/episodes/759",
+      "source_name": "FLOSS Weekly (Audio)",
+      "topic": "technology",
       "scores": {
-        "importance": 80,
-        "novelty": 84,
-        "confidence": 75,
-        "user_fit": 85
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "FLOSS Weekly 753: Small Is Beautiful - Aral Balkan, Small Technology Foundation",
+      "summary": "Aral Balkan of the Small Technology Foundation talks with Doc Searls and Dan Lynch about the small web, the tame little server called Kitten, and much more about the wide open world we've been losing and how to get it back. Hosts: Doc Searls and Dan Lynch Guest: Aral Balkan Download or subscribe to this show at https://twit.tv/shows/floss-weekly Think your open source project should be on FLOSS Weekly? Email floss@twit.tv . Thanks to Lullabot's Jeff Robbins, web designer and musician, for our th",
+      "url": "https://twit.tv/shows/floss-weekly/episodes/753",
+      "source_name": "FLOSS Weekly (Audio)",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Updating to .NET 8, updating to IHostBuilder, and running Playwright Tests within NUnit headless or headed on any OS",
+      "summary": "I've been doing not just Unit Testing for my sites but full on Integration Testing and Browser Automation Testing as early as 2007 with Selenium. Lately, however, I've been using the faster and generally more compatible Playwright . It has one API and can test on Windows, Linux, Mac, locally, in a container (headless), in my CI/CD pipeline, on Azure DevOps, or in GitHub Actions. For me, it's that last moment of truth to make sure that the site runs completely from end to end. I can write those P",
+      "url": "http://feeds.hanselman.com/~/873234002/0/scotthanselman~Updating-to-NET-updating-to-IHostBuilder-and-running-Playwright-Tests-within-NUnit-headless-or-headed-on-any-OS",
+      "source_name": "Scott Hanselman's Blog",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 90,
+        "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "AAA 624: The Bard of Colorado - Unihertz Tank and Tick Tock, Nokia G22, Nearby Share",
+      "summary": "April Fool's roundup Android's answer to AirDrop is available in Beta Google Drive kills controversial file limit just weeks after it was discovered. Pixel April 2023 update is late, marking second delay in a row The April 2023 security patch rolled out early to this Pixel 5 owner OPPO, OnePlus reportedly exiting UK and Europe (update: temporary exit?) Matteo's Hardware Shack! Unihertz Tank Unihertz TickTock S Nokia G22 Mighty Motorola Edge 40 Pro is here, and Motorola hints it might come to the",
+      "url": "https://twit.tv/shows/all-about-android/episodes/624",
+      "source_name": "All About Android (Audio)",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 89,
+        "confidence": 85,
+        "user_fit": 75
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "AAA 620: Fairphone 2, We Salute You - Android 15 dessert, Google I/0 date, Unihertz Luna, Coca-Cola phone, silicon-carbon battery tech",
+      "summary": "@MishaalRahman: It's a bit earlier than usual, but it seems the internal dessert code name for Android 15 V has been revealed: \"Vanilla Ice Cream.\" Google Is Holding the 2023 I/O Conference Date Hostage Until We All Do Its Stupid Puzzle. Google I/O 2023 takes place May 10. Fairphone 2 gets its final software update seven years after its original release. $300 Unihertz Luna is heavily inspired by the Nothing Phone (1). Tank - 22000mAh Largest Battery 4G Rugged Smartphone. Nothing Phone (2) Will B",
+      "url": "https://twit.tv/shows/all-about-android/episodes/620",
+      "source_name": "All About Android (Audio)",
+      "topic": "technology",
+      "scores": {
+        "importance": 79,
+        "novelty": 89,
+        "confidence": 85,
+        "user_fit": 75
       },
       "why_it_matters": "",
       "tags": []
