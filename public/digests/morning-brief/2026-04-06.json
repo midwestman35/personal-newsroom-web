@@ -2,169 +2,19 @@
   "slug": "morning-brief",
   "date": "2026-04-06",
   "title": "Morning Brief",
-  "item_count": 15,
-  "last_published": "2026-04-06T12:02:08.939238+00:00",
+  "item_count": 4,
+  "last_published": "2026-04-06T12:02:28.840729+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "BofA cuts India's Nifty 50 earnings forecast as stagflation fears rise",
-      "summary": "BofA Securities has significantly lowered its earnings growth forecast for Nifty 50 companies to 8.5% for FY27, citing rising stagflation risks and potential impact of high crude oil prices. The brokerage also reduced India's GDP growth estimate and warned of a severe downturn in a worst-case scenario. Despite this, a resolution to the Iran conflict could boost the market.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bofa-cuts-indias-nifty-50-earnings-forecast-as-stagflation-fears-rise/articleshow/130054534.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 91,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "D-St eyes ‘Sell on Rise’ strategy amid West Asia tensions",
-      "summary": "Indian markets brace for volatility as the West Asia conflict fuels investor nervousness. Despite oversold conditions, a bearish undertone persists, with Nifty and Sensex facing their sixth consecutive weekly decline. The RBI's upcoming monetary policy review will be closely watched for sentiment cues. Analysts suggest cautious trading with specific strategies for Nifty and recommend select stocks for potential gains.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/d-st-eyes-sell-on-rise-strategy-amid-west-asia-tensions/articleshow/130048383.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 83,
-        "novelty": 88,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "RBI may keep rates unchanged, focus on rupee stability and bond yields",
-      "summary": "The Reserve Bank of India is widely expected to maintain interest rates and its policy stance unchanged due to global economic uncertainties, including the US-Israel conflict impacting energy prices and fiscal deficit concerns. Policymakers will closely monitor the rupee's performance and potential capital outflows, with the RBI possibly considering measures to support the currency without an aggressive immediate response.",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-may-keep-rates-unchanged-focus-on-rupee-stability-and-bond-yields/articleshow/130045979.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 83,
-        "novelty": 88,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "FY26 IPO performance: Only 1 in 3 delivered returns amid market volatility",
-      "summary": "The primary equity market in FY26 presented a challenging landscape, with most IPOs failing to deliver returns post-listing due to heightened volatility and foreign investor exodus. While only a third of the 109 mainboard IPOs posted positive returns, select companies like Ather Energy and Belrise Industries achieved significant gains.",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/fy26-ipo-performance-only-1-in-3-delivered-returns-amid-market-volatility/articleshow/130048353.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 88,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Wingstop: Antonio Swad. A Brilliant Idea — And a Nail-Biting Exit",
-      "summary": "A lot of founders spend their lives chasing one big idea. Antonio Swad had two. The first? Migrating chicken wings from the Happy Hour buffet to the center of the plate. The second? Building a pizza business that catered to a very specific demographic: Latinos. That first idea became Wingstop, a deep-fried wing concept that grew to 3,000 stores. The second became Pizza Patron, a franchise that rewarded customers for ordering in Spanish, and let them pay in pesos. This is the story of how Antonio",
-      "url": "",
-      "source_name": "How I Built This with Guy Raz",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 84,
-        "novelty": 88,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "RBL Bank shares jump 4% after exceptional Q4 update, RBI’s approval for Emirates NBD’s 74% stake acquisition",
-      "summary": "RBL Bank shares rose sharply on Monday after strong Q4 business numbers and the RBI’s nod for Emirates NBD to acquire up to 74% stake in the bank. Robust deposits and loan growth boosted sentiment, with the lender crossing Rs 2.5 lakh crore in total business. Analysts remain positive amid exceptional momentum.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbl-bank-shares-jump-4-after-exceptional-q4-results-rbis-approval-for-emirates-nbds-74-stake-acquisition/articleshow/130052674.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 82,
-        "novelty": 86,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Wipro shares gain 3% after bagging Olam deal worth more than $1 billion",
-      "summary": "Wipro Limited share price surged 3% following a significant deal with Olam Group. This multi-year strategic transformation contract is valued at over one billion dollars. Wipro will also acquire Olam's IT division, Mindsprint. The partnership aims to enhance Olam's operations across its entire value chain. This engagement marks a major expansion for Wipro in the food and agri-business sector.",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wipro-shares-in-focus-after-bagging-olam-deal-worth-more-than-1-billion/articleshow/130050070.cms",
-      "source_name": "Economic Times",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 83,
-        "novelty": 82,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "As 401(k) balances swell, financial advisors warn of retirement planning pitfalls",
-      "summary": "While a big retirement account balance is a good problem to have, it can come with challenges, financial advisors say.",
-      "url": "https://www.cnbc.com/2026/04/04/401k-balances-retirement-planning-pitfalls.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 92,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "There’s A War Of Independents In Podcasting",
-      "summary": "Podcasting was developed by small, niche, independent creators. While corporate podcast networks and celebrities have brought more attention to the industry, they've also endangered those indie entrepreneurs.",
-      "url": "https://www.forbes.com/sites/frankracioppi/2026/04/06/theres-a-war-of-independents-in-podcasting/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 81,
-        "novelty": 84,
-        "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "While other CEOs freeze entry-level roles, this AI founder is hiring Gen Z with zero experience",
-      "summary": "38% of bosses plan to hire fewer grads this year. This ex-Google exec is doing the opposite—hiring Gen Z with zero experience or degree required",
-      "url": "https://fortune.com/2026/04/06/while-other-ceos-freeze-entry-level-roles-this-ai-founder-is-hiring-gen-z-with-zero-experience/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 89,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Analyzing The Statistical Prevalence Of Lawyers Getting Snagged By AI Hallucinations In Their Court Filings",
-      "summary": "Attorneys are in trouble for including AI-hallucinated legal citations in their court filings. How prevalent is this? I provide a numeric analysis. An AI Insider scoop.",
-      "url": "https://www.forbes.com/sites/lanceeliot/2026/04/06/analyzing-the-statistical-prevalence-of-lawyers-getting-snagged-by-ai-hallucinations-in-their-court-filings/",
+      "title": "Red Sox Skipper Sends 4-Word Trevor Story Message As Concerns Mount",
+      "summary": "Boston Red Sox manager Alex Cora offered a direct response when asked if it’s time to move the shortstop out of the two hole.",
+      "url": "https://www.forbes.com/sites/peterchawaga/2026/04/06/red-sox-skipper-sends-4-word-trevor-story-message-as-concerns-mount/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 87,
+        "novelty": 81,
         "confidence": 75,
         "user_fit": 85
       },
@@ -172,14 +22,14 @@
       "tags": []
     },
     {
-      "title": "AI data center boom ‘stress tests’ insurers as private capital floods in",
-      "summary": "Rapid technological advancements and the huge sums of money flowing into the data center are posing both risks and rewards for insurers.",
-      "url": "https://www.cnbc.com/2026/04/06/ai-data-centers-financing-insurance-deals-gpu-debt.html",
-      "source_name": "US Top News and Analysis",
+      "title": "Former Top Prospect Taj Bradley Dealing For Twins - Is It Real?",
+      "summary": "Acquired from the Rays for Griffin Jax in 2025, Bradley has had two very successful starts to open 2026. Below the surface, however, contact management issues persist.",
+      "url": "https://www.forbes.com/sites/tonyblengino/2026/04/06/former-top-prospect-taj-bradley-dealing-for-twinsis-it-real/",
+      "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 87,
+        "novelty": 80,
         "confidence": 75,
         "user_fit": 85
       },
@@ -187,46 +37,31 @@
       "tags": []
     },
     {
-      "title": "Gold below Rs 1.5 lakh, silver down Rs 2,000 on dollar strength, Trump’s power plant threat to Iran. What should investors do?",
-      "summary": "Gold and silver prices dipped on Monday amid a stronger dollar and escalating Middle East tensions, dampening hopes for U.S. Federal Reserve rate cuts. Traders are now largely discounting any rate reductions this year. Experts advise caution, suggesting profit-booking on rallies and waiting for dips to initiate fresh positions.",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-below-rs-1-5-lakh-silver-down-rs-2000-on-dollar-strength-trumps-power-plant-threat-to-iran-what-should-investors-do/articleshow/130050503.cms",
-      "source_name": "Economic Times",
+      "title": "Midi Health: Menopause Is The Starting Gun, Not The Finish Line",
+      "summary": "Midi Health’s Joanna Strober built the first menopause unicorn on one argument: Menopause is the starting gun for women's longevity, not the finish line.",
+      "url": "https://www.forbes.com/sites/geristengel/2026/04/06/midi-health-menopause-is-the-starting-gun-not-the-finish-line/",
+      "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
-        "importance": 82,
+        "importance": 80,
+        "novelty": 78,
+        "confidence": 75,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Catherine O’Hara’s Death Stopped Popular Sitcom Sequel Plans",
+      "summary": "Dan Levy, co-creator and star of Schitt’s Creek, has opened up about how Catherine O’Hara’s death in January 2026 put a stop to any potential sequel plans for the acclaimed comedy. Levy also talked about her talent, their memories, and why the show remains irreplaceable. Dan Levy was ‘thinking about’ Schitt’s Creek sequel before Catherine […] The post Catherine O’Hara’s Death Stopped Popular Sitcom Sequel Plans appeared first on ComingSoon.net - Movie Trailers, TV & Streaming New",
+      "url": "https://www.comingsoon.net/tv/news/2116256-schitts-creek-return-sequel-catherine-ohara-death-dan-levy",
+      "source_name": "ComingSoon.net",
+      "topic": "entertainment",
+      "scores": {
+        "importance": 59,
         "novelty": 77,
         "confidence": 85,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Further Ado Caps A Big Stakes Day For Brad Cox At Keeneland",
-      "summary": "On perhaps the biggest day of the Spring Meet at Keeneland, trainer Brad Cox won three graded Stakes races including the $1.25 million Blue Grass Stakes.",
-      "url": "https://www.forbes.com/sites/dannybrewer/2026/04/06/further-ado-caps-a-big-stakes-day-for-brad-cox-at-keeneland/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "A Seabourn Seder: Luxury And Tradition At Sea",
-      "summary": "Jewish travelers on the luxury cruise ship, Seabourn Encore, experience feelings of connection through a shared Seder meal.",
-      "url": "https://www.forbes.com/sites/irenelevine/2026/04/05/a-seabourn-seder-luxury-and-tradition-at-sea/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 85
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
