@@ -2,79 +2,19 @@
   "slug": "finance-close",
   "date": "2026-04-06",
   "title": "Finance Close",
-  "item_count": 15,
-  "last_published": "2026-04-06T22:01:40.750254+00:00",
+  "item_count": 5,
+  "last_published": "2026-04-06T22:03:36.977892+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Associated Press starts offering buyouts to newspaper journalists amid wider AI transformation",
-      "summary": "The News Media Guild, the union that represents AP journalists, said more than 120 staff members received buyout offers on Monday.",
-      "url": "https://fortune.com/2026/04/06/associated-press-starts-offering-buyouts-to-newspaper-journalists-amid-wider-ai-transformation/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 93,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "OpenAI asks California, Delaware to investigate Musk's 'anti-competitive behavior' ahead of April trial",
-      "summary": "OpenAI sent a letter to the California and Delaware attorneys general, urging them to investigate \"anti-competitive behavior\" by Elon Musk and his associates.",
-      "url": "https://www.cnbc.com/2026/04/06/openai-asks-california-ag-to-probe-musks-anti-competitive-behavior-.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 93,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "FDA declines to issue specific guidance on health programs' foreign drug imports",
-      "summary": "A CNBC investigation revealed the proliferation of AFPs, which import prescription drugs from overseas in what U.S. regulators say is a violation of import laws.",
-      "url": "https://www.cnbc.com/2026/04/06/fda-says-foreign-drug.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 90,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "S&P 500 aims to extend win streak — plus, a CFO switch at one of our key names",
-      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
-      "url": "https://www.cnbc.com/2026/04/06/sp-500-aims-to-extend-win-streak-plus-a-cfo-switch-at-one-of-our-key-names.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 89,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Insurers Get 2.5% Medicare Advantage Rate Increase Bigger Than Earlier Flat Proposal",
-      "summary": "The Trump administration announced a 2.48% payment increase for Medicare Advantage plans for 2027, a much bigger boost than an earlier proposal that kept rates flat.",
-      "url": "https://www.forbes.com/sites/brucejapsen/2026/04/06/insurers-get-medicare-advantage-25-rate-hike-bigger-than-earlier-flat-proposal/",
+      "title": "Bad News For Trump: Approval Rating Taking A 'Beating' Over Iran War And DHS Shutdown",
+      "summary": "On \"Forbes Newsroom,\" HarrisX founder and CEO Dritan Nesho discussed a new Harvard CAPS/Harris poll on President Trump’s approval rating and the war against Iran.",
+      "url": "https://www.forbes.com/sites/forbestv/2026/04/06/bad-news-for-trump-approval-rating-taking-a-beating-over-iran-war-and-dhs-shutdown/",
       "source_name": "Forbes - Business",
       "topic": "business_finance",
       "scores": {
         "importance": 80,
-        "novelty": 88,
+        "novelty": 80,
         "confidence": 75,
         "user_fit": 90
       },
@@ -82,151 +22,61 @@
       "tags": []
     },
     {
-      "title": "Sam Altman says AI superintelligence is so big that we need a ‘New Deal’—critics say OpenAI’s policy ideas are a cover for ‘regulatory nihilism’",
-      "summary": "OpenAI’s sweeping vision for the AI economy spans everything from public wealth funds to shorter workweeks—but critics say it raises familiar ideas without offering a clear path to action.",
-      "url": "https://fortune.com/2026/04/06/sam-altman-says-ai-superintelligence-is-so-big-that-we-need-a-new-deal-critics-say-openais-policy-ideas-are-a-cover-for-regulatory-nihilism/",
-      "source_name": "Fortune",
+      "title": "3 Utility Stocks With Strong Dividends and Room to Run Higher",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/3-utility-stocks-strong-dividends-132400977.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 80,
-        "novelty": 88,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "AI may replace your financial advisor, MIT professor says — but there's one big hurdle",
-      "summary": "Artificial intelligence has gotten sophisticated with respect to financial advice. But it doesn't have a legal obligation to put clients first.",
-      "url": "https://www.cnbc.com/2026/04/06/ai-has-a-big-problem-when-it-comes-to-financial-advice-mit-professor.html",
-      "source_name": "US Top News and Analysis",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 88,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Braves Chose Walt Weiss As Manager Citing Experience And Continuity",
-      "summary": "Walt Weiss was one of nine managers hired by MLB clubs this season, but among only three that had previous experience managing in the Major Leagues.",
-      "url": "https://www.forbes.com/sites/barrymbloom/2026/04/06/braves-chose-walt-weiss-as-manager-citing-experience-and-continuity/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 87,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Trump is seeking the biggest defense budget surge in 75 years as the Pentagon stays committed to ‘exquisite’ weapons",
-      "summary": "“A global security environment that is less reliant on norms and more reliant on force continues to put upward pressure on defense spending.”",
-      "url": "https://fortune.com/2026/04/06/trump-defense-budget-increase-pentagon-exquisite-weapons-procurement/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 87,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "U.S. Denies Iran’s Claim It Struck USS Tripoli, With 3,500 On Board",
-      "summary": "Rumors circulated online that the Iranian Revolutionary Guard Corps targeted the ship carrying about 3,500 U.S. troops.",
-      "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/06/us-denies-irans-claim-it-struck-uss-tripoli-with-3500-on-board/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
+        "importance": 70,
         "novelty": 86,
-        "confidence": 75,
+        "confidence": 65,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "Deepfakes Could Break Overworked, Underfunded Public Defenders",
-      "summary": "In the deepfake era, proving digital evidence is real requires experts public defenders cannot afford. Their indigent clients are the ones who will pay.",
-      "url": "https://www.forbes.com/sites/larsdaniel/2026/04/06/deepfakes-could-break-overworked-underfunded-public-defenders/",
-      "source_name": "Forbes - Business",
+      "title": "The 1 Stat That Proves Nvidia Remains a Screaming Buy Below $200",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/1-stat-proves-nvidia-remains-133240716.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
+        "importance": 70,
+        "novelty": 84,
+        "confidence": 65,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "10 Years Later, How T-Mobile Arena Paved A Path For Las Vegas Sports",
-      "summary": "As the NBA considers Las Vegas expansion, how the 10th anniversary of T-Mobile Arena's opening carved a way for professional sports in Las Vegas",
-      "url": "https://www.forbes.com/sites/timnewcomb/2026/04/06/10-years-later-how-t-mobile-arena-paved-a-path-for-las-vegas-sports/",
-      "source_name": "Forbes - Business",
+      "title": "This Dividend Stock Is Down 8% and That Makes It One of the Best Buys of the Year",
+      "summary": "",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dividend-stock-down-8-makes-133500383.html",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
+        "importance": 70,
+        "novelty": 76,
+        "confidence": 65,
         "user_fit": 90
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "AI angst mutates into ‘FOBO’ as Fear of Becoming Obsolete takes over American workforces",
-      "summary": "EY’s Joe Depa says he sees a split in staff. There’s “high adoption, right out of the gate” for juniors, but senior workers “are somewhat resistant.”",
-      "url": "https://fortune.com/2026/04/05/what-is-fobo-ai-angst-adoption/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "Official Trailer for Coming-of-Age Movie 'Mabel' About a Plant Lover",
+      "summary": "\"Sometimes I feel like plants are more interesting than people.\" \"They are.\" 🌱 Tribeca Films has debuted a charming official trailer for the film Mabel, an indie coming-of-age creation from filmmaker Nicholas Ma making his feature directorial debut. This originally premiered back in 2024 at the San Francisco Film Fest and has been waiting to be released ever since. Now coming out in limited theaters (NY and LA to start) this month. No one really gets Callie, an awkward pre-teen whose one",
+      "url": "https://www.firstshowing.net/2026/official-trailer-for-coming-of-age-movie-mabel-about-a-plant-lover/",
+      "source_name": "FirstShowing.net",
+      "topic": "entertainment",
       "scores": {
-        "importance": 80,
-        "novelty": 86,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Team USA Hockey Hero Jack Hughes Shows Off His New Smile",
-      "summary": "Jack Hughes is finally flashing his new smile in public after getting his front teeth busted out during Team USA’s gold medal victory over Canada at the Milan Cortina Olympics in February.",
-      "url": "https://www.forbes.com/sites/timlammers/2026/04/06/team-usa-olympics-hockey-hero-jack-hughes-shows-off-his-new-smile/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "‘No one’s raising their hand’: Japan’s labor crisis is making the case for robots taking the jobs you don’t want",
-      "summary": "Japan is looking to become the dominant source of robotics by 2040, expedited by an aging population and a growing need for labor.",
-      "url": "https://fortune.com/2026/04/06/japan-labor-shortage-robots-ai-robotics-humanoid/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 90
+        "importance": 59,
+        "novelty": 76,
+        "confidence": 85,
+        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
