@@ -2,51 +2,156 @@
   "slug": "ai-daily",
   "date": "2026-04-06",
   "title": "Ai Daily",
-  "item_count": 3,
-  "last_published": "2026-04-06T12:04:37.397087+00:00",
+  "item_count": 10,
+  "last_published": "2026-04-06T12:05:36.668708+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Robinhood Ventures has rebounded 30% since its lackluster debut. Can the new private markets fund now withstand the mega IPOs?",
-      "summary": "Shareholders in private companies are holding their breath as SpaceX, OpenAI, and Anthropic look to make big splashes in the public markets.",
-      "url": "https://fortune.com/2026/04/06/robinhood-ventures-mega-ipo-era-sarah-pinto/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
+      "title": "Jon Jones gives his side of viral road altercation video and says he is ‘glad’",
+      "summary": "Jon Jones has addressed the viral road altercation that placed him back under scrutiny, offering a sharply different version of events to the one circulating online. The footage, recorded in Albuquerque, New Mexico, using Meta Glasses, shows ‘Bones’ confronting driver Bryan Beltran during a heated roadside exchange.",
+      "url": "https://sports.yahoo.com/articles/jon-jones-gives-side-viral-115607742.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
       "scores": {
-        "importance": 80,
+        "importance": 72,
         "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
+        "confidence": 85,
+        "user_fit": 80
       },
       "why_it_matters": "",
       "tags": []
     },
     {
-      "title": "A quantum threat to Bitcoin has some asking the unthinkable: Is it time to freeze old wallets belonging to Satoshi Nakamoto?",
-      "summary": "A hacker with quantum tools could crack open old Bitcoin wallets and flood the market as soon as 2029.",
-      "url": "https://fortune.com/crypto/2026/04/06/quantum-computing-satoshi-nakamoto-bitcoin-freeze-wallets/",
-      "source_name": "Fortune",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 85,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "The real impact of AI on SaaS isn’t what investors think",
-      "summary": "Lower costs and easier coding could fuel a surge in new software—not the end of it.",
-      "url": "https://fortune.com/2026/04/06/the-real-impact-of-ai-on-saas-isnt-what-investors-think/",
-      "source_name": "Fortune",
+      "title": "Molson Coors looks outside of beer for stronger growth",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4572647-molson-coors-looks-outside-of-beer-for-stronger-growth?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
       "topic": "business_finance",
       "scores": {
         "importance": 70,
-        "novelty": 78,
-        "confidence": 75,
+        "novelty": 88,
+        "confidence": 65,
         "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Old Republic launches new company to underwrite specialized property insurance products",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4572641-old-republic-launches-new-company-to-undewrite-specialized-property-insurance-products?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 85,
+        "confidence": 65,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "There’s a new No 2! The 10 fastest Bundesliga players ever",
+      "summary": "Top speeds are repeatedly being recorded in the Bundesliga. That was also the case this weekend in Union’s 1-1 draw against St. Pauli. Since data collection began in the 2013/14 season, the records ...",
+      "url": "https://sports.yahoo.com/articles/no-2-10-fastest-bundesliga-115300464.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 75,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Arbeloa talks Mbappe, Bellingham, Alaba, Mallorca defeat ahead of Real Madrid vs Bayern Munich",
+      "summary": "With anticipation building ahead of a blockbuster UEFA Champions League quarter-final, Real Madrid manager Alvaro Arbeloa addressed the media with clarity, confidence, and a clear sense of purpose bef...",
+      "url": "https://sports.yahoo.com/articles/arbeloa-talks-mbappe-bellingham-alaba-115500454.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 71,
+        "novelty": 70,
+        "confidence": 85,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Twilio rises after Jefferies upgrades to Buy",
+      "summary": "",
+      "url": "https://seekingalpha.com/news/4572640-twilio-rises-after-jefferies-upgrades-to-buy?utm_source=feed_news_all&utm_medium=referral&feed_item_type=news",
+      "source_name": "Breaking News on Seeking Alpha",
+      "topic": "business_finance",
+      "scores": {
+        "importance": 70,
+        "novelty": 72,
+        "confidence": 65,
+        "user_fit": 85
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "What Channel Is UConn vs. Michigan On? Live Stream, Start Time for Men's Championship Game",
+      "summary": "Here is everything you need to know about UConn vs. Michigan, including TV and streaming options for the national championship game.",
+      "url": "https://sports.yahoo.com/articles/channel-uconn-vs-michigan-live-120002016.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 70,
+        "novelty": 68,
+        "confidence": 75,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Grand National: Weights and entries for 2026 race",
+      "summary": "All the weights and entries for the Grand National at Aintree on 11 April.",
+      "url": "https://sports.yahoo.com/articles/grand-national-weights-entries-2026-152446733.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 60,
+        "novelty": 76,
+        "confidence": 75,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Vote now for The News Tribune’s Boys Athlete of the Week (March 30 to April 4)",
+      "summary": "Voting will remain open until noon Wednesday.",
+      "url": "https://sports.yahoo.com/articles/vote-now-news-tribune-boys-120000578.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 60,
+        "novelty": 76,
+        "confidence": 65,
+        "user_fit": 80
+      },
+      "why_it_matters": "",
+      "tags": []
+    },
+    {
+      "title": "Vote now for The News Tribune’s Girls Athlete of the Week (March 30 to April 4)",
+      "summary": "Voting will remain open until noon Wednesday.",
+      "url": "https://sports.yahoo.com/articles/vote-now-news-tribune-girls-120000735.html",
+      "source_name": "Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+      "topic": "sports",
+      "scores": {
+        "importance": 60,
+        "novelty": 76,
+        "confidence": 65,
+        "user_fit": 80
       },
       "why_it_matters": "",
       "tags": []
