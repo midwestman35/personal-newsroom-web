@@ -2,66 +2,21 @@
   "slug": "morning-brief",
   "date": "2026-04-06",
   "title": "Morning Brief",
-  "item_count": 4,
-  "last_published": "2026-04-06T12:02:28.840729+00:00",
+  "item_count": 1,
+  "last_published": "2026-04-06T12:02:36.380780+00:00",
   "freshness_seconds": 300,
   "items": [
     {
-      "title": "Red Sox Skipper Sends 4-Word Trevor Story Message As Concerns Mount",
-      "summary": "Boston Red Sox manager Alex Cora offered a direct response when asked if it’s time to move the shortstop out of the two hole.",
-      "url": "https://www.forbes.com/sites/peterchawaga/2026/04/06/red-sox-skipper-sends-4-word-trevor-story-message-as-concerns-mount/",
-      "source_name": "Forbes - Business",
+      "title": "Tesla Bounces Back After Disappointing Deliveries. This Matters More for the Stock.",
+      "summary": "",
+      "url": "https://www.barrons.com/articles/tesla-stock-price-today-robo-taxi-a0163ea7?siteid=yhoof2&yptr=yahoo",
+      "source_name": "Yahoo Finance",
       "topic": "business_finance",
       "scores": {
-        "importance": 80,
-        "novelty": 81,
-        "confidence": 75,
+        "importance": 70,
+        "novelty": 82,
+        "confidence": 65,
         "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Former Top Prospect Taj Bradley Dealing For Twins - Is It Real?",
-      "summary": "Acquired from the Rays for Griffin Jax in 2025, Bradley has had two very successful starts to open 2026. Below the surface, however, contact management issues persist.",
-      "url": "https://www.forbes.com/sites/tonyblengino/2026/04/06/former-top-prospect-taj-bradley-dealing-for-twinsis-it-real/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 80,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Midi Health: Menopause Is The Starting Gun, Not The Finish Line",
-      "summary": "Midi Health’s Joanna Strober built the first menopause unicorn on one argument: Menopause is the starting gun for women's longevity, not the finish line.",
-      "url": "https://www.forbes.com/sites/geristengel/2026/04/06/midi-health-menopause-is-the-starting-gun-not-the-finish-line/",
-      "source_name": "Forbes - Business",
-      "topic": "business_finance",
-      "scores": {
-        "importance": 80,
-        "novelty": 78,
-        "confidence": 75,
-        "user_fit": 85
-      },
-      "why_it_matters": "",
-      "tags": []
-    },
-    {
-      "title": "Catherine O’Hara’s Death Stopped Popular Sitcom Sequel Plans",
-      "summary": "Dan Levy, co-creator and star of Schitt’s Creek, has opened up about how Catherine O’Hara’s death in January 2026 put a stop to any potential sequel plans for the acclaimed comedy. Levy also talked about her talent, their memories, and why the show remains irreplaceable. Dan Levy was ‘thinking about’ Schitt’s Creek sequel before Catherine […] The post Catherine O’Hara’s Death Stopped Popular Sitcom Sequel Plans appeared first on ComingSoon.net - Movie Trailers, TV & Streaming New",
-      "url": "https://www.comingsoon.net/tv/news/2116256-schitts-creek-return-sequel-catherine-ohara-death-dan-levy",
-      "source_name": "ComingSoon.net",
-      "topic": "entertainment",
-      "scores": {
-        "importance": 59,
-        "novelty": 77,
-        "confidence": 85,
-        "user_fit": 45
       },
       "why_it_matters": "",
       "tags": []
